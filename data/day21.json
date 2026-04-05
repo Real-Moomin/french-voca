@@ -1,0 +1,360 @@
+{
+  "day": 21,
+  "title": "Strategie d apprentissage",
+  "theme": "학습 전략",
+  "description": "기억과 집중, 계획, 반복 학습에 맞춘 표현입니다.",
+  "words": [
+    {
+      "word": "la societe",
+      "partOfSpeech": "noun",
+      "meaning": "사회",
+      "example": "On rencontre souvent la societe quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "la diversite",
+      "partOfSpeech": "noun",
+      "meaning": "다양성",
+      "example": "Dans la vraie vie, la diversite revient souvent quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "le respect",
+      "partOfSpeech": "noun",
+      "meaning": "존중",
+      "example": "Je remarque souvent le respect quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "le projet",
+      "partOfSpeech": "noun",
+      "meaning": "프로젝트",
+      "example": "On rencontre souvent le projet quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "l'equipe",
+      "partOfSpeech": "noun",
+      "meaning": "팀",
+      "example": "Dans la vraie vie, l'equipe revient souvent quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "la coordination",
+      "partOfSpeech": "noun",
+      "meaning": "조율",
+      "example": "Je remarque souvent la coordination quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "l'evenement",
+      "partOfSpeech": "noun",
+      "meaning": "행사",
+      "example": "On rencontre souvent l'evenement quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "l'invitation",
+      "partOfSpeech": "noun",
+      "meaning": "초대",
+      "example": "Dans la vraie vie, l'invitation revient souvent quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "le programme",
+      "partOfSpeech": "noun",
+      "meaning": "일정표",
+      "example": "Je remarque souvent le programme quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "le demenagement",
+      "partOfSpeech": "noun",
+      "meaning": "이사",
+      "example": "On rencontre souvent le demenagement quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "le carton",
+      "partOfSpeech": "noun",
+      "meaning": "상자",
+      "example": "Dans la vraie vie, le carton revient souvent quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "le contrat",
+      "partOfSpeech": "noun",
+      "meaning": "계약",
+      "example": "Je remarque souvent le contrat quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "le loyer",
+      "partOfSpeech": "noun",
+      "meaning": "월세",
+      "example": "On rencontre souvent le loyer quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "le client",
+      "partOfSpeech": "noun",
+      "meaning": "고객",
+      "example": "Dans la vraie vie, le client revient souvent quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "la reclamation",
+      "partOfSpeech": "noun",
+      "meaning": "불만 제기",
+      "example": "Je remarque souvent la reclamation quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "recycler",
+      "partOfSpeech": "verb",
+      "meaning": "재활용하다",
+      "example": "En general, je dois recycler quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "reduire",
+      "partOfSpeech": "verb",
+      "meaning": "줄이다",
+      "example": "Dans cette scene, nous pouvons reduire sans perdre de temps quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "proteger",
+      "partOfSpeech": "verb",
+      "meaning": "보호하다",
+      "example": "Il faut parfois proteger naturellement quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "eteindre",
+      "partOfSpeech": "verb",
+      "meaning": "끄다",
+      "example": "En general, je dois eteindre quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "retirer",
+      "partOfSpeech": "verb",
+      "meaning": "인출하다",
+      "example": "Dans cette scene, nous pouvons retirer sans perdre de temps quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "virer",
+      "partOfSpeech": "verb",
+      "meaning": "송금하다",
+      "example": "Il faut parfois virer naturellement quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "facturer",
+      "partOfSpeech": "verb",
+      "meaning": "청구하다",
+      "example": "En general, je dois facturer quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "rembourser",
+      "partOfSpeech": "verb",
+      "meaning": "환불하다",
+      "example": "Dans cette scene, nous pouvons rembourser sans perdre de temps quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "negocier",
+      "partOfSpeech": "verb",
+      "meaning": "협상하다",
+      "example": "Il faut parfois negocier naturellement quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "publier",
+      "partOfSpeech": "verb",
+      "meaning": "게시하다",
+      "example": "En general, je dois publier quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "commenter",
+      "partOfSpeech": "verb",
+      "meaning": "댓글 달다",
+      "example": "Dans cette scene, nous pouvons commenter sans perdre de temps quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "diffuser",
+      "partOfSpeech": "verb",
+      "meaning": "배포하다",
+      "example": "Il faut parfois diffuser naturellement quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "debattre",
+      "partOfSpeech": "verb",
+      "meaning": "토론하다",
+      "example": "En general, je dois debattre quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "identifier",
+      "partOfSpeech": "verb",
+      "meaning": "파악하다",
+      "example": "Dans cette scene, nous pouvons identifier sans perdre de temps quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "resoudre",
+      "partOfSpeech": "verb",
+      "meaning": "해결하다",
+      "example": "Il faut parfois resoudre naturellement quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "essentiel",
+      "partOfSpeech": "adjective",
+      "meaning": "핵심적인",
+      "example": "Il vaut souvent mieux etre essentiel quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "attentif",
+      "partOfSpeech": "adjective",
+      "meaning": "주의 깊은",
+      "example": "Rester attentif aide beaucoup quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "motive",
+      "partOfSpeech": "adjective",
+      "meaning": "동기부여된",
+      "example": "Essayer d'etre motive fait souvent la difference quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "autonome",
+      "partOfSpeech": "adjective",
+      "meaning": "자율적인",
+      "example": "Il vaut souvent mieux etre autonome quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "patient",
+      "partOfSpeech": "adjective",
+      "meaning": "끈기 있는",
+      "example": "Rester patient aide beaucoup quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "social",
+      "partOfSpeech": "adjective",
+      "meaning": "사회적인",
+      "example": "Essayer d'etre social fait souvent la difference quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "collectif",
+      "partOfSpeech": "adjective",
+      "meaning": "공동의",
+      "example": "Il vaut souvent mieux etre collectif quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "inclusif",
+      "partOfSpeech": "adjective",
+      "meaning": "포용적인",
+      "example": "Rester inclusif aide beaucoup quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "strategique",
+      "partOfSpeech": "adjective",
+      "meaning": "전략적인",
+      "example": "Essayer d'etre strategique fait souvent la difference quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "realiste",
+      "partOfSpeech": "adjective",
+      "meaning": "현실적인",
+      "example": "Il vaut souvent mieux etre realiste quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "en copie",
+      "partOfSpeech": "adverb",
+      "meaning": "참조로",
+      "example": "On agit souvent en copie quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "sans erreur",
+      "partOfSpeech": "adverb",
+      "meaning": "실수 없이",
+      "example": "Dans la vraie vie, on fait souvent cela sans erreur quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "dans les regles",
+      "partOfSpeech": "adverb",
+      "meaning": "규정대로",
+      "example": "On entend souvent cette expression, dans les regles, quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "au quotidien",
+      "partOfSpeech": "adverb",
+      "meaning": "일상적으로",
+      "example": "On agit souvent au quotidien quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "a long terme",
+      "partOfSpeech": "adverb",
+      "meaning": "장기적으로",
+      "example": "Dans la vraie vie, on fait souvent cela a long terme quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "sans gaspillage",
+      "partOfSpeech": "adverb",
+      "meaning": "낭비 없이",
+      "example": "On entend souvent cette expression, sans gaspillage, quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "autant que possible",
+      "partOfSpeech": "adverb",
+      "meaning": "가능한 한",
+      "example": "On agit souvent autant que possible quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "a credit",
+      "partOfSpeech": "adverb",
+      "meaning": "카드로",
+      "example": "Dans la vraie vie, on fait souvent cela a credit quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "au total",
+      "partOfSpeech": "adverb",
+      "meaning": "총합으로",
+      "example": "On entend souvent cette expression, au total, quand j'essaie d'apprendre plus efficacement."
+    },
+    {
+      "word": "sans frais",
+      "partOfSpeech": "adverb",
+      "meaning": "수수료 없이",
+      "example": "On agit souvent sans frais quand j'essaie d'apprendre plus efficacement."
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent quand j'essaie d'apprendre plus efficacement.",
+      "answer": "la diversite",
+      "hint": "다양성"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent quand j'essaie d'apprendre plus efficacement.",
+      "answer": "l'equipe",
+      "hint": "팀"
+    },
+    {
+      "sentence": "On rencontre souvent ____ quand j'essaie d'apprendre plus efficacement.",
+      "answer": "le demenagement",
+      "hint": "이사"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent quand j'essaie d'apprendre plus efficacement.",
+      "answer": "le client",
+      "hint": "고객"
+    },
+    {
+      "sentence": "En general, je dois ____ quand j'essaie d'apprendre plus efficacement.",
+      "answer": "eteindre",
+      "hint": "끄다"
+    },
+    {
+      "sentence": "Dans cette scene, nous pouvons ____ sans perdre de temps quand j'essaie d'apprendre plus efficacement.",
+      "answer": "rembourser",
+      "hint": "환불하다"
+    },
+    {
+      "sentence": "Il faut parfois ____ naturellement quand j'essaie d'apprendre plus efficacement.",
+      "answer": "resoudre",
+      "hint": "해결하다"
+    },
+    {
+      "sentence": "Rester ____ aide beaucoup quand j'essaie d'apprendre plus efficacement.",
+      "answer": "patient",
+      "hint": "끈기 있는"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ quand j'essaie d'apprendre plus efficacement.",
+      "answer": "sans erreur",
+      "hint": "실수 없이"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ quand j'essaie d'apprendre plus efficacement.",
+      "answer": "a credit",
+      "hint": "카드로"
+    }
+  ]
+}

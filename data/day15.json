@@ -1,0 +1,360 @@
+{
+  "day": 15,
+  "title": "Administration",
+  "theme": "행정과 서류",
+  "description": "신청과 제출, 확인, 공식 절차에 필요한 표현입니다.",
+  "words": [
+    {
+      "word": "le document",
+      "partOfSpeech": "noun",
+      "meaning": "문서",
+      "example": "On rencontre souvent le document au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "la demande",
+      "partOfSpeech": "noun",
+      "meaning": "신청",
+      "example": "Dans la vraie vie, la demande revient souvent au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "l'environnement",
+      "partOfSpeech": "noun",
+      "meaning": "환경",
+      "example": "Je remarque souvent l'environnement au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "le recyclage",
+      "partOfSpeech": "noun",
+      "meaning": "재활용",
+      "example": "On rencontre souvent le recyclage au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "l'energie",
+      "partOfSpeech": "noun",
+      "meaning": "에너지",
+      "example": "Dans la vraie vie, l'energie revient souvent au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "le budget",
+      "partOfSpeech": "noun",
+      "meaning": "예산",
+      "example": "Je remarque souvent le budget au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "la depense",
+      "partOfSpeech": "noun",
+      "meaning": "지출",
+      "example": "On rencontre souvent la depense au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "le paiement",
+      "partOfSpeech": "noun",
+      "meaning": "결제",
+      "example": "Dans la vraie vie, le paiement revient souvent au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "la facture",
+      "partOfSpeech": "noun",
+      "meaning": "청구서",
+      "example": "Je remarque souvent la facture au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "le remboursement",
+      "partOfSpeech": "noun",
+      "meaning": "환불",
+      "example": "On rencontre souvent le remboursement au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "l'actualite",
+      "partOfSpeech": "noun",
+      "meaning": "시사",
+      "example": "Dans la vraie vie, l'actualite revient souvent au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "le commentaire",
+      "partOfSpeech": "noun",
+      "meaning": "댓글",
+      "example": "Je remarque souvent le commentaire au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "la publication",
+      "partOfSpeech": "noun",
+      "meaning": "게시물",
+      "example": "On rencontre souvent la publication au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "l'article",
+      "partOfSpeech": "noun",
+      "meaning": "기사",
+      "example": "Dans la vraie vie, l'article revient souvent au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "le probleme",
+      "partOfSpeech": "noun",
+      "meaning": "문제",
+      "example": "Je remarque souvent le probleme au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "deposer",
+      "partOfSpeech": "verb",
+      "meaning": "맡기다",
+      "example": "En general, je dois deposer au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "ouvrir",
+      "partOfSpeech": "verb",
+      "meaning": "열다",
+      "example": "Dans cette scene, nous pouvons ouvrir sans perdre de temps au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "changer",
+      "partOfSpeech": "verb",
+      "meaning": "바꾸다",
+      "example": "Il faut parfois changer naturellement au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "regler",
+      "partOfSpeech": "verb",
+      "meaning": "조정하다",
+      "example": "En general, je dois regler au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "sourire",
+      "partOfSpeech": "verb",
+      "meaning": "미소 짓다",
+      "example": "Dans cette scene, nous pouvons sourire sans perdre de temps au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "rassurer",
+      "partOfSpeech": "verb",
+      "meaning": "안심시키다",
+      "example": "Il faut parfois rassurer naturellement au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "soutenir",
+      "partOfSpeech": "verb",
+      "meaning": "응원하다",
+      "example": "En general, je dois soutenir au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "pardonner",
+      "partOfSpeech": "verb",
+      "meaning": "용서하다",
+      "example": "Dans cette scene, nous pouvons pardonner sans perdre de temps au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "apprecier",
+      "partOfSpeech": "verb",
+      "meaning": "좋아하다",
+      "example": "Il faut parfois apprecier naturellement au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "prevoir",
+      "partOfSpeech": "verb",
+      "meaning": "예상하다",
+      "example": "En general, je dois prevoir au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "s'adapter",
+      "partOfSpeech": "verb",
+      "meaning": "적응하다",
+      "example": "Dans cette scene, nous pouvons s'adapter sans perdre de temps au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "observer",
+      "partOfSpeech": "verb",
+      "meaning": "관찰하다",
+      "example": "Il faut parfois observer naturellement au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "visiter",
+      "partOfSpeech": "verb",
+      "meaning": "방문하다",
+      "example": "En general, je dois visiter au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "lire",
+      "partOfSpeech": "verb",
+      "meaning": "읽다",
+      "example": "Dans cette scene, nous pouvons lire sans perdre de temps au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "admirer",
+      "partOfSpeech": "verb",
+      "meaning": "감상하다",
+      "example": "Il faut parfois admirer naturellement au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "culturel",
+      "partOfSpeech": "adjective",
+      "meaning": "문화적인",
+      "example": "Il vaut souvent mieux etre culturel au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "officiel",
+      "partOfSpeech": "adjective",
+      "meaning": "공식적인",
+      "example": "Rester officiel aide beaucoup au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "obligatoire",
+      "partOfSpeech": "adjective",
+      "meaning": "의무적인",
+      "example": "Essayer d'etre obligatoire fait souvent la difference au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "administratif",
+      "partOfSpeech": "adjective",
+      "meaning": "행정의",
+      "example": "Il vaut souvent mieux etre administratif au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "valide",
+      "partOfSpeech": "adjective",
+      "meaning": "유효한",
+      "example": "Rester valide aide beaucoup au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "ecologique",
+      "partOfSpeech": "adjective",
+      "meaning": "친환경적인",
+      "example": "Essayer d'etre ecologique fait souvent la difference au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "durable",
+      "partOfSpeech": "adjective",
+      "meaning": "지속 가능한",
+      "example": "Il vaut souvent mieux etre durable au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "responsable",
+      "partOfSpeech": "adjective",
+      "meaning": "책임감 있는",
+      "example": "Rester responsable aide beaucoup au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "gratuit",
+      "partOfSpeech": "adjective",
+      "meaning": "무료의",
+      "example": "Essayer d'etre gratuit fait souvent la difference au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "mensuel",
+      "partOfSpeech": "adjective",
+      "meaning": "월간의",
+      "example": "Il vaut souvent mieux etre mensuel au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "a l'avance",
+      "partOfSpeech": "adverb",
+      "meaning": "미리",
+      "example": "On agit souvent a l'avance au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "de passage",
+      "partOfSpeech": "adverb",
+      "meaning": "지나는 길에",
+      "example": "Dans la vraie vie, on fait souvent cela de passage au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "aller-retour",
+      "partOfSpeech": "adverb",
+      "meaning": "왕복으로",
+      "example": "On entend souvent cette expression, aller-retour, au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "au complet",
+      "partOfSpeech": "adverb",
+      "meaning": "만실로",
+      "example": "On agit souvent au complet au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "en silence",
+      "partOfSpeech": "adverb",
+      "meaning": "조용히",
+      "example": "Dans la vraie vie, on fait souvent cela en silence au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "de tout coeur",
+      "partOfSpeech": "adverb",
+      "meaning": "진심으로",
+      "example": "On entend souvent cette expression, de tout coeur, au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "sans doute",
+      "partOfSpeech": "adverb",
+      "meaning": "아마",
+      "example": "On agit souvent sans doute au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "a vrai dire",
+      "partOfSpeech": "adverb",
+      "meaning": "사실은",
+      "example": "Dans la vraie vie, on fait souvent cela a vrai dire au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "heureusement",
+      "partOfSpeech": "adverb",
+      "meaning": "다행히",
+      "example": "On entend souvent cette expression, heureusement, au moment de remplir un dossier officiel."
+    },
+    {
+      "word": "malheureusement",
+      "partOfSpeech": "adverb",
+      "meaning": "유감스럽게도",
+      "example": "On agit souvent malheureusement au moment de remplir un dossier officiel."
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent au moment de remplir un dossier officiel.",
+      "answer": "la demande",
+      "hint": "신청"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent au moment de remplir un dossier officiel.",
+      "answer": "l'energie",
+      "hint": "에너지"
+    },
+    {
+      "sentence": "On rencontre souvent ____ au moment de remplir un dossier officiel.",
+      "answer": "le remboursement",
+      "hint": "환불"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent au moment de remplir un dossier officiel.",
+      "answer": "l'article",
+      "hint": "기사"
+    },
+    {
+      "sentence": "En general, je dois ____ au moment de remplir un dossier officiel.",
+      "answer": "regler",
+      "hint": "조정하다"
+    },
+    {
+      "sentence": "Dans cette scene, nous pouvons ____ sans perdre de temps au moment de remplir un dossier officiel.",
+      "answer": "pardonner",
+      "hint": "용서하다"
+    },
+    {
+      "sentence": "Il faut parfois ____ naturellement au moment de remplir un dossier officiel.",
+      "answer": "admirer",
+      "hint": "감상하다"
+    },
+    {
+      "sentence": "Rester ____ aide beaucoup au moment de remplir un dossier officiel.",
+      "answer": "valide",
+      "hint": "유효한"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ au moment de remplir un dossier officiel.",
+      "answer": "de passage",
+      "hint": "지나는 길에"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ au moment de remplir un dossier officiel.",
+      "answer": "a vrai dire",
+      "hint": "사실은"
+    }
+  ]
+}

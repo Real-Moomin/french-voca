@@ -1,0 +1,9 @@
+{
+  "name": "french-voca",
+  "version": "1.0.0",
+  "private": true,
+  "description": "French vocabulary browser with day-based JSON data",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

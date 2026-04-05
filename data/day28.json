@@ -1,0 +1,360 @@
+{
+  "day": 28,
+  "title": "Regles et securite",
+  "theme": "규칙과 안전",
+  "description": "주의와 금지, 허가, 긴급 상황 표현입니다.",
+  "words": [
+    {
+      "word": "la famille",
+      "partOfSpeech": "noun",
+      "meaning": "가족",
+      "example": "On rencontre souvent la famille dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "la chambre",
+      "partOfSpeech": "noun",
+      "meaning": "방",
+      "example": "Dans la vraie vie, la chambre revient souvent dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "la cuisine",
+      "partOfSpeech": "noun",
+      "meaning": "부엌",
+      "example": "Je remarque souvent la cuisine dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "le quartier",
+      "partOfSpeech": "noun",
+      "meaning": "동네",
+      "example": "On rencontre souvent le quartier dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "le cours",
+      "partOfSpeech": "noun",
+      "meaning": "수업",
+      "example": "Dans la vraie vie, le cours revient souvent dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "le devoir",
+      "partOfSpeech": "noun",
+      "meaning": "과제",
+      "example": "Je remarque souvent le devoir dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "la methode",
+      "partOfSpeech": "noun",
+      "meaning": "방법",
+      "example": "On rencontre souvent la methode dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "la question",
+      "partOfSpeech": "noun",
+      "meaning": "질문",
+      "example": "Dans la vraie vie, la question revient souvent dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "la reponse",
+      "partOfSpeech": "noun",
+      "meaning": "답변",
+      "example": "Je remarque souvent la reponse dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "la ville",
+      "partOfSpeech": "noun",
+      "meaning": "도시",
+      "example": "On rencontre souvent la ville dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "la station",
+      "partOfSpeech": "noun",
+      "meaning": "역",
+      "example": "Dans la vraie vie, la station revient souvent dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "le trajet",
+      "partOfSpeech": "noun",
+      "meaning": "이동 경로",
+      "example": "Je remarque souvent le trajet dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "le ticket",
+      "partOfSpeech": "noun",
+      "meaning": "승차권",
+      "example": "On rencontre souvent le ticket dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "le magasin",
+      "partOfSpeech": "noun",
+      "meaning": "가게",
+      "example": "Dans la vraie vie, le magasin revient souvent dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "le produit",
+      "partOfSpeech": "noun",
+      "meaning": "상품",
+      "example": "Je remarque souvent le produit dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "demander",
+      "partOfSpeech": "verb",
+      "meaning": "요청하다",
+      "example": "En general, je dois demander dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "expliquer",
+      "partOfSpeech": "verb",
+      "meaning": "설명하다",
+      "example": "Dans cette scene, nous pouvons expliquer sans perdre de temps dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "commencer",
+      "partOfSpeech": "verb",
+      "meaning": "시작하다",
+      "example": "Il faut parfois commencer naturellement dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "continuer",
+      "partOfSpeech": "verb",
+      "meaning": "계속하다",
+      "example": "En general, je dois continuer dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "ranger",
+      "partOfSpeech": "verb",
+      "meaning": "정리하다",
+      "example": "Dans cette scene, nous pouvons ranger sans perdre de temps dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "nettoyer",
+      "partOfSpeech": "verb",
+      "meaning": "청소하다",
+      "example": "Il faut parfois nettoyer naturellement dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "preparer",
+      "partOfSpeech": "verb",
+      "meaning": "준비하다",
+      "example": "En general, je dois preparer dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "inviter",
+      "partOfSpeech": "verb",
+      "meaning": "초대하다",
+      "example": "Dans cette scene, nous pouvons inviter sans perdre de temps dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "etudier",
+      "partOfSpeech": "verb",
+      "meaning": "공부하다",
+      "example": "Il faut parfois etudier naturellement dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "memoriser",
+      "partOfSpeech": "verb",
+      "meaning": "암기하다",
+      "example": "En general, je dois memoriser dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "relire",
+      "partOfSpeech": "verb",
+      "meaning": "다시 읽다",
+      "example": "Dans cette scene, nous pouvons relire sans perdre de temps dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "comparer",
+      "partOfSpeech": "verb",
+      "meaning": "비교하다",
+      "example": "Il faut parfois comparer naturellement dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "corriger",
+      "partOfSpeech": "verb",
+      "meaning": "수정하다",
+      "example": "En general, je dois corriger dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "progresser",
+      "partOfSpeech": "verb",
+      "meaning": "향상되다",
+      "example": "Dans cette scene, nous pouvons progresser sans perdre de temps dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "se deplacer",
+      "partOfSpeech": "verb",
+      "meaning": "이동하다",
+      "example": "Il faut parfois se deplacer naturellement dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "dangereux",
+      "partOfSpeech": "adjective",
+      "meaning": "위험한",
+      "example": "Il vaut souvent mieux etre dangereux dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "autorise",
+      "partOfSpeech": "adjective",
+      "meaning": "허용된",
+      "example": "Rester autorise aide beaucoup dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "preventif",
+      "partOfSpeech": "adjective",
+      "meaning": "예방의",
+      "example": "Essayer d'etre preventif fait souvent la difference dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "logique",
+      "partOfSpeech": "adjective",
+      "meaning": "논리적인",
+      "example": "Il vaut souvent mieux etre logique dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "fluide",
+      "partOfSpeech": "adjective",
+      "meaning": "자연스러운",
+      "example": "Rester fluide aide beaucoup dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "pertinent",
+      "partOfSpeech": "adjective",
+      "meaning": "적절한",
+      "example": "Essayer d'etre pertinent fait souvent la difference dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "modere",
+      "partOfSpeech": "adjective",
+      "meaning": "적당한",
+      "example": "Il vaut souvent mieux etre modere dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "disponible",
+      "partOfSpeech": "adjective",
+      "meaning": "이용 가능한",
+      "example": "Rester disponible aide beaucoup dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "discret",
+      "partOfSpeech": "adjective",
+      "meaning": "눈에 띄지 않는",
+      "example": "Essayer d'etre discret fait souvent la difference dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "utile",
+      "partOfSpeech": "adjective",
+      "meaning": "유용한",
+      "example": "Il vaut souvent mieux etre utile dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "sans pression",
+      "partOfSpeech": "adverb",
+      "meaning": "부담 없이",
+      "example": "On agit souvent sans pression dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "ensemble",
+      "partOfSpeech": "adverb",
+      "meaning": "함께",
+      "example": "Dans la vraie vie, on fait souvent cela ensemble dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "avec respect",
+      "partOfSpeech": "adverb",
+      "meaning": "존중하며",
+      "example": "On entend souvent cette expression, avec respect, dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "en conclusion",
+      "partOfSpeech": "adverb",
+      "meaning": "결론적으로",
+      "example": "On agit souvent en conclusion dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "tout de suite",
+      "partOfSpeech": "adverb",
+      "meaning": "바로",
+      "example": "Dans la vraie vie, on fait souvent cela tout de suite dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "d'abord",
+      "partOfSpeech": "adverb",
+      "meaning": "우선",
+      "example": "On entend souvent cette expression, d'abord, dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "souvent",
+      "partOfSpeech": "adverb",
+      "meaning": "자주",
+      "example": "On agit souvent souvent dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "en general",
+      "partOfSpeech": "adverb",
+      "meaning": "대체로",
+      "example": "Dans la vraie vie, on fait souvent cela en general dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "a l'heure",
+      "partOfSpeech": "adverb",
+      "meaning": "정시에",
+      "example": "On entend souvent cette expression, a l'heure, dans une situation ou la securite compte d'abord."
+    },
+    {
+      "word": "de bonne heure",
+      "partOfSpeech": "adverb",
+      "meaning": "일찍",
+      "example": "On agit souvent de bonne heure dans une situation ou la securite compte d'abord."
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent dans une situation ou la securite compte d'abord.",
+      "answer": "la chambre",
+      "hint": "방"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent dans une situation ou la securite compte d'abord.",
+      "answer": "le cours",
+      "hint": "수업"
+    },
+    {
+      "sentence": "On rencontre souvent ____ dans une situation ou la securite compte d'abord.",
+      "answer": "la ville",
+      "hint": "도시"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent dans une situation ou la securite compte d'abord.",
+      "answer": "le magasin",
+      "hint": "가게"
+    },
+    {
+      "sentence": "En general, je dois ____ dans une situation ou la securite compte d'abord.",
+      "answer": "continuer",
+      "hint": "계속하다"
+    },
+    {
+      "sentence": "Dans cette scene, nous pouvons ____ sans perdre de temps dans une situation ou la securite compte d'abord.",
+      "answer": "inviter",
+      "hint": "초대하다"
+    },
+    {
+      "sentence": "Il faut parfois ____ naturellement dans une situation ou la securite compte d'abord.",
+      "answer": "se deplacer",
+      "hint": "이동하다"
+    },
+    {
+      "sentence": "Rester ____ aide beaucoup dans une situation ou la securite compte d'abord.",
+      "answer": "fluide",
+      "hint": "자연스러운"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ dans une situation ou la securite compte d'abord.",
+      "answer": "ensemble",
+      "hint": "함께"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ dans une situation ou la securite compte d'abord.",
+      "answer": "en general",
+      "hint": "대체로"
+    }
+  ]
+}
