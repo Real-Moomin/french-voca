@@ -8,301 +8,401 @@
       "word": "la facture",
       "partOfSpeech": "noun",
       "meaning": "청구서",
-      "example": "On rencontre souvent la facture quand je fais attention a mes depenses."
+      "example": "On rencontre souvent la facture quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 청구서 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le remboursement",
       "partOfSpeech": "noun",
       "meaning": "환불",
-      "example": "Dans la vraie vie, le remboursement revient souvent quand je fais attention a mes depenses."
+      "example": "Dans la vraie vie, le remboursement revient souvent quand je fais attention a mes depenses.",
+      "exampleKo": "실생활에서는 지출을 조심할 때 환불이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "l'actualite",
       "partOfSpeech": "noun",
       "meaning": "시사",
-      "example": "Je remarque souvent l'actualite quand je fais attention a mes depenses."
+      "example": "Je remarque souvent l'actualite quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 시사을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le commentaire",
       "partOfSpeech": "noun",
       "meaning": "댓글",
-      "example": "On rencontre souvent le commentaire quand je fais attention a mes depenses."
+      "example": "On rencontre souvent le commentaire quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 댓글 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la publication",
       "partOfSpeech": "noun",
       "meaning": "게시물",
-      "example": "Dans la vraie vie, la publication revient souvent quand je fais attention a mes depenses."
+      "example": "Dans la vraie vie, la publication revient souvent quand je fais attention a mes depenses.",
+      "exampleKo": "실생활에서는 지출을 조심할 때 게시물이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "l'article",
       "partOfSpeech": "noun",
       "meaning": "기사",
-      "example": "Je remarque souvent l'article quand je fais attention a mes depenses."
+      "example": "Je remarque souvent l'article quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 기사을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le probleme",
       "partOfSpeech": "noun",
       "meaning": "문제",
-      "example": "On rencontre souvent le probleme quand je fais attention a mes depenses."
+      "example": "On rencontre souvent le probleme quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 문제 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la solution",
       "partOfSpeech": "noun",
       "meaning": "해결책",
-      "example": "Dans la vraie vie, la solution revient souvent quand je fais attention a mes depenses."
+      "example": "Dans la vraie vie, la solution revient souvent quand je fais attention a mes depenses.",
+      "exampleKo": "실생활에서는 지출을 조심할 때 해결책이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la cause",
       "partOfSpeech": "noun",
       "meaning": "원인",
-      "example": "Je remarque souvent la cause quand je fais attention a mes depenses."
+      "example": "Je remarque souvent la cause quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 원인을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la consequence",
       "partOfSpeech": "noun",
       "meaning": "결과",
-      "example": "On rencontre souvent la consequence quand je fais attention a mes depenses."
+      "example": "On rencontre souvent la consequence quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 결과 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "l'opinion",
       "partOfSpeech": "noun",
       "meaning": "의견",
-      "example": "Dans la vraie vie, l'opinion revient souvent quand je fais attention a mes depenses."
+      "example": "Dans la vraie vie, l'opinion revient souvent quand je fais attention a mes depenses.",
+      "exampleKo": "실생활에서는 지출을 조심할 때 의견이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "l'argument",
       "partOfSpeech": "noun",
       "meaning": "논거",
-      "example": "Je remarque souvent l'argument quand je fais attention a mes depenses."
+      "example": "Je remarque souvent l'argument quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 논거을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la preuve",
       "partOfSpeech": "noun",
       "meaning": "근거",
-      "example": "On rencontre souvent la preuve quand je fais attention a mes depenses."
+      "example": "On rencontre souvent la preuve quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 근거 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la concentration",
       "partOfSpeech": "noun",
       "meaning": "집중",
-      "example": "Dans la vraie vie, la concentration revient souvent quand je fais attention a mes depenses."
+      "example": "Dans la vraie vie, la concentration revient souvent quand je fais attention a mes depenses.",
+      "exampleKo": "실생활에서는 지출을 조심할 때 집중이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "l'objectif",
       "partOfSpeech": "noun",
       "meaning": "목표",
-      "example": "Je remarque souvent l'objectif quand je fais attention a mes depenses."
+      "example": "Je remarque souvent l'objectif quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 목표을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "apprecier",
       "partOfSpeech": "verb",
       "meaning": "좋아하다",
-      "example": "En general, je dois apprecier quand je fais attention a mes depenses."
+      "example": "En general, je dois apprecier quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 좋아하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "prevoir",
       "partOfSpeech": "verb",
       "meaning": "예상하다",
-      "example": "Dans cette scene, nous pouvons prevoir sans perdre de temps quand je fais attention a mes depenses."
+      "example": "Dans cette scene, nous pouvons prevoir sans perdre de temps quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 시간을 끌지 않고 예상하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "s'adapter",
       "partOfSpeech": "verb",
       "meaning": "적응하다",
-      "example": "Il faut parfois s'adapter naturellement quand je fais attention a mes depenses."
+      "example": "Il faut parfois s'adapter naturellement quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 자연스럽게 적응하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "observer",
       "partOfSpeech": "verb",
       "meaning": "관찰하다",
-      "example": "En general, je dois observer quand je fais attention a mes depenses."
+      "example": "En general, je dois observer quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 관찰하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "visiter",
       "partOfSpeech": "verb",
       "meaning": "방문하다",
-      "example": "Dans cette scene, nous pouvons visiter sans perdre de temps quand je fais attention a mes depenses."
+      "example": "Dans cette scene, nous pouvons visiter sans perdre de temps quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 시간을 끌지 않고 방문하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "lire",
       "partOfSpeech": "verb",
       "meaning": "읽다",
-      "example": "Il faut parfois lire naturellement quand je fais attention a mes depenses."
+      "example": "Il faut parfois lire naturellement quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 자연스럽게 읽다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "admirer",
       "partOfSpeech": "verb",
       "meaning": "감상하다",
-      "example": "En general, je dois admirer quand je fais attention a mes depenses."
+      "example": "En general, je dois admirer quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 감상하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "pratiquer",
       "partOfSpeech": "verb",
       "meaning": "연습하다",
-      "example": "Dans cette scene, nous pouvons pratiquer sans perdre de temps quand je fais attention a mes depenses."
+      "example": "Dans cette scene, nous pouvons pratiquer sans perdre de temps quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 시간을 끌지 않고 연습하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "participer",
       "partOfSpeech": "verb",
       "meaning": "참가하다",
-      "example": "Il faut parfois participer naturellement quand je fais attention a mes depenses."
+      "example": "Il faut parfois participer naturellement quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 자연스럽게 참가하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "remplir",
       "partOfSpeech": "verb",
       "meaning": "작성하다",
-      "example": "En general, je dois remplir quand je fais attention a mes depenses."
+      "example": "En general, je dois remplir quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 작성하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "soumettre",
       "partOfSpeech": "verb",
       "meaning": "제출하다",
-      "example": "Dans cette scene, nous pouvons soumettre sans perdre de temps quand je fais attention a mes depenses."
+      "example": "Dans cette scene, nous pouvons soumettre sans perdre de temps quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 시간을 끌지 않고 제출하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "joindre",
       "partOfSpeech": "verb",
       "meaning": "첨부하다",
-      "example": "Il faut parfois joindre naturellement quand je fais attention a mes depenses."
+      "example": "Il faut parfois joindre naturellement quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 자연스럽게 첨부하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "imprimer",
       "partOfSpeech": "verb",
       "meaning": "출력하다",
-      "example": "En general, je dois imprimer quand je fais attention a mes depenses."
+      "example": "En general, je dois imprimer quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 출력하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "classer",
       "partOfSpeech": "verb",
       "meaning": "분류하다",
-      "example": "Dans cette scene, nous pouvons classer sans perdre de temps quand je fais attention a mes depenses."
+      "example": "Dans cette scene, nous pouvons classer sans perdre de temps quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 시간을 끌지 않고 분류하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "declarer",
       "partOfSpeech": "verb",
       "meaning": "신고하다",
-      "example": "Il faut parfois declarer naturellement quand je fais attention a mes depenses."
+      "example": "Il faut parfois declarer naturellement quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 자연스럽게 신고하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "durable",
       "partOfSpeech": "adjective",
       "meaning": "지속 가능한",
-      "example": "Il vaut souvent mieux etre durable quand je fais attention a mes depenses."
+      "example": "Il vaut souvent mieux etre durable quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 지속 가능한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "responsable",
       "partOfSpeech": "adjective",
       "meaning": "책임감 있는",
-      "example": "Rester responsable aide beaucoup quand je fais attention a mes depenses."
+      "example": "Rester responsable aide beaucoup quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 책임감 있는 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "gratuit",
       "partOfSpeech": "adjective",
       "meaning": "무료의",
-      "example": "Essayer d'etre gratuit fait souvent la difference quand je fais attention a mes depenses."
+      "example": "Essayer d'etre gratuit fait souvent la difference quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 무료의 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "mensuel",
       "partOfSpeech": "adjective",
       "meaning": "월간의",
-      "example": "Il vaut souvent mieux etre mensuel quand je fais attention a mes depenses."
+      "example": "Il vaut souvent mieux etre mensuel quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 월간의 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "rentable",
       "partOfSpeech": "adjective",
       "meaning": "가성비 좋은",
-      "example": "Rester rentable aide beaucoup quand je fais attention a mes depenses."
+      "example": "Rester rentable aide beaucoup quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 가성비 좋은 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "public",
       "partOfSpeech": "adjective",
       "meaning": "공공의",
-      "example": "Essayer d'etre public fait souvent la difference quand je fais attention a mes depenses."
+      "example": "Essayer d'etre public fait souvent la difference quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 공공의 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "credible",
       "partOfSpeech": "adjective",
       "meaning": "신뢰할 수 있는",
-      "example": "Il vaut souvent mieux etre credible quand je fais attention a mes depenses."
+      "example": "Il vaut souvent mieux etre credible quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 신뢰할 수 있는 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "complexe",
       "partOfSpeech": "adjective",
       "meaning": "복잡한",
-      "example": "Rester complexe aide beaucoup quand je fais attention a mes depenses."
+      "example": "Rester complexe aide beaucoup quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 복잡한 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "grave",
       "partOfSpeech": "adjective",
       "meaning": "심각한",
-      "example": "Essayer d'etre grave fait souvent la difference quand je fais attention a mes depenses."
+      "example": "Essayer d'etre grave fait souvent la difference quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 심각한 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "acceptable",
       "partOfSpeech": "adjective",
       "meaning": "받아들일 만한",
-      "example": "Il vaut souvent mieux etre acceptable quand je fais attention a mes depenses."
+      "example": "Il vaut souvent mieux etre acceptable quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 받아들일 만한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "sans doute",
       "partOfSpeech": "adverb",
       "meaning": "아마",
-      "example": "On agit souvent sans doute quand je fais attention a mes depenses."
+      "example": "On agit souvent sans doute quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 보통 아마 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a vrai dire",
       "partOfSpeech": "adverb",
       "meaning": "사실은",
-      "example": "Dans la vraie vie, on fait souvent cela a vrai dire quand je fais attention a mes depenses."
+      "example": "Dans la vraie vie, on fait souvent cela a vrai dire quand je fais attention a mes depenses.",
+      "exampleKo": "실생활에서는 지출을 조심할 때 보통 사실은 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "heureusement",
       "partOfSpeech": "adverb",
       "meaning": "다행히",
-      "example": "On entend souvent cette expression, heureusement, quand je fais attention a mes depenses."
+      "example": "On entend souvent cette expression, heureusement, quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 다행히 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "malheureusement",
       "partOfSpeech": "adverb",
       "meaning": "유감스럽게도",
-      "example": "On agit souvent malheureusement quand je fais attention a mes depenses."
+      "example": "On agit souvent malheureusement quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 보통 유감스럽게도 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a mon avis",
       "partOfSpeech": "adverb",
       "meaning": "내 생각에는",
-      "example": "Dans la vraie vie, on fait souvent cela a mon avis quand je fais attention a mes depenses."
+      "example": "Dans la vraie vie, on fait souvent cela a mon avis quand je fais attention a mes depenses.",
+      "exampleKo": "실생활에서는 지출을 조심할 때 보통 내 생각에는 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "demain matin",
       "partOfSpeech": "adverb",
       "meaning": "내일 아침",
-      "example": "On entend souvent cette expression, demain matin, quand je fais attention a mes depenses."
+      "example": "On entend souvent cette expression, demain matin, quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 내일 아침 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "ce soir",
       "partOfSpeech": "adverb",
       "meaning": "오늘 저녁",
-      "example": "On agit souvent ce soir quand je fais attention a mes depenses."
+      "example": "On agit souvent ce soir quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 보통 오늘 저녁 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en ce moment",
       "partOfSpeech": "adverb",
       "meaning": "지금",
-      "example": "Dans la vraie vie, on fait souvent cela en ce moment quand je fais attention a mes depenses."
+      "example": "Dans la vraie vie, on fait souvent cela en ce moment quand je fais attention a mes depenses.",
+      "exampleKo": "실생활에서는 지출을 조심할 때 보통 지금 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "malgre tout",
       "partOfSpeech": "adverb",
       "meaning": "그럼에도",
-      "example": "On entend souvent cette expression, malgre tout, quand je fais attention a mes depenses."
+      "example": "On entend souvent cette expression, malgre tout, quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 그럼에도 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "pour le plaisir",
       "partOfSpeech": "adverb",
       "meaning": "즐거움 때문에",
-      "example": "On agit souvent pour le plaisir quand je fais attention a mes depenses."
+      "example": "On agit souvent pour le plaisir quand je fais attention a mes depenses.",
+      "exampleKo": "지출을 조심할 때 보통 즐거움 때문에 행동하게 된다.",
+      "exampleNote": ""
     }
   ],
   "quiz": [

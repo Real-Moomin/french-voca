@@ -8,301 +8,401 @@
       "word": "la joie",
       "partOfSpeech": "noun",
       "meaning": "기쁨",
-      "example": "On rencontre souvent la joie quand je parle avec un ami proche."
+      "example": "On rencontre souvent la joie quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 기쁨 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la tristesse",
       "partOfSpeech": "noun",
       "meaning": "슬픔",
-      "example": "Dans la vraie vie, la tristesse revient souvent quand je parle avec un ami proche."
+      "example": "Dans la vraie vie, la tristesse revient souvent quand je parle avec un ami proche.",
+      "exampleKo": "실생활에서는 친한 친구와 이야기할 때 슬픔이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la meteo",
       "partOfSpeech": "noun",
       "meaning": "날씨",
-      "example": "Je remarque souvent la meteo quand je parle avec un ami proche."
+      "example": "Je remarque souvent la meteo quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 날씨을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la saison",
       "partOfSpeech": "noun",
       "meaning": "계절",
-      "example": "On rencontre souvent la saison quand je parle avec un ami proche."
+      "example": "On rencontre souvent la saison quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 계절 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la temperature",
       "partOfSpeech": "noun",
       "meaning": "기온",
-      "example": "Dans la vraie vie, la temperature revient souvent quand je parle avec un ami proche."
+      "example": "Dans la vraie vie, la temperature revient souvent quand je parle avec un ami proche.",
+      "exampleKo": "실생활에서는 친한 친구와 이야기할 때 기온이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le soleil",
       "partOfSpeech": "noun",
       "meaning": "태양",
-      "example": "Je remarque souvent le soleil quand je parle avec un ami proche."
+      "example": "Je remarque souvent le soleil quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 태양을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le musee",
       "partOfSpeech": "noun",
       "meaning": "박물관",
-      "example": "On rencontre souvent le musee quand je parle avec un ami proche."
+      "example": "On rencontre souvent le musee quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 박물관 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "l'exposition",
       "partOfSpeech": "noun",
       "meaning": "전시",
-      "example": "Dans la vraie vie, l'exposition revient souvent quand je parle avec un ami proche."
+      "example": "Dans la vraie vie, l'exposition revient souvent quand je parle avec un ami proche.",
+      "exampleKo": "실생활에서는 친한 친구와 이야기할 때 전시이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le concert",
       "partOfSpeech": "noun",
       "meaning": "공연",
-      "example": "Je remarque souvent le concert quand je parle avec un ami proche."
+      "example": "Je remarque souvent le concert quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 공연을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le loisir",
       "partOfSpeech": "noun",
       "meaning": "여가",
-      "example": "On rencontre souvent le loisir quand je parle avec un ami proche."
+      "example": "On rencontre souvent le loisir quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 여가 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le formulaire",
       "partOfSpeech": "noun",
       "meaning": "신청서",
-      "example": "Dans la vraie vie, le formulaire revient souvent quand je parle avec un ami proche."
+      "example": "Dans la vraie vie, le formulaire revient souvent quand je parle avec un ami proche.",
+      "exampleKo": "실생활에서는 친한 친구와 이야기할 때 신청서이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la signature",
       "partOfSpeech": "noun",
       "meaning": "서명",
-      "example": "Je remarque souvent la signature quand je parle avec un ami proche."
+      "example": "Je remarque souvent la signature quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 서명을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le document",
       "partOfSpeech": "noun",
       "meaning": "문서",
-      "example": "On rencontre souvent le document quand je parle avec un ami proche."
+      "example": "On rencontre souvent le document quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 문서 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la demande",
       "partOfSpeech": "noun",
       "meaning": "신청",
-      "example": "Dans la vraie vie, la demande revient souvent quand je parle avec un ami proche."
+      "example": "Dans la vraie vie, la demande revient souvent quand je parle avec un ami proche.",
+      "exampleKo": "실생활에서는 친한 친구와 이야기할 때 신청이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "l'environnement",
       "partOfSpeech": "noun",
       "meaning": "환경",
-      "example": "Je remarque souvent l'environnement quand je parle avec un ami proche."
+      "example": "Je remarque souvent l'environnement quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 환경을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "telecharger",
       "partOfSpeech": "verb",
       "meaning": "다운로드하다",
-      "example": "En general, je dois telecharger quand je parle avec un ami proche."
+      "example": "En general, je dois telecharger quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 다운로드하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "envoyer",
       "partOfSpeech": "verb",
       "meaning": "보내다",
-      "example": "Dans cette scene, nous pouvons envoyer sans perdre de temps quand je parle avec un ami proche."
+      "example": "Dans cette scene, nous pouvons envoyer sans perdre de temps quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 시간을 끌지 않고 보내다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "sauvegarder",
       "partOfSpeech": "verb",
       "meaning": "저장하다",
-      "example": "Il faut parfois sauvegarder naturellement quand je parle avec un ami proche."
+      "example": "Il faut parfois sauvegarder naturellement quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 자연스럽게 저장하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "supprimer",
       "partOfSpeech": "verb",
       "meaning": "삭제하다",
-      "example": "En general, je dois supprimer quand je parle avec un ami proche."
+      "example": "En general, je dois supprimer quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 삭제하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "se connecter",
       "partOfSpeech": "verb",
       "meaning": "로그인하다",
-      "example": "Dans cette scene, nous pouvons se connecter sans perdre de temps quand je parle avec un ami proche."
+      "example": "Dans cette scene, nous pouvons se connecter sans perdre de temps quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 시간을 끌지 않고 로그인하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "verifier",
       "partOfSpeech": "verb",
       "meaning": "확인하다",
-      "example": "Il faut parfois verifier naturellement quand je parle avec un ami proche."
+      "example": "Il faut parfois verifier naturellement quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 자연스럽게 확인하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "emporter",
       "partOfSpeech": "verb",
       "meaning": "챙겨 가다",
-      "example": "En general, je dois emporter quand je parle avec un ami proche."
+      "example": "En general, je dois emporter quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 챙겨 가다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "annuler",
       "partOfSpeech": "verb",
       "meaning": "취소하다",
-      "example": "Dans cette scene, nous pouvons annuler sans perdre de temps quand je parle avec un ami proche."
+      "example": "Dans cette scene, nous pouvons annuler sans perdre de temps quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 시간을 끌지 않고 취소하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "rejoindre",
       "partOfSpeech": "verb",
       "meaning": "합류하다",
-      "example": "Il faut parfois rejoindre naturellement quand je parle avec un ami proche."
+      "example": "Il faut parfois rejoindre naturellement quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 자연스럽게 합류하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "embarquer",
       "partOfSpeech": "verb",
       "meaning": "탑승하다",
-      "example": "En general, je dois embarquer quand je parle avec un ami proche."
+      "example": "En general, je dois embarquer quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 탑승하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "voyager",
       "partOfSpeech": "verb",
       "meaning": "여행하다",
-      "example": "Dans cette scene, nous pouvons voyager sans perdre de temps quand je parle avec un ami proche."
+      "example": "Dans cette scene, nous pouvons voyager sans perdre de temps quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 시간을 끌지 않고 여행하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "s'enregistrer",
       "partOfSpeech": "verb",
       "meaning": "체크인하다",
-      "example": "Il faut parfois s'enregistrer naturellement quand je parle avec un ami proche."
+      "example": "Il faut parfois s'enregistrer naturellement quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 자연스럽게 체크인하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "deposer",
       "partOfSpeech": "verb",
       "meaning": "맡기다",
-      "example": "En general, je dois deposer quand je parle avec un ami proche."
+      "example": "En general, je dois deposer quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 맡기다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "ouvrir",
       "partOfSpeech": "verb",
       "meaning": "열다",
-      "example": "Dans cette scene, nous pouvons ouvrir sans perdre de temps quand je parle avec un ami proche."
+      "example": "Dans cette scene, nous pouvons ouvrir sans perdre de temps quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 시간을 끌지 않고 열다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "changer",
       "partOfSpeech": "verb",
       "meaning": "바꾸다",
-      "example": "Il faut parfois changer naturellement quand je parle avec un ami proche."
+      "example": "Il faut parfois changer naturellement quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 자연스럽게 바꾸다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "spacieux",
       "partOfSpeech": "adjective",
       "meaning": "넓은",
-      "example": "Il vaut souvent mieux etre spacieux quand je parle avec un ami proche."
+      "example": "Il vaut souvent mieux etre spacieux quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 넓은 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "sincere",
       "partOfSpeech": "adjective",
       "meaning": "진심 어린",
-      "example": "Rester sincere aide beaucoup quand je parle avec un ami proche."
+      "example": "Rester sincere aide beaucoup quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 진심 어린 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "heureux",
       "partOfSpeech": "adjective",
       "meaning": "행복한",
-      "example": "Essayer d'etre heureux fait souvent la difference quand je parle avec un ami proche."
+      "example": "Essayer d'etre heureux fait souvent la difference quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 행복한 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "decu",
       "partOfSpeech": "adjective",
       "meaning": "실망한",
-      "example": "Il vaut souvent mieux etre decu quand je parle avec un ami proche."
+      "example": "Il vaut souvent mieux etre decu quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 실망한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "touchant",
       "partOfSpeech": "adjective",
       "meaning": "감동적인",
-      "example": "Rester touchant aide beaucoup quand je parle avec un ami proche."
+      "example": "Rester touchant aide beaucoup quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 감동적인 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "ensoleille",
       "partOfSpeech": "adjective",
       "meaning": "화창한",
-      "example": "Essayer d'etre ensoleille fait souvent la difference quand je parle avec un ami proche."
+      "example": "Essayer d'etre ensoleille fait souvent la difference quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 화창한 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "variable",
       "partOfSpeech": "adjective",
       "meaning": "변덕스러운",
-      "example": "Il vaut souvent mieux etre variable quand je parle avec un ami proche."
+      "example": "Il vaut souvent mieux etre variable quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 변덕스러운 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "creatif",
       "partOfSpeech": "adjective",
       "meaning": "창의적인",
-      "example": "Rester creatif aide beaucoup quand je parle avec un ami proche."
+      "example": "Rester creatif aide beaucoup quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 창의적인 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "passionnant",
       "partOfSpeech": "adjective",
       "meaning": "흥미진진한",
-      "example": "Essayer d'etre passionnant fait souvent la difference quand je parle avec un ami proche."
+      "example": "Essayer d'etre passionnant fait souvent la difference quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 흥미진진한 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "culturel",
       "partOfSpeech": "adjective",
       "meaning": "문화적인",
-      "example": "Il vaut souvent mieux etre culturel quand je parle avec un ami proche."
+      "example": "Il vaut souvent mieux etre culturel quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 문화적인 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "en equipe",
       "partOfSpeech": "adverb",
       "meaning": "팀으로",
-      "example": "On agit souvent en equipe quand je parle avec un ami proche."
+      "example": "On agit souvent en equipe quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 보통 팀으로 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a distance",
       "partOfSpeech": "adverb",
       "meaning": "원격으로",
-      "example": "Dans la vraie vie, on fait souvent cela a distance quand je parle avec un ami proche."
+      "example": "Dans la vraie vie, on fait souvent cela a distance quand je parle avec un ami proche.",
+      "exampleKo": "실생활에서는 친한 친구와 이야기할 때 보통 원격으로 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en urgence",
       "partOfSpeech": "adverb",
       "meaning": "긴급히",
-      "example": "On entend souvent cette expression, en urgence, quand je parle avec un ami proche."
+      "example": "On entend souvent cette expression, en urgence, quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 긴급히 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "au plus vite",
       "partOfSpeech": "adverb",
       "meaning": "가능한 한 빨리",
-      "example": "On agit souvent au plus vite quand je parle avec un ami proche."
+      "example": "On agit souvent au plus vite quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 보통 가능한 한 빨리 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "dans les temps",
       "partOfSpeech": "adverb",
       "meaning": "제시간에",
-      "example": "Dans la vraie vie, on fait souvent cela dans les temps quand je parle avec un ami proche."
+      "example": "Dans la vraie vie, on fait souvent cela dans les temps quand je parle avec un ami proche.",
+      "exampleKo": "실생활에서는 친한 친구와 이야기할 때 보통 제시간에 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en ligne",
       "partOfSpeech": "adverb",
       "meaning": "온라인으로",
-      "example": "On entend souvent cette expression, en ligne, quand je parle avec un ami proche."
+      "example": "On entend souvent cette expression, en ligne, quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 온라인으로 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "hors ligne",
       "partOfSpeech": "adverb",
       "meaning": "오프라인으로",
-      "example": "On agit souvent hors ligne quand je parle avec un ami proche."
+      "example": "On agit souvent hors ligne quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 보통 오프라인으로 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a jour",
       "partOfSpeech": "adverb",
       "meaning": "최신 상태로",
-      "example": "Dans la vraie vie, on fait souvent cela a jour quand je parle avec un ami proche."
+      "example": "Dans la vraie vie, on fait souvent cela a jour quand je parle avec un ami proche.",
+      "exampleKo": "실생활에서는 친한 친구와 이야기할 때 보통 최신 상태로 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en prive",
       "partOfSpeech": "adverb",
       "meaning": "개인적으로",
-      "example": "On entend souvent cette expression, en prive, quand je parle avec un ami proche."
+      "example": "On entend souvent cette expression, en prive, quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 개인적으로 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a l'avance",
       "partOfSpeech": "adverb",
       "meaning": "미리",
-      "example": "On agit souvent a l'avance quand je parle avec un ami proche."
+      "example": "On agit souvent a l'avance quand je parle avec un ami proche.",
+      "exampleKo": "친한 친구와 이야기할 때 보통 미리 행동하게 된다.",
+      "exampleNote": ""
     }
   ],
   "quiz": [

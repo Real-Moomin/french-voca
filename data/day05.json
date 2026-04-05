@@ -8,301 +8,401 @@
       "word": "le magasin",
       "partOfSpeech": "noun",
       "meaning": "가게",
-      "example": "On rencontre souvent le magasin au moment de payer dans un magasin."
+      "example": "On rencontre souvent le magasin au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 가게 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le produit",
       "partOfSpeech": "noun",
       "meaning": "상품",
-      "example": "Dans la vraie vie, le produit revient souvent au moment de payer dans un magasin."
+      "example": "Dans la vraie vie, le produit revient souvent au moment de payer dans un magasin.",
+      "exampleKo": "실생활에서는 가게에서 계산할 때 상품이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la commande",
       "partOfSpeech": "noun",
       "meaning": "주문",
-      "example": "Je remarque souvent la commande au moment de payer dans un magasin."
+      "example": "Je remarque souvent la commande au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 주문을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le recu",
       "partOfSpeech": "noun",
       "meaning": "영수증",
-      "example": "On rencontre souvent le recu au moment de payer dans un magasin."
+      "example": "On rencontre souvent le recu au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 영수증 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le repas",
       "partOfSpeech": "noun",
       "meaning": "식사",
-      "example": "Dans la vraie vie, le repas revient souvent au moment de payer dans un magasin."
+      "example": "Dans la vraie vie, le repas revient souvent au moment de payer dans un magasin.",
+      "exampleKo": "실생활에서는 가게에서 계산할 때 식사이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la boisson",
       "partOfSpeech": "noun",
       "meaning": "음료",
-      "example": "Je remarque souvent la boisson au moment de payer dans un magasin."
+      "example": "Je remarque souvent la boisson au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 음료을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le dessert",
       "partOfSpeech": "noun",
       "meaning": "디저트",
-      "example": "On rencontre souvent le dessert au moment de payer dans un magasin."
+      "example": "On rencontre souvent le dessert au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 디저트 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la reservation",
       "partOfSpeech": "noun",
       "meaning": "예약",
-      "example": "Dans la vraie vie, la reservation revient souvent au moment de payer dans un magasin."
+      "example": "Dans la vraie vie, la reservation revient souvent au moment de payer dans un magasin.",
+      "exampleKo": "실생활에서는 가게에서 계산할 때 예약이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la sante",
       "partOfSpeech": "noun",
       "meaning": "건강",
-      "example": "Je remarque souvent la sante au moment de payer dans un magasin."
+      "example": "Je remarque souvent la sante au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 건강을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la douleur",
       "partOfSpeech": "noun",
       "meaning": "통증",
-      "example": "On rencontre souvent la douleur au moment de payer dans un magasin."
+      "example": "On rencontre souvent la douleur au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 통증 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le symptome",
       "partOfSpeech": "noun",
       "meaning": "증상",
-      "example": "Dans la vraie vie, le symptome revient souvent au moment de payer dans un magasin."
+      "example": "Dans la vraie vie, le symptome revient souvent au moment de payer dans un magasin.",
+      "exampleKo": "실생활에서는 가게에서 계산할 때 증상이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le repos",
       "partOfSpeech": "noun",
       "meaning": "휴식",
-      "example": "Je remarque souvent le repos au moment de payer dans un magasin."
+      "example": "Je remarque souvent le repos au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 휴식을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le bureau",
       "partOfSpeech": "noun",
       "meaning": "사무실",
-      "example": "On rencontre souvent le bureau au moment de payer dans un magasin."
+      "example": "On rencontre souvent le bureau au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 사무실 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la reunion",
       "partOfSpeech": "noun",
       "meaning": "회의",
-      "example": "Dans la vraie vie, la reunion revient souvent au moment de payer dans un magasin."
+      "example": "Dans la vraie vie, la reunion revient souvent au moment de payer dans un magasin.",
+      "exampleKo": "실생활에서는 가게에서 계산할 때 회의이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le dossier",
       "partOfSpeech": "noun",
       "meaning": "서류철",
-      "example": "Je remarque souvent le dossier au moment de payer dans un magasin."
+      "example": "Je remarque souvent le dossier au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 서류철을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "progresser",
       "partOfSpeech": "verb",
       "meaning": "향상되다",
-      "example": "En general, je dois progresser au moment de payer dans un magasin."
+      "example": "En general, je dois progresser au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 향상되다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "se deplacer",
       "partOfSpeech": "verb",
       "meaning": "이동하다",
-      "example": "Dans cette scene, nous pouvons se deplacer sans perdre de temps au moment de payer dans un magasin."
+      "example": "Dans cette scene, nous pouvons se deplacer sans perdre de temps au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 시간을 끌지 않고 이동하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "traverser",
       "partOfSpeech": "verb",
       "meaning": "건너다",
-      "example": "Il faut parfois traverser naturellement au moment de payer dans un magasin."
+      "example": "Il faut parfois traverser naturellement au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 자연스럽게 건너다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "attendre",
       "partOfSpeech": "verb",
       "meaning": "기다리다",
-      "example": "En general, je dois attendre au moment de payer dans un magasin."
+      "example": "En general, je dois attendre au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 기다리다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "confirmer",
       "partOfSpeech": "verb",
       "meaning": "확인하다",
-      "example": "Dans cette scene, nous pouvons confirmer sans perdre de temps au moment de payer dans un magasin."
+      "example": "Dans cette scene, nous pouvons confirmer sans perdre de temps au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 시간을 끌지 않고 확인하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "acheter",
       "partOfSpeech": "verb",
       "meaning": "구매하다",
-      "example": "Il faut parfois acheter naturellement au moment de payer dans un magasin."
+      "example": "Il faut parfois acheter naturellement au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 자연스럽게 구매하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "choisir",
       "partOfSpeech": "verb",
       "meaning": "고르다",
-      "example": "En general, je dois choisir au moment de payer dans un magasin."
+      "example": "En general, je dois choisir au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 고르다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "essayer",
       "partOfSpeech": "verb",
       "meaning": "입어보다",
-      "example": "Dans cette scene, nous pouvons essayer sans perdre de temps au moment de payer dans un magasin."
+      "example": "Dans cette scene, nous pouvons essayer sans perdre de temps au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 시간을 끌지 않고 입어보다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "commander",
       "partOfSpeech": "verb",
       "meaning": "주문하다",
-      "example": "Il faut parfois commander naturellement au moment de payer dans un magasin."
+      "example": "Il faut parfois commander naturellement au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 자연스럽게 주문하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "payer",
       "partOfSpeech": "verb",
       "meaning": "지불하다",
-      "example": "En general, je dois payer au moment de payer dans un magasin."
+      "example": "En general, je dois payer au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 지불하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "echanger",
       "partOfSpeech": "verb",
       "meaning": "교환하다",
-      "example": "Dans cette scene, nous pouvons echanger sans perdre de temps au moment de payer dans un magasin."
+      "example": "Dans cette scene, nous pouvons echanger sans perdre de temps au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 시간을 끌지 않고 교환하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "economiser",
       "partOfSpeech": "verb",
       "meaning": "절약하다",
-      "example": "Il faut parfois economiser naturellement au moment de payer dans un magasin."
+      "example": "Il faut parfois economiser naturellement au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 자연스럽게 절약하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "deguster",
       "partOfSpeech": "verb",
       "meaning": "맛보다",
-      "example": "En general, je dois deguster au moment de payer dans un magasin."
+      "example": "En general, je dois deguster au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 맛보다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "reserver",
       "partOfSpeech": "verb",
       "meaning": "예약하다",
-      "example": "Dans cette scene, nous pouvons reserver sans perdre de temps au moment de payer dans un magasin."
+      "example": "Dans cette scene, nous pouvons reserver sans perdre de temps au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 시간을 끌지 않고 예약하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "ajouter",
       "partOfSpeech": "verb",
       "meaning": "추가하다",
-      "example": "Il faut parfois ajouter naturellement au moment de payer dans un magasin."
+      "example": "Il faut parfois ajouter naturellement au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 자연스럽게 추가하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "rapide",
       "partOfSpeech": "adjective",
       "meaning": "빠른",
-      "example": "Il vaut souvent mieux etre rapide au moment de payer dans un magasin."
+      "example": "Il vaut souvent mieux etre rapide au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 빠른 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "proche",
       "partOfSpeech": "adjective",
       "meaning": "가까운",
-      "example": "Rester proche aide beaucoup au moment de payer dans un magasin."
+      "example": "Rester proche aide beaucoup au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 가까운 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "direct",
       "partOfSpeech": "adjective",
       "meaning": "직접적인",
-      "example": "Essayer d'etre direct fait souvent la difference au moment de payer dans un magasin."
+      "example": "Essayer d'etre direct fait souvent la difference au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 직접적인 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "cher",
       "partOfSpeech": "adjective",
       "meaning": "비싼",
-      "example": "Il vaut souvent mieux etre cher au moment de payer dans un magasin."
+      "example": "Il vaut souvent mieux etre cher au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 비싼 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "abordable",
       "partOfSpeech": "adjective",
       "meaning": "가격이 괜찮은",
-      "example": "Rester abordable aide beaucoup au moment de payer dans un magasin."
+      "example": "Rester abordable aide beaucoup au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 가격이 괜찮은 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "fiable",
       "partOfSpeech": "adjective",
       "meaning": "믿을 만한",
-      "example": "Essayer d'etre fiable fait souvent la difference au moment de payer dans un magasin."
+      "example": "Essayer d'etre fiable fait souvent la difference au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 믿을 만한 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "savoureux",
       "partOfSpeech": "adjective",
       "meaning": "맛있는",
-      "example": "Il vaut souvent mieux etre savoureux au moment de payer dans un magasin."
+      "example": "Il vaut souvent mieux etre savoureux au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 맛있는 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "equilibre",
       "partOfSpeech": "adjective",
       "meaning": "균형 잡힌",
-      "example": "Rester equilibre aide beaucoup au moment de payer dans un magasin."
+      "example": "Rester equilibre aide beaucoup au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 균형 잡힌 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "fatigue",
       "partOfSpeech": "adjective",
       "meaning": "피곤한",
-      "example": "Essayer d'etre fatigue fait souvent la difference au moment de payer dans un magasin."
+      "example": "Essayer d'etre fatigue fait souvent la difference au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 피곤한 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "urgent",
       "partOfSpeech": "adjective",
       "meaning": "긴급한",
-      "example": "Il vaut souvent mieux etre urgent au moment de payer dans un magasin."
+      "example": "Il vaut souvent mieux etre urgent au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 긴급한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "en detail",
       "partOfSpeech": "adverb",
       "meaning": "자세히",
-      "example": "On agit souvent en detail au moment de payer dans un magasin."
+      "example": "On agit souvent en detail au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 보통 자세히 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a nouveau",
       "partOfSpeech": "adverb",
       "meaning": "다시",
-      "example": "Dans la vraie vie, on fait souvent cela a nouveau au moment de payer dans un magasin."
+      "example": "Dans la vraie vie, on fait souvent cela a nouveau au moment de payer dans un magasin.",
+      "exampleKo": "실생활에서는 가게에서 계산할 때 보통 다시 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en avance",
       "partOfSpeech": "adverb",
       "meaning": "미리",
-      "example": "On entend souvent cette expression, en avance, au moment de payer dans un magasin."
+      "example": "On entend souvent cette expression, en avance, au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 미리 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "tout droit",
       "partOfSpeech": "adverb",
       "meaning": "곧장",
-      "example": "On agit souvent tout droit au moment de payer dans un magasin."
+      "example": "On agit souvent tout droit au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 보통 곧장 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en retard",
       "partOfSpeech": "adverb",
       "meaning": "늦게",
-      "example": "Dans la vraie vie, on fait souvent cela en retard au moment de payer dans un magasin."
+      "example": "Dans la vraie vie, on fait souvent cela en retard au moment de payer dans un magasin.",
+      "exampleKo": "실생활에서는 가게에서 계산할 때 보통 늦게 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "au centre",
       "partOfSpeech": "adverb",
       "meaning": "중앙에",
-      "example": "On entend souvent cette expression, au centre, au moment de payer dans un magasin."
+      "example": "On entend souvent cette expression, au centre, au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 중앙에 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en promotion",
       "partOfSpeech": "adverb",
       "meaning": "할인 중인",
-      "example": "On agit souvent en promotion au moment de payer dans un magasin."
+      "example": "On agit souvent en promotion au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 보통 할인 중인 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a bas prix",
       "partOfSpeech": "adverb",
       "meaning": "저렴하게",
-      "example": "Dans la vraie vie, on fait souvent cela a bas prix au moment de payer dans un magasin."
+      "example": "Dans la vraie vie, on fait souvent cela a bas prix au moment de payer dans un magasin.",
+      "exampleKo": "실생활에서는 가게에서 계산할 때 보통 저렴하게 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en stock",
       "partOfSpeech": "adverb",
       "meaning": "재고가 있는",
-      "example": "On entend souvent cette expression, en stock, au moment de payer dans un magasin."
+      "example": "On entend souvent cette expression, en stock, au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 재고가 있는 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a emporter",
       "partOfSpeech": "adverb",
       "meaning": "포장으로",
-      "example": "On agit souvent a emporter au moment de payer dans un magasin."
+      "example": "On agit souvent a emporter au moment de payer dans un magasin.",
+      "exampleKo": "가게에서 계산할 때 보통 포장으로 행동하게 된다.",
+      "exampleNote": ""
     }
   ],
   "quiz": [

@@ -8,301 +8,401 @@
       "word": "la publication",
       "partOfSpeech": "noun",
       "meaning": "게시물",
-      "example": "On rencontre souvent la publication en suivant l'actualite sur mon telephone."
+      "example": "On rencontre souvent la publication en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 게시물 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "l'article",
       "partOfSpeech": "noun",
       "meaning": "기사",
-      "example": "Dans la vraie vie, l'article revient souvent en suivant l'actualite sur mon telephone."
+      "example": "Dans la vraie vie, l'article revient souvent en suivant l'actualite sur mon telephone.",
+      "exampleKo": "실생활에서는 휴대폰으로 뉴스를 볼 때 기사이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le probleme",
       "partOfSpeech": "noun",
       "meaning": "문제",
-      "example": "Je remarque souvent le probleme en suivant l'actualite sur mon telephone."
+      "example": "Je remarque souvent le probleme en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 문제을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la solution",
       "partOfSpeech": "noun",
       "meaning": "해결책",
-      "example": "On rencontre souvent la solution en suivant l'actualite sur mon telephone."
+      "example": "On rencontre souvent la solution en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 해결책 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la cause",
       "partOfSpeech": "noun",
       "meaning": "원인",
-      "example": "Dans la vraie vie, la cause revient souvent en suivant l'actualite sur mon telephone."
+      "example": "Dans la vraie vie, la cause revient souvent en suivant l'actualite sur mon telephone.",
+      "exampleKo": "실생활에서는 휴대폰으로 뉴스를 볼 때 원인이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la consequence",
       "partOfSpeech": "noun",
       "meaning": "결과",
-      "example": "Je remarque souvent la consequence en suivant l'actualite sur mon telephone."
+      "example": "Je remarque souvent la consequence en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 결과을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "l'opinion",
       "partOfSpeech": "noun",
       "meaning": "의견",
-      "example": "On rencontre souvent l'opinion en suivant l'actualite sur mon telephone."
+      "example": "On rencontre souvent l'opinion en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 의견 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "l'argument",
       "partOfSpeech": "noun",
       "meaning": "논거",
-      "example": "Dans la vraie vie, l'argument revient souvent en suivant l'actualite sur mon telephone."
+      "example": "Dans la vraie vie, l'argument revient souvent en suivant l'actualite sur mon telephone.",
+      "exampleKo": "실생활에서는 휴대폰으로 뉴스를 볼 때 논거이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la preuve",
       "partOfSpeech": "noun",
       "meaning": "근거",
-      "example": "Je remarque souvent la preuve en suivant l'actualite sur mon telephone."
+      "example": "Je remarque souvent la preuve en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 근거을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la concentration",
       "partOfSpeech": "noun",
       "meaning": "집중",
-      "example": "On rencontre souvent la concentration en suivant l'actualite sur mon telephone."
+      "example": "On rencontre souvent la concentration en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 집중 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "l'objectif",
       "partOfSpeech": "noun",
       "meaning": "목표",
-      "example": "Dans la vraie vie, l'objectif revient souvent en suivant l'actualite sur mon telephone."
+      "example": "Dans la vraie vie, l'objectif revient souvent en suivant l'actualite sur mon telephone.",
+      "exampleKo": "실생활에서는 휴대폰으로 뉴스를 볼 때 목표이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le progres",
       "partOfSpeech": "noun",
       "meaning": "진전",
-      "example": "Je remarque souvent le progres en suivant l'actualite sur mon telephone."
+      "example": "Je remarque souvent le progres en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 진전을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la societe",
       "partOfSpeech": "noun",
       "meaning": "사회",
-      "example": "On rencontre souvent la societe en suivant l'actualite sur mon telephone."
+      "example": "On rencontre souvent la societe en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 사회 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la diversite",
       "partOfSpeech": "noun",
       "meaning": "다양성",
-      "example": "Dans la vraie vie, la diversite revient souvent en suivant l'actualite sur mon telephone."
+      "example": "Dans la vraie vie, la diversite revient souvent en suivant l'actualite sur mon telephone.",
+      "exampleKo": "실생활에서는 휴대폰으로 뉴스를 볼 때 다양성이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le respect",
       "partOfSpeech": "noun",
       "meaning": "존중",
-      "example": "Je remarque souvent le respect en suivant l'actualite sur mon telephone."
+      "example": "Je remarque souvent le respect en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 존중을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "visiter",
       "partOfSpeech": "verb",
       "meaning": "방문하다",
-      "example": "En general, je dois visiter en suivant l'actualite sur mon telephone."
+      "example": "En general, je dois visiter en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 방문하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "lire",
       "partOfSpeech": "verb",
       "meaning": "읽다",
-      "example": "Dans cette scene, nous pouvons lire sans perdre de temps en suivant l'actualite sur mon telephone."
+      "example": "Dans cette scene, nous pouvons lire sans perdre de temps en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 시간을 끌지 않고 읽다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "admirer",
       "partOfSpeech": "verb",
       "meaning": "감상하다",
-      "example": "Il faut parfois admirer naturellement en suivant l'actualite sur mon telephone."
+      "example": "Il faut parfois admirer naturellement en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 자연스럽게 감상하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "pratiquer",
       "partOfSpeech": "verb",
       "meaning": "연습하다",
-      "example": "En general, je dois pratiquer en suivant l'actualite sur mon telephone."
+      "example": "En general, je dois pratiquer en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 연습하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "participer",
       "partOfSpeech": "verb",
       "meaning": "참가하다",
-      "example": "Dans cette scene, nous pouvons participer sans perdre de temps en suivant l'actualite sur mon telephone."
+      "example": "Dans cette scene, nous pouvons participer sans perdre de temps en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 시간을 끌지 않고 참가하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "remplir",
       "partOfSpeech": "verb",
       "meaning": "작성하다",
-      "example": "Il faut parfois remplir naturellement en suivant l'actualite sur mon telephone."
+      "example": "Il faut parfois remplir naturellement en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 자연스럽게 작성하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "soumettre",
       "partOfSpeech": "verb",
       "meaning": "제출하다",
-      "example": "En general, je dois soumettre en suivant l'actualite sur mon telephone."
+      "example": "En general, je dois soumettre en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 제출하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "joindre",
       "partOfSpeech": "verb",
       "meaning": "첨부하다",
-      "example": "Dans cette scene, nous pouvons joindre sans perdre de temps en suivant l'actualite sur mon telephone."
+      "example": "Dans cette scene, nous pouvons joindre sans perdre de temps en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 시간을 끌지 않고 첨부하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "imprimer",
       "partOfSpeech": "verb",
       "meaning": "출력하다",
-      "example": "Il faut parfois imprimer naturellement en suivant l'actualite sur mon telephone."
+      "example": "Il faut parfois imprimer naturellement en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 자연스럽게 출력하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "classer",
       "partOfSpeech": "verb",
       "meaning": "분류하다",
-      "example": "En general, je dois classer en suivant l'actualite sur mon telephone."
+      "example": "En general, je dois classer en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 분류하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "declarer",
       "partOfSpeech": "verb",
       "meaning": "신고하다",
-      "example": "Dans cette scene, nous pouvons declarer sans perdre de temps en suivant l'actualite sur mon telephone."
+      "example": "Dans cette scene, nous pouvons declarer sans perdre de temps en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 시간을 끌지 않고 신고하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "trier",
       "partOfSpeech": "verb",
       "meaning": "분류하다",
-      "example": "Il faut parfois trier naturellement en suivant l'actualite sur mon telephone."
+      "example": "Il faut parfois trier naturellement en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 자연스럽게 분류하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "recycler",
       "partOfSpeech": "verb",
       "meaning": "재활용하다",
-      "example": "En general, je dois recycler en suivant l'actualite sur mon telephone."
+      "example": "En general, je dois recycler en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 재활용하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "reduire",
       "partOfSpeech": "verb",
       "meaning": "줄이다",
-      "example": "Dans cette scene, nous pouvons reduire sans perdre de temps en suivant l'actualite sur mon telephone."
+      "example": "Dans cette scene, nous pouvons reduire sans perdre de temps en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 시간을 끌지 않고 줄이다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "proteger",
       "partOfSpeech": "verb",
       "meaning": "보호하다",
-      "example": "Il faut parfois proteger naturellement en suivant l'actualite sur mon telephone."
+      "example": "Il faut parfois proteger naturellement en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 자연스럽게 보호하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "mensuel",
       "partOfSpeech": "adjective",
       "meaning": "월간의",
-      "example": "Il vaut souvent mieux etre mensuel en suivant l'actualite sur mon telephone."
+      "example": "Il vaut souvent mieux etre mensuel en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 월간의 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "rentable",
       "partOfSpeech": "adjective",
       "meaning": "가성비 좋은",
-      "example": "Rester rentable aide beaucoup en suivant l'actualite sur mon telephone."
+      "example": "Rester rentable aide beaucoup en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 가성비 좋은 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "public",
       "partOfSpeech": "adjective",
       "meaning": "공공의",
-      "example": "Essayer d'etre public fait souvent la difference en suivant l'actualite sur mon telephone."
+      "example": "Essayer d'etre public fait souvent la difference en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 공공의 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "credible",
       "partOfSpeech": "adjective",
       "meaning": "신뢰할 수 있는",
-      "example": "Il vaut souvent mieux etre credible en suivant l'actualite sur mon telephone."
+      "example": "Il vaut souvent mieux etre credible en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 신뢰할 수 있는 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "complexe",
       "partOfSpeech": "adjective",
       "meaning": "복잡한",
-      "example": "Rester complexe aide beaucoup en suivant l'actualite sur mon telephone."
+      "example": "Rester complexe aide beaucoup en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 복잡한 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "grave",
       "partOfSpeech": "adjective",
       "meaning": "심각한",
-      "example": "Essayer d'etre grave fait souvent la difference en suivant l'actualite sur mon telephone."
+      "example": "Essayer d'etre grave fait souvent la difference en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 심각한 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "acceptable",
       "partOfSpeech": "adjective",
       "meaning": "받아들일 만한",
-      "example": "Il vaut souvent mieux etre acceptable en suivant l'actualite sur mon telephone."
+      "example": "Il vaut souvent mieux etre acceptable en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 받아들일 만한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "coherent",
       "partOfSpeech": "adjective",
       "meaning": "일관된",
-      "example": "Rester coherent aide beaucoup en suivant l'actualite sur mon telephone."
+      "example": "Rester coherent aide beaucoup en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 일관된 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "convaincant",
       "partOfSpeech": "adjective",
       "meaning": "설득력 있는",
-      "example": "Essayer d'etre convaincant fait souvent la difference en suivant l'actualite sur mon telephone."
+      "example": "Essayer d'etre convaincant fait souvent la difference en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 설득력 있는 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "essentiel",
       "partOfSpeech": "adjective",
       "meaning": "핵심적인",
-      "example": "Il vaut souvent mieux etre essentiel en suivant l'actualite sur mon telephone."
+      "example": "Il vaut souvent mieux etre essentiel en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 핵심적인 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "malheureusement",
       "partOfSpeech": "adverb",
       "meaning": "유감스럽게도",
-      "example": "On agit souvent malheureusement en suivant l'actualite sur mon telephone."
+      "example": "On agit souvent malheureusement en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 보통 유감스럽게도 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a mon avis",
       "partOfSpeech": "adverb",
       "meaning": "내 생각에는",
-      "example": "Dans la vraie vie, on fait souvent cela a mon avis en suivant l'actualite sur mon telephone."
+      "example": "Dans la vraie vie, on fait souvent cela a mon avis en suivant l'actualite sur mon telephone.",
+      "exampleKo": "실생활에서는 휴대폰으로 뉴스를 볼 때 보통 내 생각에는 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "demain matin",
       "partOfSpeech": "adverb",
       "meaning": "내일 아침",
-      "example": "On entend souvent cette expression, demain matin, en suivant l'actualite sur mon telephone."
+      "example": "On entend souvent cette expression, demain matin, en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 내일 아침 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "ce soir",
       "partOfSpeech": "adverb",
       "meaning": "오늘 저녁",
-      "example": "On agit souvent ce soir en suivant l'actualite sur mon telephone."
+      "example": "On agit souvent ce soir en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 보통 오늘 저녁 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en ce moment",
       "partOfSpeech": "adverb",
       "meaning": "지금",
-      "example": "Dans la vraie vie, on fait souvent cela en ce moment en suivant l'actualite sur mon telephone."
+      "example": "Dans la vraie vie, on fait souvent cela en ce moment en suivant l'actualite sur mon telephone.",
+      "exampleKo": "실생활에서는 휴대폰으로 뉴스를 볼 때 보통 지금 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "malgre tout",
       "partOfSpeech": "adverb",
       "meaning": "그럼에도",
-      "example": "On entend souvent cette expression, malgre tout, en suivant l'actualite sur mon telephone."
+      "example": "On entend souvent cette expression, malgre tout, en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 그럼에도 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "pour le plaisir",
       "partOfSpeech": "adverb",
       "meaning": "즐거움 때문에",
-      "example": "On agit souvent pour le plaisir en suivant l'actualite sur mon telephone."
+      "example": "On agit souvent pour le plaisir en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 보통 즐거움 때문에 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en direct",
       "partOfSpeech": "adverb",
       "meaning": "실시간으로",
-      "example": "Dans la vraie vie, on fait souvent cela en direct en suivant l'actualite sur mon telephone."
+      "example": "Dans la vraie vie, on fait souvent cela en direct en suivant l'actualite sur mon telephone.",
+      "exampleKo": "실생활에서는 휴대폰으로 뉴스를 볼 때 보통 실시간으로 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "par courrier",
       "partOfSpeech": "adverb",
       "meaning": "우편으로",
-      "example": "On entend souvent cette expression, par courrier, en suivant l'actualite sur mon telephone."
+      "example": "On entend souvent cette expression, par courrier, en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 우편으로 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en copie",
       "partOfSpeech": "adverb",
       "meaning": "참조로",
-      "example": "On agit souvent en copie en suivant l'actualite sur mon telephone."
+      "example": "On agit souvent en copie en suivant l'actualite sur mon telephone.",
+      "exampleKo": "휴대폰으로 뉴스를 볼 때 보통 참조로 행동하게 된다.",
+      "exampleNote": ""
     }
   ],
   "quiz": [

@@ -8,301 +8,401 @@
       "word": "le devoir",
       "partOfSpeech": "noun",
       "meaning": "과제",
-      "example": "On rencontre souvent le devoir pendant la preparation d'un cours."
+      "example": "On rencontre souvent le devoir pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 과제 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la methode",
       "partOfSpeech": "noun",
       "meaning": "방법",
-      "example": "Dans la vraie vie, la methode revient souvent pendant la preparation d'un cours."
+      "example": "Dans la vraie vie, la methode revient souvent pendant la preparation d'un cours.",
+      "exampleKo": "실생활에서는 수업 준비를 하는 동안 방법이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la question",
       "partOfSpeech": "noun",
       "meaning": "질문",
-      "example": "Je remarque souvent la question pendant la preparation d'un cours."
+      "example": "Je remarque souvent la question pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 질문을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la reponse",
       "partOfSpeech": "noun",
       "meaning": "답변",
-      "example": "On rencontre souvent la reponse pendant la preparation d'un cours."
+      "example": "On rencontre souvent la reponse pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 답변 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la ville",
       "partOfSpeech": "noun",
       "meaning": "도시",
-      "example": "Dans la vraie vie, la ville revient souvent pendant la preparation d'un cours."
+      "example": "Dans la vraie vie, la ville revient souvent pendant la preparation d'un cours.",
+      "exampleKo": "실생활에서는 수업 준비를 하는 동안 도시이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la station",
       "partOfSpeech": "noun",
       "meaning": "역",
-      "example": "Je remarque souvent la station pendant la preparation d'un cours."
+      "example": "Je remarque souvent la station pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 역을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le trajet",
       "partOfSpeech": "noun",
       "meaning": "이동 경로",
-      "example": "On rencontre souvent le trajet pendant la preparation d'un cours."
+      "example": "On rencontre souvent le trajet pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 이동 경로 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le ticket",
       "partOfSpeech": "noun",
       "meaning": "승차권",
-      "example": "Dans la vraie vie, le ticket revient souvent pendant la preparation d'un cours."
+      "example": "Dans la vraie vie, le ticket revient souvent pendant la preparation d'un cours.",
+      "exampleKo": "실생활에서는 수업 준비를 하는 동안 승차권이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le magasin",
       "partOfSpeech": "noun",
       "meaning": "가게",
-      "example": "Je remarque souvent le magasin pendant la preparation d'un cours."
+      "example": "Je remarque souvent le magasin pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 가게을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le produit",
       "partOfSpeech": "noun",
       "meaning": "상품",
-      "example": "On rencontre souvent le produit pendant la preparation d'un cours."
+      "example": "On rencontre souvent le produit pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 상품 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la commande",
       "partOfSpeech": "noun",
       "meaning": "주문",
-      "example": "Dans la vraie vie, la commande revient souvent pendant la preparation d'un cours."
+      "example": "Dans la vraie vie, la commande revient souvent pendant la preparation d'un cours.",
+      "exampleKo": "실생활에서는 수업 준비를 하는 동안 주문이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le recu",
       "partOfSpeech": "noun",
       "meaning": "영수증",
-      "example": "Je remarque souvent le recu pendant la preparation d'un cours."
+      "example": "Je remarque souvent le recu pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 영수증을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le repas",
       "partOfSpeech": "noun",
       "meaning": "식사",
-      "example": "On rencontre souvent le repas pendant la preparation d'un cours."
+      "example": "On rencontre souvent le repas pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 식사 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la boisson",
       "partOfSpeech": "noun",
       "meaning": "음료",
-      "example": "Dans la vraie vie, la boisson revient souvent pendant la preparation d'un cours."
+      "example": "Dans la vraie vie, la boisson revient souvent pendant la preparation d'un cours.",
+      "exampleKo": "실생활에서는 수업 준비를 하는 동안 음료이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le dessert",
       "partOfSpeech": "noun",
       "meaning": "디저트",
-      "example": "Je remarque souvent le dessert pendant la preparation d'un cours."
+      "example": "Je remarque souvent le dessert pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 디저트을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "nettoyer",
       "partOfSpeech": "verb",
       "meaning": "청소하다",
-      "example": "En general, je dois nettoyer pendant la preparation d'un cours."
+      "example": "En general, je dois nettoyer pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 청소하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "preparer",
       "partOfSpeech": "verb",
       "meaning": "준비하다",
-      "example": "Dans cette scene, nous pouvons preparer sans perdre de temps pendant la preparation d'un cours."
+      "example": "Dans cette scene, nous pouvons preparer sans perdre de temps pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 시간을 끌지 않고 준비하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "inviter",
       "partOfSpeech": "verb",
       "meaning": "초대하다",
-      "example": "Il faut parfois inviter naturellement pendant la preparation d'un cours."
+      "example": "Il faut parfois inviter naturellement pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 자연스럽게 초대하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "etudier",
       "partOfSpeech": "verb",
       "meaning": "공부하다",
-      "example": "En general, je dois etudier pendant la preparation d'un cours."
+      "example": "En general, je dois etudier pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 공부하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "memoriser",
       "partOfSpeech": "verb",
       "meaning": "암기하다",
-      "example": "Dans cette scene, nous pouvons memoriser sans perdre de temps pendant la preparation d'un cours."
+      "example": "Dans cette scene, nous pouvons memoriser sans perdre de temps pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 시간을 끌지 않고 암기하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "relire",
       "partOfSpeech": "verb",
       "meaning": "다시 읽다",
-      "example": "Il faut parfois relire naturellement pendant la preparation d'un cours."
+      "example": "Il faut parfois relire naturellement pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 자연스럽게 다시 읽다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "comparer",
       "partOfSpeech": "verb",
       "meaning": "비교하다",
-      "example": "En general, je dois comparer pendant la preparation d'un cours."
+      "example": "En general, je dois comparer pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 비교하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "corriger",
       "partOfSpeech": "verb",
       "meaning": "수정하다",
-      "example": "Dans cette scene, nous pouvons corriger sans perdre de temps pendant la preparation d'un cours."
+      "example": "Dans cette scene, nous pouvons corriger sans perdre de temps pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 시간을 끌지 않고 수정하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "progresser",
       "partOfSpeech": "verb",
       "meaning": "향상되다",
-      "example": "Il faut parfois progresser naturellement pendant la preparation d'un cours."
+      "example": "Il faut parfois progresser naturellement pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 자연스럽게 향상되다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "se deplacer",
       "partOfSpeech": "verb",
       "meaning": "이동하다",
-      "example": "En general, je dois se deplacer pendant la preparation d'un cours."
+      "example": "En general, je dois se deplacer pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 이동하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "traverser",
       "partOfSpeech": "verb",
       "meaning": "건너다",
-      "example": "Dans cette scene, nous pouvons traverser sans perdre de temps pendant la preparation d'un cours."
+      "example": "Dans cette scene, nous pouvons traverser sans perdre de temps pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 시간을 끌지 않고 건너다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "attendre",
       "partOfSpeech": "verb",
       "meaning": "기다리다",
-      "example": "Il faut parfois attendre naturellement pendant la preparation d'un cours."
+      "example": "Il faut parfois attendre naturellement pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 자연스럽게 기다리다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "confirmer",
       "partOfSpeech": "verb",
       "meaning": "확인하다",
-      "example": "En general, je dois confirmer pendant la preparation d'un cours."
+      "example": "En general, je dois confirmer pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 확인하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "acheter",
       "partOfSpeech": "verb",
       "meaning": "구매하다",
-      "example": "Dans cette scene, nous pouvons acheter sans perdre de temps pendant la preparation d'un cours."
+      "example": "Dans cette scene, nous pouvons acheter sans perdre de temps pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 시간을 끌지 않고 구매하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "choisir",
       "partOfSpeech": "verb",
       "meaning": "고르다",
-      "example": "Il faut parfois choisir naturellement pendant la preparation d'un cours."
+      "example": "Il faut parfois choisir naturellement pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 자연스럽게 고르다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "propre",
       "partOfSpeech": "adjective",
       "meaning": "깨끗한",
-      "example": "Il vaut souvent mieux etre propre pendant la preparation d'un cours."
+      "example": "Il vaut souvent mieux etre propre pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 깨끗한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "calme",
       "partOfSpeech": "adjective",
       "meaning": "조용한",
-      "example": "Rester calme aide beaucoup pendant la preparation d'un cours."
+      "example": "Rester calme aide beaucoup pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 조용한 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "efficace",
       "partOfSpeech": "adjective",
       "meaning": "효율적인",
-      "example": "Essayer d'etre efficace fait souvent la difference pendant la preparation d'un cours."
+      "example": "Essayer d'etre efficace fait souvent la difference pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 효율적인 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "clair",
       "partOfSpeech": "adjective",
       "meaning": "명확한",
-      "example": "Il vaut souvent mieux etre clair pendant la preparation d'un cours."
+      "example": "Il vaut souvent mieux etre clair pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 명확한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "serieux",
       "partOfSpeech": "adjective",
       "meaning": "진지한",
-      "example": "Rester serieux aide beaucoup pendant la preparation d'un cours."
+      "example": "Rester serieux aide beaucoup pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 진지한 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "regulier",
       "partOfSpeech": "adjective",
       "meaning": "규칙적인",
-      "example": "Essayer d'etre regulier fait souvent la difference pendant la preparation d'un cours."
+      "example": "Essayer d'etre regulier fait souvent la difference pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 규칙적인 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "rapide",
       "partOfSpeech": "adjective",
       "meaning": "빠른",
-      "example": "Il vaut souvent mieux etre rapide pendant la preparation d'un cours."
+      "example": "Il vaut souvent mieux etre rapide pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 빠른 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "proche",
       "partOfSpeech": "adjective",
       "meaning": "가까운",
-      "example": "Rester proche aide beaucoup pendant la preparation d'un cours."
+      "example": "Rester proche aide beaucoup pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 가까운 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "direct",
       "partOfSpeech": "adjective",
       "meaning": "직접적인",
-      "example": "Essayer d'etre direct fait souvent la difference pendant la preparation d'un cours."
+      "example": "Essayer d'etre direct fait souvent la difference pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 직접적인 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "cher",
       "partOfSpeech": "adjective",
       "meaning": "비싼",
-      "example": "Il vaut souvent mieux etre cher pendant la preparation d'un cours."
+      "example": "Il vaut souvent mieux etre cher pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 비싼 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "en meme temps",
       "partOfSpeech": "adverb",
       "meaning": "동시에",
-      "example": "On agit souvent en meme temps pendant la preparation d'un cours."
+      "example": "On agit souvent en meme temps pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 보통 동시에 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "tranquillement",
       "partOfSpeech": "adverb",
       "meaning": "차분하게",
-      "example": "Dans la vraie vie, on fait souvent cela tranquillement pendant la preparation d'un cours."
+      "example": "Dans la vraie vie, on fait souvent cela tranquillement pendant la preparation d'un cours.",
+      "exampleKo": "실생활에서는 수업 준비를 하는 동안 보통 차분하게 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "petit a petit",
       "partOfSpeech": "adverb",
       "meaning": "조금씩",
-      "example": "On entend souvent cette expression, petit a petit, pendant la preparation d'un cours."
+      "example": "On entend souvent cette expression, petit a petit, pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 조금씩 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "sur place",
       "partOfSpeech": "adverb",
       "meaning": "현장에서",
-      "example": "On agit souvent sur place pendant la preparation d'un cours."
+      "example": "On agit souvent sur place pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 보통 현장에서 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "au besoin",
       "partOfSpeech": "adverb",
       "meaning": "필요하면",
-      "example": "Dans la vraie vie, on fait souvent cela au besoin pendant la preparation d'un cours."
+      "example": "Dans la vraie vie, on fait souvent cela au besoin pendant la preparation d'un cours.",
+      "exampleKo": "실생활에서는 수업 준비를 하는 동안 보통 필요하면 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "par coeur",
       "partOfSpeech": "adverb",
       "meaning": "암기해서",
-      "example": "On entend souvent cette expression, par coeur, pendant la preparation d'un cours."
+      "example": "On entend souvent cette expression, par coeur, pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 암기해서 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en detail",
       "partOfSpeech": "adverb",
       "meaning": "자세히",
-      "example": "On agit souvent en detail pendant la preparation d'un cours."
+      "example": "On agit souvent en detail pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 보통 자세히 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a nouveau",
       "partOfSpeech": "adverb",
       "meaning": "다시",
-      "example": "Dans la vraie vie, on fait souvent cela a nouveau pendant la preparation d'un cours."
+      "example": "Dans la vraie vie, on fait souvent cela a nouveau pendant la preparation d'un cours.",
+      "exampleKo": "실생활에서는 수업 준비를 하는 동안 보통 다시 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en avance",
       "partOfSpeech": "adverb",
       "meaning": "미리",
-      "example": "On entend souvent cette expression, en avance, pendant la preparation d'un cours."
+      "example": "On entend souvent cette expression, en avance, pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 미리 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "tout droit",
       "partOfSpeech": "adverb",
       "meaning": "곧장",
-      "example": "On agit souvent tout droit pendant la preparation d'un cours."
+      "example": "On agit souvent tout droit pendant la preparation d'un cours.",
+      "exampleKo": "수업 준비를 하는 동안 보통 곧장 행동하게 된다.",
+      "exampleNote": ""
     }
   ],
   "quiz": [

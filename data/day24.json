@@ -8,301 +8,401 @@
       "word": "le loyer",
       "partOfSpeech": "noun",
       "meaning": "월세",
-      "example": "On rencontre souvent le loyer en preparant un evenement pour plusieurs invites."
+      "example": "On rencontre souvent le loyer en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 월세 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le client",
       "partOfSpeech": "noun",
       "meaning": "고객",
-      "example": "Dans la vraie vie, le client revient souvent en preparant un evenement pour plusieurs invites."
+      "example": "Dans la vraie vie, le client revient souvent en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "실생활에서는 여러 사람을 위한 행사를 준비할 때 고객이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la reclamation",
       "partOfSpeech": "noun",
       "meaning": "불만 제기",
-      "example": "Je remarque souvent la reclamation en preparant un evenement pour plusieurs invites."
+      "example": "Je remarque souvent la reclamation en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 불만 제기을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la satisfaction",
       "partOfSpeech": "noun",
       "meaning": "만족",
-      "example": "On rencontre souvent la satisfaction en preparant un evenement pour plusieurs invites."
+      "example": "On rencontre souvent la satisfaction en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 만족 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "l'entretien",
       "partOfSpeech": "noun",
       "meaning": "면접",
-      "example": "Dans la vraie vie, l'entretien revient souvent en preparant un evenement pour plusieurs invites."
+      "example": "Dans la vraie vie, l'entretien revient souvent en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "실생활에서는 여러 사람을 위한 행사를 준비할 때 면접이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "l'experience",
       "partOfSpeech": "noun",
       "meaning": "경험",
-      "example": "Je remarque souvent l'experience en preparant un evenement pour plusieurs invites."
+      "example": "Je remarque souvent l'experience en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 경험을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la competence",
       "partOfSpeech": "noun",
       "meaning": "역량",
-      "example": "On rencontre souvent la competence en preparant un evenement pour plusieurs invites."
+      "example": "On rencontre souvent la competence en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 역량 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la regle",
       "partOfSpeech": "noun",
       "meaning": "규칙",
-      "example": "Dans la vraie vie, la regle revient souvent en preparant un evenement pour plusieurs invites."
+      "example": "Dans la vraie vie, la regle revient souvent en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "실생활에서는 여러 사람을 위한 행사를 준비할 때 규칙이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la securite",
       "partOfSpeech": "noun",
       "meaning": "안전",
-      "example": "Je remarque souvent la securite en preparant un evenement pour plusieurs invites."
+      "example": "Je remarque souvent la securite en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 안전을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "l'urgence",
       "partOfSpeech": "noun",
       "meaning": "긴급 상황",
-      "example": "On rencontre souvent l'urgence en preparant un evenement pour plusieurs invites."
+      "example": "On rencontre souvent l'urgence en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 긴급 상황 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la conclusion",
       "partOfSpeech": "noun",
       "meaning": "결론",
-      "example": "Dans la vraie vie, la conclusion revient souvent en preparant un evenement pour plusieurs invites."
+      "example": "Dans la vraie vie, la conclusion revient souvent en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "실생활에서는 여러 사람을 위한 행사를 준비할 때 결론이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la condition",
       "partOfSpeech": "noun",
       "meaning": "조건",
-      "example": "Je remarque souvent la condition en preparant un evenement pour plusieurs invites."
+      "example": "Je remarque souvent la condition en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 조건을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "l'exemple",
       "partOfSpeech": "noun",
       "meaning": "예시",
-      "example": "On rencontre souvent l'exemple en preparant un evenement pour plusieurs invites."
+      "example": "On rencontre souvent l'exemple en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 예시 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "l'accueil",
       "partOfSpeech": "noun",
       "meaning": "맞이함",
-      "example": "Dans la vraie vie, l'accueil revient souvent en preparant un evenement pour plusieurs invites."
+      "example": "Dans la vraie vie, l'accueil revient souvent en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "실생활에서는 여러 사람을 위한 행사를 준비할 때 맞이함이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la conversation",
       "partOfSpeech": "noun",
       "meaning": "대화",
-      "example": "Je remarque souvent la conversation en preparant un evenement pour plusieurs invites."
+      "example": "Je remarque souvent la conversation en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 대화을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "debattre",
       "partOfSpeech": "verb",
       "meaning": "토론하다",
-      "example": "En general, je dois debattre en preparant un evenement pour plusieurs invites."
+      "example": "En general, je dois debattre en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 토론하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "identifier",
       "partOfSpeech": "verb",
       "meaning": "파악하다",
-      "example": "Dans cette scene, nous pouvons identifier sans perdre de temps en preparant un evenement pour plusieurs invites."
+      "example": "Dans cette scene, nous pouvons identifier sans perdre de temps en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 시간을 끌지 않고 파악하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "resoudre",
       "partOfSpeech": "verb",
       "meaning": "해결하다",
-      "example": "Il faut parfois resoudre naturellement en preparant un evenement pour plusieurs invites."
+      "example": "Il faut parfois resoudre naturellement en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 자연스럽게 해결하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "ameliorer",
       "partOfSpeech": "verb",
       "meaning": "개선하다",
-      "example": "En general, je dois ameliorer en preparant un evenement pour plusieurs invites."
+      "example": "En general, je dois ameliorer en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 개선하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "clarifier",
       "partOfSpeech": "verb",
       "meaning": "명확히 하다",
-      "example": "Dans cette scene, nous pouvons clarifier sans perdre de temps en preparant un evenement pour plusieurs invites."
+      "example": "Dans cette scene, nous pouvons clarifier sans perdre de temps en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 시간을 끌지 않고 명확히 하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "proposer",
       "partOfSpeech": "verb",
       "meaning": "제안하다",
-      "example": "Il faut parfois proposer naturellement en preparant un evenement pour plusieurs invites."
+      "example": "Il faut parfois proposer naturellement en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 자연스럽게 제안하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "justifier",
       "partOfSpeech": "verb",
       "meaning": "정당화하다",
-      "example": "En general, je dois justifier en preparant un evenement pour plusieurs invites."
+      "example": "En general, je dois justifier en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 정당화하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "conclure",
       "partOfSpeech": "verb",
       "meaning": "결론짓다",
-      "example": "Dans cette scene, nous pouvons conclure sans perdre de temps en preparant un evenement pour plusieurs invites."
+      "example": "Dans cette scene, nous pouvons conclure sans perdre de temps en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 시간을 끌지 않고 결론짓다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "reviser",
       "partOfSpeech": "verb",
       "meaning": "복습하다",
-      "example": "Il faut parfois reviser naturellement en preparant un evenement pour plusieurs invites."
+      "example": "Il faut parfois reviser naturellement en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 자연스럽게 복습하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "se concentrer",
       "partOfSpeech": "verb",
       "meaning": "집중하다",
-      "example": "En general, je dois se concentrer en preparant un evenement pour plusieurs invites."
+      "example": "En general, je dois se concentrer en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 집중하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "retenir",
       "partOfSpeech": "verb",
       "meaning": "기억하다",
-      "example": "Dans cette scene, nous pouvons retenir sans perdre de temps en preparant un evenement pour plusieurs invites."
+      "example": "Dans cette scene, nous pouvons retenir sans perdre de temps en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 시간을 끌지 않고 기억하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "respecter",
       "partOfSpeech": "verb",
       "meaning": "존중하다",
-      "example": "Il faut parfois respecter naturellement en preparant un evenement pour plusieurs invites."
+      "example": "Il faut parfois respecter naturellement en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 자연스럽게 존중하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "coordonner",
       "partOfSpeech": "verb",
       "meaning": "조율하다",
-      "example": "En general, je dois coordonner en preparant un evenement pour plusieurs invites."
+      "example": "En general, je dois coordonner en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 조율하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "accueillir",
       "partOfSpeech": "verb",
       "meaning": "맞이하다",
-      "example": "Dans cette scene, nous pouvons accueillir sans perdre de temps en preparant un evenement pour plusieurs invites."
+      "example": "Dans cette scene, nous pouvons accueillir sans perdre de temps en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 시간을 끌지 않고 맞이하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "saluer",
       "partOfSpeech": "verb",
       "meaning": "인사하다",
-      "example": "Il faut parfois saluer naturellement en preparant un evenement pour plusieurs invites."
+      "example": "Il faut parfois saluer naturellement en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 자연스럽게 인사하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "realiste",
       "partOfSpeech": "adjective",
       "meaning": "현실적인",
-      "example": "Il vaut souvent mieux etre realiste en preparant un evenement pour plusieurs invites."
+      "example": "Il vaut souvent mieux etre realiste en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 현실적인 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "festif",
       "partOfSpeech": "adjective",
       "meaning": "축제 분위기의",
-      "example": "Rester festif aide beaucoup en preparant un evenement pour plusieurs invites."
+      "example": "Rester festif aide beaucoup en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 축제 분위기의 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "accueillant",
       "partOfSpeech": "adjective",
       "meaning": "환영하는 분위기의",
-      "example": "Essayer d'etre accueillant fait souvent la difference en preparant un evenement pour plusieurs invites."
+      "example": "Essayer d'etre accueillant fait souvent la difference en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 환영하는 분위기의 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "visible",
       "partOfSpeech": "adjective",
       "meaning": "눈에 잘 띄는",
-      "example": "Il vaut souvent mieux etre visible en preparant un evenement pour plusieurs invites."
+      "example": "Il vaut souvent mieux etre visible en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 눈에 잘 띄는 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "lumineux",
       "partOfSpeech": "adjective",
       "meaning": "채광이 좋은",
-      "example": "Rester lumineux aide beaucoup en preparant un evenement pour plusieurs invites."
+      "example": "Rester lumineux aide beaucoup en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 채광이 좋은 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "renove",
       "partOfSpeech": "adjective",
       "meaning": "수리된",
-      "example": "Essayer d'etre renove fait souvent la difference en preparant un evenement pour plusieurs invites."
+      "example": "Essayer d'etre renove fait souvent la difference en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 수리된 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "courtois",
       "partOfSpeech": "adjective",
       "meaning": "공손한",
-      "example": "Il vaut souvent mieux etre courtois en preparant un evenement pour plusieurs invites."
+      "example": "Il vaut souvent mieux etre courtois en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 공손한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "mecontent",
       "partOfSpeech": "adjective",
       "meaning": "불만족한",
-      "example": "Rester mecontent aide beaucoup en preparant un evenement pour plusieurs invites."
+      "example": "Rester mecontent aide beaucoup en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 불만족한 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "motivant",
       "partOfSpeech": "adjective",
       "meaning": "의욕을 주는",
-      "example": "Essayer d'etre motivant fait souvent la difference en preparant un evenement pour plusieurs invites."
+      "example": "Essayer d'etre motivant fait souvent la difference en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 의욕을 주는 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "qualifie",
       "partOfSpeech": "adjective",
       "meaning": "자격을 갖춘",
-      "example": "Il vaut souvent mieux etre qualifie en preparant un evenement pour plusieurs invites."
+      "example": "Il vaut souvent mieux etre qualifie en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 자격을 갖춘 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "sans frais",
       "partOfSpeech": "adverb",
       "meaning": "수수료 없이",
-      "example": "On agit souvent sans frais en preparant un evenement pour plusieurs invites."
+      "example": "On agit souvent sans frais en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 보통 수수료 없이 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en resume",
       "partOfSpeech": "adverb",
       "meaning": "요약하면",
-      "example": "Dans la vraie vie, on fait souvent cela en resume en preparant un evenement pour plusieurs invites."
+      "example": "Dans la vraie vie, on fait souvent cela en resume en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "실생활에서는 여러 사람을 위한 행사를 준비할 때 보통 요약하면 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en bref",
       "partOfSpeech": "adverb",
       "meaning": "간단히 말해",
-      "example": "On entend souvent cette expression, en bref, en preparant un evenement pour plusieurs invites."
+      "example": "On entend souvent cette expression, en bref, en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 간단히 말해 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en pratique",
       "partOfSpeech": "adverb",
       "meaning": "실제로",
-      "example": "On agit souvent en pratique en preparant un evenement pour plusieurs invites."
+      "example": "On agit souvent en pratique en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 보통 실제로 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "au final",
       "partOfSpeech": "adverb",
       "meaning": "결국",
-      "example": "Dans la vraie vie, on fait souvent cela au final en preparant un evenement pour plusieurs invites."
+      "example": "Dans la vraie vie, on fait souvent cela au final en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "실생활에서는 여러 사람을 위한 행사를 준비할 때 보통 결국 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "par consequent",
       "partOfSpeech": "adverb",
       "meaning": "따라서",
-      "example": "On entend souvent cette expression, par consequent, en preparant un evenement pour plusieurs invites."
+      "example": "On entend souvent cette expression, par consequent, en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 따라서 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en revanche",
       "partOfSpeech": "adverb",
       "meaning": "반면에",
-      "example": "On agit souvent en revanche en preparant un evenement pour plusieurs invites."
+      "example": "On agit souvent en revanche en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 보통 반면에 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "pourtant",
       "partOfSpeech": "adverb",
       "meaning": "그런데도",
-      "example": "Dans la vraie vie, on fait souvent cela pourtant en preparant un evenement pour plusieurs invites."
+      "example": "Dans la vraie vie, on fait souvent cela pourtant en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "실생활에서는 여러 사람을 위한 행사를 준비할 때 보통 그런데도 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "d'ailleurs",
       "partOfSpeech": "adverb",
       "meaning": "게다가",
-      "example": "On entend souvent cette expression, d'ailleurs, en preparant un evenement pour plusieurs invites."
+      "example": "On entend souvent cette expression, d'ailleurs, en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 게다가 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "autrement dit",
       "partOfSpeech": "adverb",
       "meaning": "즉",
-      "example": "On agit souvent autrement dit en preparant un evenement pour plusieurs invites."
+      "example": "On agit souvent autrement dit en preparant un evenement pour plusieurs invites.",
+      "exampleKo": "여러 사람을 위한 행사를 준비할 때 보통 즉 행동하게 된다.",
+      "exampleNote": ""
     }
   ],
   "quiz": [
