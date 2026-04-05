@@ -1,0 +1,360 @@
+{
+  "day": 30,
+  "title": "Revision generale",
+  "theme": "종합 복습",
+  "description": "실전 대화에서 다시 자주 만나게 될 핵심 어휘입니다.",
+  "words": [
+    {
+      "word": "la reponse",
+      "partOfSpeech": "noun",
+      "meaning": "답변",
+      "example": "On rencontre souvent la reponse au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "la ville",
+      "partOfSpeech": "noun",
+      "meaning": "도시",
+      "example": "Dans la vraie vie, la ville revient souvent au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "la station",
+      "partOfSpeech": "noun",
+      "meaning": "역",
+      "example": "Je remarque souvent la station au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "le trajet",
+      "partOfSpeech": "noun",
+      "meaning": "이동 경로",
+      "example": "On rencontre souvent le trajet au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "le ticket",
+      "partOfSpeech": "noun",
+      "meaning": "승차권",
+      "example": "Dans la vraie vie, le ticket revient souvent au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "le magasin",
+      "partOfSpeech": "noun",
+      "meaning": "가게",
+      "example": "Je remarque souvent le magasin au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "le produit",
+      "partOfSpeech": "noun",
+      "meaning": "상품",
+      "example": "On rencontre souvent le produit au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "la commande",
+      "partOfSpeech": "noun",
+      "meaning": "주문",
+      "example": "Dans la vraie vie, la commande revient souvent au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "le recu",
+      "partOfSpeech": "noun",
+      "meaning": "영수증",
+      "example": "Je remarque souvent le recu au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "le repas",
+      "partOfSpeech": "noun",
+      "meaning": "식사",
+      "example": "On rencontre souvent le repas au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "la boisson",
+      "partOfSpeech": "noun",
+      "meaning": "음료",
+      "example": "Dans la vraie vie, la boisson revient souvent au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "le dessert",
+      "partOfSpeech": "noun",
+      "meaning": "디저트",
+      "example": "Je remarque souvent le dessert au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "la reservation",
+      "partOfSpeech": "noun",
+      "meaning": "예약",
+      "example": "On rencontre souvent la reservation au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "la sante",
+      "partOfSpeech": "noun",
+      "meaning": "건강",
+      "example": "Dans la vraie vie, la sante revient souvent au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "la douleur",
+      "partOfSpeech": "noun",
+      "meaning": "통증",
+      "example": "Je remarque souvent la douleur au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "etudier",
+      "partOfSpeech": "verb",
+      "meaning": "공부하다",
+      "example": "En general, je dois etudier au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "memoriser",
+      "partOfSpeech": "verb",
+      "meaning": "암기하다",
+      "example": "Dans cette scene, nous pouvons memoriser sans perdre de temps au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "relire",
+      "partOfSpeech": "verb",
+      "meaning": "다시 읽다",
+      "example": "Il faut parfois relire naturellement au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "comparer",
+      "partOfSpeech": "verb",
+      "meaning": "비교하다",
+      "example": "En general, je dois comparer au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "corriger",
+      "partOfSpeech": "verb",
+      "meaning": "수정하다",
+      "example": "Dans cette scene, nous pouvons corriger sans perdre de temps au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "progresser",
+      "partOfSpeech": "verb",
+      "meaning": "향상되다",
+      "example": "Il faut parfois progresser naturellement au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "se deplacer",
+      "partOfSpeech": "verb",
+      "meaning": "이동하다",
+      "example": "En general, je dois se deplacer au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "traverser",
+      "partOfSpeech": "verb",
+      "meaning": "건너다",
+      "example": "Dans cette scene, nous pouvons traverser sans perdre de temps au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "attendre",
+      "partOfSpeech": "verb",
+      "meaning": "기다리다",
+      "example": "Il faut parfois attendre naturellement au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "confirmer",
+      "partOfSpeech": "verb",
+      "meaning": "확인하다",
+      "example": "En general, je dois confirmer au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "acheter",
+      "partOfSpeech": "verb",
+      "meaning": "구매하다",
+      "example": "Dans cette scene, nous pouvons acheter sans perdre de temps au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "choisir",
+      "partOfSpeech": "verb",
+      "meaning": "고르다",
+      "example": "Il faut parfois choisir naturellement au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "essayer",
+      "partOfSpeech": "verb",
+      "meaning": "입어보다",
+      "example": "En general, je dois essayer au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "commander",
+      "partOfSpeech": "verb",
+      "meaning": "주문하다",
+      "example": "Dans cette scene, nous pouvons commander sans perdre de temps au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "payer",
+      "partOfSpeech": "verb",
+      "meaning": "지불하다",
+      "example": "Il faut parfois payer naturellement au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "modere",
+      "partOfSpeech": "adjective",
+      "meaning": "적당한",
+      "example": "Il vaut souvent mieux etre modere au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "disponible",
+      "partOfSpeech": "adjective",
+      "meaning": "이용 가능한",
+      "example": "Rester disponible aide beaucoup au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "discret",
+      "partOfSpeech": "adjective",
+      "meaning": "눈에 띄지 않는",
+      "example": "Essayer d'etre discret fait souvent la difference au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "utile",
+      "partOfSpeech": "adjective",
+      "meaning": "유용한",
+      "example": "Il vaut souvent mieux etre utile au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "poli",
+      "partOfSpeech": "adjective",
+      "meaning": "예의 바른",
+      "example": "Rester poli aide beaucoup au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "ponctuel",
+      "partOfSpeech": "adjective",
+      "meaning": "시간을 잘 지키는",
+      "example": "Essayer d'etre ponctuel fait souvent la difference au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "simple",
+      "partOfSpeech": "adjective",
+      "meaning": "간단한",
+      "example": "Il vaut souvent mieux etre simple au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "familial",
+      "partOfSpeech": "adjective",
+      "meaning": "가정적인",
+      "example": "Rester familial aide beaucoup au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "pratique",
+      "partOfSpeech": "adjective",
+      "meaning": "실용적인",
+      "example": "Essayer d'etre pratique fait souvent la difference au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "propre",
+      "partOfSpeech": "adjective",
+      "meaning": "깨끗한",
+      "example": "Il vaut souvent mieux etre propre au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "souvent",
+      "partOfSpeech": "adverb",
+      "meaning": "자주",
+      "example": "On agit souvent souvent au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "en general",
+      "partOfSpeech": "adverb",
+      "meaning": "대체로",
+      "example": "Dans la vraie vie, on fait souvent cela en general au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "a l'heure",
+      "partOfSpeech": "adverb",
+      "meaning": "정시에",
+      "example": "On entend souvent cette expression, a l'heure, au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "de bonne heure",
+      "partOfSpeech": "adverb",
+      "meaning": "일찍",
+      "example": "On agit souvent de bonne heure au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "en meme temps",
+      "partOfSpeech": "adverb",
+      "meaning": "동시에",
+      "example": "Dans la vraie vie, on fait souvent cela en meme temps au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "tranquillement",
+      "partOfSpeech": "adverb",
+      "meaning": "차분하게",
+      "example": "On entend souvent cette expression, tranquillement, au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "petit a petit",
+      "partOfSpeech": "adverb",
+      "meaning": "조금씩",
+      "example": "On agit souvent petit a petit au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "sur place",
+      "partOfSpeech": "adverb",
+      "meaning": "현장에서",
+      "example": "Dans la vraie vie, on fait souvent cela sur place au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "au besoin",
+      "partOfSpeech": "adverb",
+      "meaning": "필요하면",
+      "example": "On entend souvent cette expression, au besoin, au moment de revoir les mots les plus utiles."
+    },
+    {
+      "word": "par coeur",
+      "partOfSpeech": "adverb",
+      "meaning": "암기해서",
+      "example": "On agit souvent par coeur au moment de revoir les mots les plus utiles."
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent au moment de revoir les mots les plus utiles.",
+      "answer": "la ville",
+      "hint": "도시"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent au moment de revoir les mots les plus utiles.",
+      "answer": "le ticket",
+      "hint": "승차권"
+    },
+    {
+      "sentence": "On rencontre souvent ____ au moment de revoir les mots les plus utiles.",
+      "answer": "le repas",
+      "hint": "식사"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent au moment de revoir les mots les plus utiles.",
+      "answer": "la sante",
+      "hint": "건강"
+    },
+    {
+      "sentence": "En general, je dois ____ au moment de revoir les mots les plus utiles.",
+      "answer": "comparer",
+      "hint": "비교하다"
+    },
+    {
+      "sentence": "Dans cette scene, nous pouvons ____ sans perdre de temps au moment de revoir les mots les plus utiles.",
+      "answer": "traverser",
+      "hint": "건너다"
+    },
+    {
+      "sentence": "Il faut parfois ____ naturellement au moment de revoir les mots les plus utiles.",
+      "answer": "payer",
+      "hint": "지불하다"
+    },
+    {
+      "sentence": "Rester ____ aide beaucoup au moment de revoir les mots les plus utiles.",
+      "answer": "poli",
+      "hint": "예의 바른"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ au moment de revoir les mots les plus utiles.",
+      "answer": "en general",
+      "hint": "대체로"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ au moment de revoir les mots les plus utiles.",
+      "answer": "sur place",
+      "hint": "현장에서"
+    }
+  ]
+}

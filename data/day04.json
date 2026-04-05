@@ -1,0 +1,360 @@
+{
+  "day": 4,
+  "title": "Ville et transport",
+  "theme": "도시와 이동",
+  "description": "길 찾기와 대중교통 상황에서 유용합니다.",
+  "words": [
+    {
+      "word": "la ville",
+      "partOfSpeech": "noun",
+      "meaning": "도시",
+      "example": "On rencontre souvent la ville quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "la station",
+      "partOfSpeech": "noun",
+      "meaning": "역",
+      "example": "Dans la vraie vie, la station revient souvent quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "le trajet",
+      "partOfSpeech": "noun",
+      "meaning": "이동 경로",
+      "example": "Je remarque souvent le trajet quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "le ticket",
+      "partOfSpeech": "noun",
+      "meaning": "승차권",
+      "example": "On rencontre souvent le ticket quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "le magasin",
+      "partOfSpeech": "noun",
+      "meaning": "가게",
+      "example": "Dans la vraie vie, le magasin revient souvent quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "le produit",
+      "partOfSpeech": "noun",
+      "meaning": "상품",
+      "example": "Je remarque souvent le produit quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "la commande",
+      "partOfSpeech": "noun",
+      "meaning": "주문",
+      "example": "On rencontre souvent la commande quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "le recu",
+      "partOfSpeech": "noun",
+      "meaning": "영수증",
+      "example": "Dans la vraie vie, le recu revient souvent quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "le repas",
+      "partOfSpeech": "noun",
+      "meaning": "식사",
+      "example": "Je remarque souvent le repas quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "la boisson",
+      "partOfSpeech": "noun",
+      "meaning": "음료",
+      "example": "On rencontre souvent la boisson quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "le dessert",
+      "partOfSpeech": "noun",
+      "meaning": "디저트",
+      "example": "Dans la vraie vie, le dessert revient souvent quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "la reservation",
+      "partOfSpeech": "noun",
+      "meaning": "예약",
+      "example": "Je remarque souvent la reservation quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "la sante",
+      "partOfSpeech": "noun",
+      "meaning": "건강",
+      "example": "On rencontre souvent la sante quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "la douleur",
+      "partOfSpeech": "noun",
+      "meaning": "통증",
+      "example": "Dans la vraie vie, la douleur revient souvent quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "le symptome",
+      "partOfSpeech": "noun",
+      "meaning": "증상",
+      "example": "Je remarque souvent le symptome quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "memoriser",
+      "partOfSpeech": "verb",
+      "meaning": "암기하다",
+      "example": "En general, je dois memoriser quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "relire",
+      "partOfSpeech": "verb",
+      "meaning": "다시 읽다",
+      "example": "Dans cette scene, nous pouvons relire sans perdre de temps quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "comparer",
+      "partOfSpeech": "verb",
+      "meaning": "비교하다",
+      "example": "Il faut parfois comparer naturellement quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "corriger",
+      "partOfSpeech": "verb",
+      "meaning": "수정하다",
+      "example": "En general, je dois corriger quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "progresser",
+      "partOfSpeech": "verb",
+      "meaning": "향상되다",
+      "example": "Dans cette scene, nous pouvons progresser sans perdre de temps quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "se deplacer",
+      "partOfSpeech": "verb",
+      "meaning": "이동하다",
+      "example": "Il faut parfois se deplacer naturellement quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "traverser",
+      "partOfSpeech": "verb",
+      "meaning": "건너다",
+      "example": "En general, je dois traverser quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "attendre",
+      "partOfSpeech": "verb",
+      "meaning": "기다리다",
+      "example": "Dans cette scene, nous pouvons attendre sans perdre de temps quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "confirmer",
+      "partOfSpeech": "verb",
+      "meaning": "확인하다",
+      "example": "Il faut parfois confirmer naturellement quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "acheter",
+      "partOfSpeech": "verb",
+      "meaning": "구매하다",
+      "example": "En general, je dois acheter quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "choisir",
+      "partOfSpeech": "verb",
+      "meaning": "고르다",
+      "example": "Dans cette scene, nous pouvons choisir sans perdre de temps quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "essayer",
+      "partOfSpeech": "verb",
+      "meaning": "입어보다",
+      "example": "Il faut parfois essayer naturellement quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "commander",
+      "partOfSpeech": "verb",
+      "meaning": "주문하다",
+      "example": "En general, je dois commander quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "payer",
+      "partOfSpeech": "verb",
+      "meaning": "지불하다",
+      "example": "Dans cette scene, nous pouvons payer sans perdre de temps quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "echanger",
+      "partOfSpeech": "verb",
+      "meaning": "교환하다",
+      "example": "Il faut parfois echanger naturellement quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "clair",
+      "partOfSpeech": "adjective",
+      "meaning": "명확한",
+      "example": "Il vaut souvent mieux etre clair quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "serieux",
+      "partOfSpeech": "adjective",
+      "meaning": "진지한",
+      "example": "Rester serieux aide beaucoup quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "regulier",
+      "partOfSpeech": "adjective",
+      "meaning": "규칙적인",
+      "example": "Essayer d'etre regulier fait souvent la difference quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "rapide",
+      "partOfSpeech": "adjective",
+      "meaning": "빠른",
+      "example": "Il vaut souvent mieux etre rapide quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "proche",
+      "partOfSpeech": "adjective",
+      "meaning": "가까운",
+      "example": "Rester proche aide beaucoup quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "direct",
+      "partOfSpeech": "adjective",
+      "meaning": "직접적인",
+      "example": "Essayer d'etre direct fait souvent la difference quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "cher",
+      "partOfSpeech": "adjective",
+      "meaning": "비싼",
+      "example": "Il vaut souvent mieux etre cher quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "abordable",
+      "partOfSpeech": "adjective",
+      "meaning": "가격이 괜찮은",
+      "example": "Rester abordable aide beaucoup quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "fiable",
+      "partOfSpeech": "adjective",
+      "meaning": "믿을 만한",
+      "example": "Essayer d'etre fiable fait souvent la difference quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "savoureux",
+      "partOfSpeech": "adjective",
+      "meaning": "맛있는",
+      "example": "Il vaut souvent mieux etre savoureux quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "sur place",
+      "partOfSpeech": "adverb",
+      "meaning": "현장에서",
+      "example": "On agit souvent sur place quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "au besoin",
+      "partOfSpeech": "adverb",
+      "meaning": "필요하면",
+      "example": "Dans la vraie vie, on fait souvent cela au besoin quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "par coeur",
+      "partOfSpeech": "adverb",
+      "meaning": "암기해서",
+      "example": "On entend souvent cette expression, par coeur, quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "en detail",
+      "partOfSpeech": "adverb",
+      "meaning": "자세히",
+      "example": "On agit souvent en detail quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "a nouveau",
+      "partOfSpeech": "adverb",
+      "meaning": "다시",
+      "example": "Dans la vraie vie, on fait souvent cela a nouveau quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "en avance",
+      "partOfSpeech": "adverb",
+      "meaning": "미리",
+      "example": "On entend souvent cette expression, en avance, quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "tout droit",
+      "partOfSpeech": "adverb",
+      "meaning": "곧장",
+      "example": "On agit souvent tout droit quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "en retard",
+      "partOfSpeech": "adverb",
+      "meaning": "늦게",
+      "example": "Dans la vraie vie, on fait souvent cela en retard quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "au centre",
+      "partOfSpeech": "adverb",
+      "meaning": "중앙에",
+      "example": "On entend souvent cette expression, au centre, quand je cherche mon chemin en ville."
+    },
+    {
+      "word": "en promotion",
+      "partOfSpeech": "adverb",
+      "meaning": "할인 중인",
+      "example": "On agit souvent en promotion quand je cherche mon chemin en ville."
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent quand je cherche mon chemin en ville.",
+      "answer": "la station",
+      "hint": "역"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent quand je cherche mon chemin en ville.",
+      "answer": "le magasin",
+      "hint": "가게"
+    },
+    {
+      "sentence": "On rencontre souvent ____ quand je cherche mon chemin en ville.",
+      "answer": "la boisson",
+      "hint": "음료"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent quand je cherche mon chemin en ville.",
+      "answer": "la douleur",
+      "hint": "통증"
+    },
+    {
+      "sentence": "En general, je dois ____ quand je cherche mon chemin en ville.",
+      "answer": "corriger",
+      "hint": "수정하다"
+    },
+    {
+      "sentence": "Dans cette scene, nous pouvons ____ sans perdre de temps quand je cherche mon chemin en ville.",
+      "answer": "attendre",
+      "hint": "기다리다"
+    },
+    {
+      "sentence": "Il faut parfois ____ naturellement quand je cherche mon chemin en ville.",
+      "answer": "echanger",
+      "hint": "교환하다"
+    },
+    {
+      "sentence": "Rester ____ aide beaucoup quand je cherche mon chemin en ville.",
+      "answer": "proche",
+      "hint": "가까운"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ quand je cherche mon chemin en ville.",
+      "answer": "au besoin",
+      "hint": "필요하면"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ quand je cherche mon chemin en ville.",
+      "answer": "en retard",
+      "hint": "늦게"
+    }
+  ]
+}

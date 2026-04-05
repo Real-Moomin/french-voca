@@ -1,0 +1,360 @@
+{
+  "day": 10,
+  "title": "Preparation du voyage",
+  "theme": "여행 준비",
+  "description": "예약과 일정, 출발 전 점검 표현을 담았습니다.",
+  "words": [
+    {
+      "word": "la valise",
+      "partOfSpeech": "noun",
+      "meaning": "여행가방",
+      "example": "On rencontre souvent la valise la veille d'un depart en voyage."
+    },
+    {
+      "word": "le passeport",
+      "partOfSpeech": "noun",
+      "meaning": "여권",
+      "example": "Dans la vraie vie, le passeport revient souvent la veille d'un depart en voyage."
+    },
+    {
+      "word": "l'itineraire",
+      "partOfSpeech": "noun",
+      "meaning": "여행 경로",
+      "example": "Je remarque souvent l'itineraire la veille d'un depart en voyage."
+    },
+    {
+      "word": "la chambre d'hotel",
+      "partOfSpeech": "noun",
+      "meaning": "호텔 방",
+      "example": "On rencontre souvent la chambre d'hotel la veille d'un depart en voyage."
+    },
+    {
+      "word": "la reception",
+      "partOfSpeech": "noun",
+      "meaning": "프런트",
+      "example": "Dans la vraie vie, la reception revient souvent la veille d'un depart en voyage."
+    },
+    {
+      "word": "le bruit",
+      "partOfSpeech": "noun",
+      "meaning": "소음",
+      "example": "Je remarque souvent le bruit la veille d'un depart en voyage."
+    },
+    {
+      "word": "l'amitie",
+      "partOfSpeech": "noun",
+      "meaning": "우정",
+      "example": "On rencontre souvent l'amitie la veille d'un depart en voyage."
+    },
+    {
+      "word": "la confiance",
+      "partOfSpeech": "noun",
+      "meaning": "신뢰",
+      "example": "Dans la vraie vie, la confiance revient souvent la veille d'un depart en voyage."
+    },
+    {
+      "word": "la joie",
+      "partOfSpeech": "noun",
+      "meaning": "기쁨",
+      "example": "Je remarque souvent la joie la veille d'un depart en voyage."
+    },
+    {
+      "word": "la tristesse",
+      "partOfSpeech": "noun",
+      "meaning": "슬픔",
+      "example": "On rencontre souvent la tristesse la veille d'un depart en voyage."
+    },
+    {
+      "word": "la meteo",
+      "partOfSpeech": "noun",
+      "meaning": "날씨",
+      "example": "Dans la vraie vie, la meteo revient souvent la veille d'un depart en voyage."
+    },
+    {
+      "word": "la saison",
+      "partOfSpeech": "noun",
+      "meaning": "계절",
+      "example": "Je remarque souvent la saison la veille d'un depart en voyage."
+    },
+    {
+      "word": "la temperature",
+      "partOfSpeech": "noun",
+      "meaning": "기온",
+      "example": "On rencontre souvent la temperature la veille d'un depart en voyage."
+    },
+    {
+      "word": "le soleil",
+      "partOfSpeech": "noun",
+      "meaning": "태양",
+      "example": "Dans la vraie vie, le soleil revient souvent la veille d'un depart en voyage."
+    },
+    {
+      "word": "le musee",
+      "partOfSpeech": "noun",
+      "meaning": "박물관",
+      "example": "Je remarque souvent le musee la veille d'un depart en voyage."
+    },
+    {
+      "word": "recuperer",
+      "partOfSpeech": "verb",
+      "meaning": "회복하다",
+      "example": "En general, je dois recuperer la veille d'un depart en voyage."
+    },
+    {
+      "word": "eviter",
+      "partOfSpeech": "verb",
+      "meaning": "피하다",
+      "example": "Dans cette scene, nous pouvons eviter sans perdre de temps la veille d'un depart en voyage."
+    },
+    {
+      "word": "collaborer",
+      "partOfSpeech": "verb",
+      "meaning": "협업하다",
+      "example": "Il faut parfois collaborer naturellement la veille d'un depart en voyage."
+    },
+    {
+      "word": "transmettre",
+      "partOfSpeech": "verb",
+      "meaning": "전달하다",
+      "example": "En general, je dois transmettre la veille d'un depart en voyage."
+    },
+    {
+      "word": "planifier",
+      "partOfSpeech": "verb",
+      "meaning": "계획하다",
+      "example": "Dans cette scene, nous pouvons planifier sans perdre de temps la veille d'un depart en voyage."
+    },
+    {
+      "word": "reporter",
+      "partOfSpeech": "verb",
+      "meaning": "미루다",
+      "example": "Il faut parfois reporter naturellement la veille d'un depart en voyage."
+    },
+    {
+      "word": "finaliser",
+      "partOfSpeech": "verb",
+      "meaning": "마무리하다",
+      "example": "En general, je dois finaliser la veille d'un depart en voyage."
+    },
+    {
+      "word": "gerer",
+      "partOfSpeech": "verb",
+      "meaning": "관리하다",
+      "example": "Dans cette scene, nous pouvons gerer sans perdre de temps la veille d'un depart en voyage."
+    },
+    {
+      "word": "telecharger",
+      "partOfSpeech": "verb",
+      "meaning": "다운로드하다",
+      "example": "Il faut parfois telecharger naturellement la veille d'un depart en voyage."
+    },
+    {
+      "word": "envoyer",
+      "partOfSpeech": "verb",
+      "meaning": "보내다",
+      "example": "En general, je dois envoyer la veille d'un depart en voyage."
+    },
+    {
+      "word": "sauvegarder",
+      "partOfSpeech": "verb",
+      "meaning": "저장하다",
+      "example": "Dans cette scene, nous pouvons sauvegarder sans perdre de temps la veille d'un depart en voyage."
+    },
+    {
+      "word": "supprimer",
+      "partOfSpeech": "verb",
+      "meaning": "삭제하다",
+      "example": "Il faut parfois supprimer naturellement la veille d'un depart en voyage."
+    },
+    {
+      "word": "se connecter",
+      "partOfSpeech": "verb",
+      "meaning": "로그인하다",
+      "example": "En general, je dois se connecter la veille d'un depart en voyage."
+    },
+    {
+      "word": "verifier",
+      "partOfSpeech": "verb",
+      "meaning": "확인하다",
+      "example": "Dans cette scene, nous pouvons verifier sans perdre de temps la veille d'un depart en voyage."
+    },
+    {
+      "word": "emporter",
+      "partOfSpeech": "verb",
+      "meaning": "챙겨 가다",
+      "example": "Il faut parfois emporter naturellement la veille d'un depart en voyage."
+    },
+    {
+      "word": "numerique",
+      "partOfSpeech": "adjective",
+      "meaning": "디지털의",
+      "example": "Il vaut souvent mieux etre numerique la veille d'un depart en voyage."
+    },
+    {
+      "word": "securise",
+      "partOfSpeech": "adjective",
+      "meaning": "보안이 된",
+      "example": "Rester securise aide beaucoup la veille d'un depart en voyage."
+    },
+    {
+      "word": "complet",
+      "partOfSpeech": "adjective",
+      "meaning": "완전한",
+      "example": "Essayer d'etre complet fait souvent la difference la veille d'un depart en voyage."
+    },
+    {
+      "word": "international",
+      "partOfSpeech": "adjective",
+      "meaning": "국제적인",
+      "example": "Il vaut souvent mieux etre international la veille d'un depart en voyage."
+    },
+    {
+      "word": "confortable",
+      "partOfSpeech": "adjective",
+      "meaning": "편안한",
+      "example": "Rester confortable aide beaucoup la veille d'un depart en voyage."
+    },
+    {
+      "word": "bruyant",
+      "partOfSpeech": "adjective",
+      "meaning": "시끄러운",
+      "example": "Essayer d'etre bruyant fait souvent la difference la veille d'un depart en voyage."
+    },
+    {
+      "word": "spacieux",
+      "partOfSpeech": "adjective",
+      "meaning": "넓은",
+      "example": "Il vaut souvent mieux etre spacieux la veille d'un depart en voyage."
+    },
+    {
+      "word": "sincere",
+      "partOfSpeech": "adjective",
+      "meaning": "진심 어린",
+      "example": "Rester sincere aide beaucoup la veille d'un depart en voyage."
+    },
+    {
+      "word": "heureux",
+      "partOfSpeech": "adjective",
+      "meaning": "행복한",
+      "example": "Essayer d'etre heureux fait souvent la difference la veille d'un depart en voyage."
+    },
+    {
+      "word": "decu",
+      "partOfSpeech": "adjective",
+      "meaning": "실망한",
+      "example": "Il vaut souvent mieux etre decu la veille d'un depart en voyage."
+    },
+    {
+      "word": "sur le pouce",
+      "partOfSpeech": "adverb",
+      "meaning": "간단히",
+      "example": "On agit souvent sur le pouce la veille d'un depart en voyage."
+    },
+    {
+      "word": "pas trop",
+      "partOfSpeech": "adverb",
+      "meaning": "너무 심하지 않게",
+      "example": "Dans la vraie vie, on fait souvent cela pas trop la veille d'un depart en voyage."
+    },
+    {
+      "word": "en forme",
+      "partOfSpeech": "adverb",
+      "meaning": "좋은 컨디션으로",
+      "example": "On entend souvent cette expression, en forme, la veille d'un depart en voyage."
+    },
+    {
+      "word": "au calme",
+      "partOfSpeech": "adverb",
+      "meaning": "조용한 곳에서",
+      "example": "On agit souvent au calme la veille d'un depart en voyage."
+    },
+    {
+      "word": "sans tarder",
+      "partOfSpeech": "adverb",
+      "meaning": "지체 없이",
+      "example": "Dans la vraie vie, on fait souvent cela sans tarder la veille d'un depart en voyage."
+    },
+    {
+      "word": "en priorite",
+      "partOfSpeech": "adverb",
+      "meaning": "우선적으로",
+      "example": "On entend souvent cette expression, en priorite, la veille d'un depart en voyage."
+    },
+    {
+      "word": "en equipe",
+      "partOfSpeech": "adverb",
+      "meaning": "팀으로",
+      "example": "On agit souvent en equipe la veille d'un depart en voyage."
+    },
+    {
+      "word": "a distance",
+      "partOfSpeech": "adverb",
+      "meaning": "원격으로",
+      "example": "Dans la vraie vie, on fait souvent cela a distance la veille d'un depart en voyage."
+    },
+    {
+      "word": "en urgence",
+      "partOfSpeech": "adverb",
+      "meaning": "긴급히",
+      "example": "On entend souvent cette expression, en urgence, la veille d'un depart en voyage."
+    },
+    {
+      "word": "au plus vite",
+      "partOfSpeech": "adverb",
+      "meaning": "가능한 한 빨리",
+      "example": "On agit souvent au plus vite la veille d'un depart en voyage."
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent la veille d'un depart en voyage.",
+      "answer": "le passeport",
+      "hint": "여권"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent la veille d'un depart en voyage.",
+      "answer": "la reception",
+      "hint": "프런트"
+    },
+    {
+      "sentence": "On rencontre souvent ____ la veille d'un depart en voyage.",
+      "answer": "la tristesse",
+      "hint": "슬픔"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent la veille d'un depart en voyage.",
+      "answer": "le soleil",
+      "hint": "태양"
+    },
+    {
+      "sentence": "En general, je dois ____ la veille d'un depart en voyage.",
+      "answer": "transmettre",
+      "hint": "전달하다"
+    },
+    {
+      "sentence": "Dans cette scene, nous pouvons ____ sans perdre de temps la veille d'un depart en voyage.",
+      "answer": "gerer",
+      "hint": "관리하다"
+    },
+    {
+      "sentence": "Il faut parfois ____ naturellement la veille d'un depart en voyage.",
+      "answer": "emporter",
+      "hint": "챙겨 가다"
+    },
+    {
+      "sentence": "Rester ____ aide beaucoup la veille d'un depart en voyage.",
+      "answer": "confortable",
+      "hint": "편안한"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ la veille d'un depart en voyage.",
+      "answer": "pas trop",
+      "hint": "너무 심하지 않게"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ la veille d'un depart en voyage.",
+      "answer": "a distance",
+      "hint": "원격으로"
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "day": 25,
+  "title": "Demenagement",
+  "theme": "이사와 정리",
+  "description": "집 구하기와 짐 정리, 계약 표현을 모았습니다.",
+  "words": [
+    {
+      "word": "l'entretien",
+      "partOfSpeech": "noun",
+      "meaning": "면접",
+      "example": "On rencontre souvent l'entretien au moment de changer de logement."
+    },
+    {
+      "word": "l'experience",
+      "partOfSpeech": "noun",
+      "meaning": "경험",
+      "example": "Dans la vraie vie, l'experience revient souvent au moment de changer de logement."
+    },
+    {
+      "word": "la competence",
+      "partOfSpeech": "noun",
+      "meaning": "역량",
+      "example": "Je remarque souvent la competence au moment de changer de logement."
+    },
+    {
+      "word": "la regle",
+      "partOfSpeech": "noun",
+      "meaning": "규칙",
+      "example": "On rencontre souvent la regle au moment de changer de logement."
+    },
+    {
+      "word": "la securite",
+      "partOfSpeech": "noun",
+      "meaning": "안전",
+      "example": "Dans la vraie vie, la securite revient souvent au moment de changer de logement."
+    },
+    {
+      "word": "l'urgence",
+      "partOfSpeech": "noun",
+      "meaning": "긴급 상황",
+      "example": "Je remarque souvent l'urgence au moment de changer de logement."
+    },
+    {
+      "word": "la conclusion",
+      "partOfSpeech": "noun",
+      "meaning": "결론",
+      "example": "On rencontre souvent la conclusion au moment de changer de logement."
+    },
+    {
+      "word": "la condition",
+      "partOfSpeech": "noun",
+      "meaning": "조건",
+      "example": "Dans la vraie vie, la condition revient souvent au moment de changer de logement."
+    },
+    {
+      "word": "l'exemple",
+      "partOfSpeech": "noun",
+      "meaning": "예시",
+      "example": "Je remarque souvent l'exemple au moment de changer de logement."
+    },
+    {
+      "word": "l'accueil",
+      "partOfSpeech": "noun",
+      "meaning": "맞이함",
+      "example": "On rencontre souvent l'accueil au moment de changer de logement."
+    },
+    {
+      "word": "la conversation",
+      "partOfSpeech": "noun",
+      "meaning": "대화",
+      "example": "Dans la vraie vie, la conversation revient souvent au moment de changer de logement."
+    },
+    {
+      "word": "le rendez-vous",
+      "partOfSpeech": "noun",
+      "meaning": "약속",
+      "example": "Je remarque souvent le rendez-vous au moment de changer de logement."
+    },
+    {
+      "word": "la famille",
+      "partOfSpeech": "noun",
+      "meaning": "가족",
+      "example": "On rencontre souvent la famille au moment de changer de logement."
+    },
+    {
+      "word": "la chambre",
+      "partOfSpeech": "noun",
+      "meaning": "방",
+      "example": "Dans la vraie vie, la chambre revient souvent au moment de changer de logement."
+    },
+    {
+      "word": "la cuisine",
+      "partOfSpeech": "noun",
+      "meaning": "부엌",
+      "example": "Je remarque souvent la cuisine au moment de changer de logement."
+    },
+    {
+      "word": "clarifier",
+      "partOfSpeech": "verb",
+      "meaning": "명확히 하다",
+      "example": "En general, je dois clarifier au moment de changer de logement."
+    },
+    {
+      "word": "proposer",
+      "partOfSpeech": "verb",
+      "meaning": "제안하다",
+      "example": "Dans cette scene, nous pouvons proposer sans perdre de temps au moment de changer de logement."
+    },
+    {
+      "word": "justifier",
+      "partOfSpeech": "verb",
+      "meaning": "정당화하다",
+      "example": "Il faut parfois justifier naturellement au moment de changer de logement."
+    },
+    {
+      "word": "conclure",
+      "partOfSpeech": "verb",
+      "meaning": "결론짓다",
+      "example": "En general, je dois conclure au moment de changer de logement."
+    },
+    {
+      "word": "reviser",
+      "partOfSpeech": "verb",
+      "meaning": "복습하다",
+      "example": "Dans cette scene, nous pouvons reviser sans perdre de temps au moment de changer de logement."
+    },
+    {
+      "word": "se concentrer",
+      "partOfSpeech": "verb",
+      "meaning": "집중하다",
+      "example": "Il faut parfois se concentrer naturellement au moment de changer de logement."
+    },
+    {
+      "word": "retenir",
+      "partOfSpeech": "verb",
+      "meaning": "기억하다",
+      "example": "En general, je dois retenir au moment de changer de logement."
+    },
+    {
+      "word": "respecter",
+      "partOfSpeech": "verb",
+      "meaning": "존중하다",
+      "example": "Dans cette scene, nous pouvons respecter sans perdre de temps au moment de changer de logement."
+    },
+    {
+      "word": "coordonner",
+      "partOfSpeech": "verb",
+      "meaning": "조율하다",
+      "example": "Il faut parfois coordonner naturellement au moment de changer de logement."
+    },
+    {
+      "word": "accueillir",
+      "partOfSpeech": "verb",
+      "meaning": "맞이하다",
+      "example": "En general, je dois accueillir au moment de changer de logement."
+    },
+    {
+      "word": "saluer",
+      "partOfSpeech": "verb",
+      "meaning": "인사하다",
+      "example": "Dans cette scene, nous pouvons saluer sans perdre de temps au moment de changer de logement."
+    },
+    {
+      "word": "presenter",
+      "partOfSpeech": "verb",
+      "meaning": "소개하다",
+      "example": "Il faut parfois presenter naturellement au moment de changer de logement."
+    },
+    {
+      "word": "demander",
+      "partOfSpeech": "verb",
+      "meaning": "요청하다",
+      "example": "En general, je dois demander au moment de changer de logement."
+    },
+    {
+      "word": "expliquer",
+      "partOfSpeech": "verb",
+      "meaning": "설명하다",
+      "example": "Dans cette scene, nous pouvons expliquer sans perdre de temps au moment de changer de logement."
+    },
+    {
+      "word": "commencer",
+      "partOfSpeech": "verb",
+      "meaning": "시작하다",
+      "example": "Il faut parfois commencer naturellement au moment de changer de logement."
+    },
+    {
+      "word": "visible",
+      "partOfSpeech": "adjective",
+      "meaning": "눈에 잘 띄는",
+      "example": "Il vaut souvent mieux etre visible au moment de changer de logement."
+    },
+    {
+      "word": "lumineux",
+      "partOfSpeech": "adjective",
+      "meaning": "채광이 좋은",
+      "example": "Rester lumineux aide beaucoup au moment de changer de logement."
+    },
+    {
+      "word": "renove",
+      "partOfSpeech": "adjective",
+      "meaning": "수리된",
+      "example": "Essayer d'etre renove fait souvent la difference au moment de changer de logement."
+    },
+    {
+      "word": "courtois",
+      "partOfSpeech": "adjective",
+      "meaning": "공손한",
+      "example": "Il vaut souvent mieux etre courtois au moment de changer de logement."
+    },
+    {
+      "word": "mecontent",
+      "partOfSpeech": "adjective",
+      "meaning": "불만족한",
+      "example": "Rester mecontent aide beaucoup au moment de changer de logement."
+    },
+    {
+      "word": "motivant",
+      "partOfSpeech": "adjective",
+      "meaning": "의욕을 주는",
+      "example": "Essayer d'etre motivant fait souvent la difference au moment de changer de logement."
+    },
+    {
+      "word": "qualifie",
+      "partOfSpeech": "adjective",
+      "meaning": "자격을 갖춘",
+      "example": "Il vaut souvent mieux etre qualifie au moment de changer de logement."
+    },
+    {
+      "word": "polyvalent",
+      "partOfSpeech": "adjective",
+      "meaning": "다재다능한",
+      "example": "Rester polyvalent aide beaucoup au moment de changer de logement."
+    },
+    {
+      "word": "strict",
+      "partOfSpeech": "adjective",
+      "meaning": "엄격한",
+      "example": "Essayer d'etre strict fait souvent la difference au moment de changer de logement."
+    },
+    {
+      "word": "dangereux",
+      "partOfSpeech": "adjective",
+      "meaning": "위험한",
+      "example": "Il vaut souvent mieux etre dangereux au moment de changer de logement."
+    },
+    {
+      "word": "en pratique",
+      "partOfSpeech": "adverb",
+      "meaning": "실제로",
+      "example": "On agit souvent en pratique au moment de changer de logement."
+    },
+    {
+      "word": "au final",
+      "partOfSpeech": "adverb",
+      "meaning": "결국",
+      "example": "Dans la vraie vie, on fait souvent cela au final au moment de changer de logement."
+    },
+    {
+      "word": "par consequent",
+      "partOfSpeech": "adverb",
+      "meaning": "따라서",
+      "example": "On entend souvent cette expression, par consequent, au moment de changer de logement."
+    },
+    {
+      "word": "en revanche",
+      "partOfSpeech": "adverb",
+      "meaning": "반면에",
+      "example": "On agit souvent en revanche au moment de changer de logement."
+    },
+    {
+      "word": "pourtant",
+      "partOfSpeech": "adverb",
+      "meaning": "그런데도",
+      "example": "Dans la vraie vie, on fait souvent cela pourtant au moment de changer de logement."
+    },
+    {
+      "word": "d'ailleurs",
+      "partOfSpeech": "adverb",
+      "meaning": "게다가",
+      "example": "On entend souvent cette expression, d'ailleurs, au moment de changer de logement."
+    },
+    {
+      "word": "autrement dit",
+      "partOfSpeech": "adverb",
+      "meaning": "즉",
+      "example": "On agit souvent autrement dit au moment de changer de logement."
+    },
+    {
+      "word": "dans ce cas",
+      "partOfSpeech": "adverb",
+      "meaning": "그 경우에는",
+      "example": "Dans la vraie vie, on fait souvent cela dans ce cas au moment de changer de logement."
+    },
+    {
+      "word": "par etapes",
+      "partOfSpeech": "adverb",
+      "meaning": "단계적으로",
+      "example": "On entend souvent cette expression, par etapes, au moment de changer de logement."
+    },
+    {
+      "word": "sans pression",
+      "partOfSpeech": "adverb",
+      "meaning": "부담 없이",
+      "example": "On agit souvent sans pression au moment de changer de logement."
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent au moment de changer de logement.",
+      "answer": "l'experience",
+      "hint": "경험"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent au moment de changer de logement.",
+      "answer": "la securite",
+      "hint": "안전"
+    },
+    {
+      "sentence": "On rencontre souvent ____ au moment de changer de logement.",
+      "answer": "l'accueil",
+      "hint": "맞이함"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent au moment de changer de logement.",
+      "answer": "la chambre",
+      "hint": "방"
+    },
+    {
+      "sentence": "En general, je dois ____ au moment de changer de logement.",
+      "answer": "conclure",
+      "hint": "결론짓다"
+    },
+    {
+      "sentence": "Dans cette scene, nous pouvons ____ sans perdre de temps au moment de changer de logement.",
+      "answer": "respecter",
+      "hint": "존중하다"
+    },
+    {
+      "sentence": "Il faut parfois ____ naturellement au moment de changer de logement.",
+      "answer": "commencer",
+      "hint": "시작하다"
+    },
+    {
+      "sentence": "Rester ____ aide beaucoup au moment de changer de logement.",
+      "answer": "mecontent",
+      "hint": "불만족한"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ au moment de changer de logement.",
+      "answer": "au final",
+      "hint": "결국"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ au moment de changer de logement.",
+      "answer": "dans ce cas",
+      "hint": "그 경우에는"
+    }
+  ]
+}

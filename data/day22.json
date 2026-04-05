@@ -1,0 +1,360 @@
+{
+  "day": 22,
+  "title": "Societe et quotidien",
+  "theme": "사회 이슈와 일상",
+  "description": "공공생활과 사회 현상을 말할 때 유용합니다.",
+  "words": [
+    {
+      "word": "l'equipe",
+      "partOfSpeech": "noun",
+      "meaning": "팀",
+      "example": "On rencontre souvent l'equipe dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "la coordination",
+      "partOfSpeech": "noun",
+      "meaning": "조율",
+      "example": "Dans la vraie vie, la coordination revient souvent dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "l'evenement",
+      "partOfSpeech": "noun",
+      "meaning": "행사",
+      "example": "Je remarque souvent l'evenement dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "l'invitation",
+      "partOfSpeech": "noun",
+      "meaning": "초대",
+      "example": "On rencontre souvent l'invitation dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "le programme",
+      "partOfSpeech": "noun",
+      "meaning": "일정표",
+      "example": "Dans la vraie vie, le programme revient souvent dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "le demenagement",
+      "partOfSpeech": "noun",
+      "meaning": "이사",
+      "example": "Je remarque souvent le demenagement dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "le carton",
+      "partOfSpeech": "noun",
+      "meaning": "상자",
+      "example": "On rencontre souvent le carton dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "le contrat",
+      "partOfSpeech": "noun",
+      "meaning": "계약",
+      "example": "Dans la vraie vie, le contrat revient souvent dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "le loyer",
+      "partOfSpeech": "noun",
+      "meaning": "월세",
+      "example": "Je remarque souvent le loyer dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "le client",
+      "partOfSpeech": "noun",
+      "meaning": "고객",
+      "example": "On rencontre souvent le client dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "la reclamation",
+      "partOfSpeech": "noun",
+      "meaning": "불만 제기",
+      "example": "Dans la vraie vie, la reclamation revient souvent dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "la satisfaction",
+      "partOfSpeech": "noun",
+      "meaning": "만족",
+      "example": "Je remarque souvent la satisfaction dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "l'entretien",
+      "partOfSpeech": "noun",
+      "meaning": "면접",
+      "example": "On rencontre souvent l'entretien dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "l'experience",
+      "partOfSpeech": "noun",
+      "meaning": "경험",
+      "example": "Dans la vraie vie, l'experience revient souvent dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "la competence",
+      "partOfSpeech": "noun",
+      "meaning": "역량",
+      "example": "Je remarque souvent la competence dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "retirer",
+      "partOfSpeech": "verb",
+      "meaning": "인출하다",
+      "example": "En general, je dois retirer dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "virer",
+      "partOfSpeech": "verb",
+      "meaning": "송금하다",
+      "example": "Dans cette scene, nous pouvons virer sans perdre de temps dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "facturer",
+      "partOfSpeech": "verb",
+      "meaning": "청구하다",
+      "example": "Il faut parfois facturer naturellement dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "rembourser",
+      "partOfSpeech": "verb",
+      "meaning": "환불하다",
+      "example": "En general, je dois rembourser dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "negocier",
+      "partOfSpeech": "verb",
+      "meaning": "협상하다",
+      "example": "Dans cette scene, nous pouvons negocier sans perdre de temps dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "publier",
+      "partOfSpeech": "verb",
+      "meaning": "게시하다",
+      "example": "Il faut parfois publier naturellement dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "commenter",
+      "partOfSpeech": "verb",
+      "meaning": "댓글 달다",
+      "example": "En general, je dois commenter dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "diffuser",
+      "partOfSpeech": "verb",
+      "meaning": "배포하다",
+      "example": "Dans cette scene, nous pouvons diffuser sans perdre de temps dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "debattre",
+      "partOfSpeech": "verb",
+      "meaning": "토론하다",
+      "example": "Il faut parfois debattre naturellement dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "identifier",
+      "partOfSpeech": "verb",
+      "meaning": "파악하다",
+      "example": "En general, je dois identifier dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "resoudre",
+      "partOfSpeech": "verb",
+      "meaning": "해결하다",
+      "example": "Dans cette scene, nous pouvons resoudre sans perdre de temps dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "ameliorer",
+      "partOfSpeech": "verb",
+      "meaning": "개선하다",
+      "example": "Il faut parfois ameliorer naturellement dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "clarifier",
+      "partOfSpeech": "verb",
+      "meaning": "명확히 하다",
+      "example": "En general, je dois clarifier dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "proposer",
+      "partOfSpeech": "verb",
+      "meaning": "제안하다",
+      "example": "Dans cette scene, nous pouvons proposer sans perdre de temps dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "justifier",
+      "partOfSpeech": "verb",
+      "meaning": "정당화하다",
+      "example": "Il faut parfois justifier naturellement dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "autonome",
+      "partOfSpeech": "adjective",
+      "meaning": "자율적인",
+      "example": "Il vaut souvent mieux etre autonome dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "patient",
+      "partOfSpeech": "adjective",
+      "meaning": "끈기 있는",
+      "example": "Rester patient aide beaucoup dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "social",
+      "partOfSpeech": "adjective",
+      "meaning": "사회적인",
+      "example": "Essayer d'etre social fait souvent la difference dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "collectif",
+      "partOfSpeech": "adjective",
+      "meaning": "공동의",
+      "example": "Il vaut souvent mieux etre collectif dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "inclusif",
+      "partOfSpeech": "adjective",
+      "meaning": "포용적인",
+      "example": "Rester inclusif aide beaucoup dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "strategique",
+      "partOfSpeech": "adjective",
+      "meaning": "전략적인",
+      "example": "Essayer d'etre strategique fait souvent la difference dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "realiste",
+      "partOfSpeech": "adjective",
+      "meaning": "현실적인",
+      "example": "Il vaut souvent mieux etre realiste dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "festif",
+      "partOfSpeech": "adjective",
+      "meaning": "축제 분위기의",
+      "example": "Rester festif aide beaucoup dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "accueillant",
+      "partOfSpeech": "adjective",
+      "meaning": "환영하는 분위기의",
+      "example": "Essayer d'etre accueillant fait souvent la difference dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "visible",
+      "partOfSpeech": "adjective",
+      "meaning": "눈에 잘 띄는",
+      "example": "Il vaut souvent mieux etre visible dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "au quotidien",
+      "partOfSpeech": "adverb",
+      "meaning": "일상적으로",
+      "example": "On agit souvent au quotidien dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "a long terme",
+      "partOfSpeech": "adverb",
+      "meaning": "장기적으로",
+      "example": "Dans la vraie vie, on fait souvent cela a long terme dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "sans gaspillage",
+      "partOfSpeech": "adverb",
+      "meaning": "낭비 없이",
+      "example": "On entend souvent cette expression, sans gaspillage, dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "autant que possible",
+      "partOfSpeech": "adverb",
+      "meaning": "가능한 한",
+      "example": "On agit souvent autant que possible dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "a credit",
+      "partOfSpeech": "adverb",
+      "meaning": "카드로",
+      "example": "Dans la vraie vie, on fait souvent cela a credit dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "au total",
+      "partOfSpeech": "adverb",
+      "meaning": "총합으로",
+      "example": "On entend souvent cette expression, au total, dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "sans frais",
+      "partOfSpeech": "adverb",
+      "meaning": "수수료 없이",
+      "example": "On agit souvent sans frais dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "en resume",
+      "partOfSpeech": "adverb",
+      "meaning": "요약하면",
+      "example": "Dans la vraie vie, on fait souvent cela en resume dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "en bref",
+      "partOfSpeech": "adverb",
+      "meaning": "간단히 말해",
+      "example": "On entend souvent cette expression, en bref, dans une conversation sur la vie en societe."
+    },
+    {
+      "word": "en pratique",
+      "partOfSpeech": "adverb",
+      "meaning": "실제로",
+      "example": "On agit souvent en pratique dans une conversation sur la vie en societe."
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent dans une conversation sur la vie en societe.",
+      "answer": "la coordination",
+      "hint": "조율"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent dans une conversation sur la vie en societe.",
+      "answer": "le programme",
+      "hint": "일정표"
+    },
+    {
+      "sentence": "On rencontre souvent ____ dans une conversation sur la vie en societe.",
+      "answer": "le client",
+      "hint": "고객"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent dans une conversation sur la vie en societe.",
+      "answer": "l'experience",
+      "hint": "경험"
+    },
+    {
+      "sentence": "En general, je dois ____ dans une conversation sur la vie en societe.",
+      "answer": "rembourser",
+      "hint": "환불하다"
+    },
+    {
+      "sentence": "Dans cette scene, nous pouvons ____ sans perdre de temps dans une conversation sur la vie en societe.",
+      "answer": "diffuser",
+      "hint": "배포하다"
+    },
+    {
+      "sentence": "Il faut parfois ____ naturellement dans une conversation sur la vie en societe.",
+      "answer": "justifier",
+      "hint": "정당화하다"
+    },
+    {
+      "sentence": "Rester ____ aide beaucoup dans une conversation sur la vie en societe.",
+      "answer": "inclusif",
+      "hint": "포용적인"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ dans une conversation sur la vie en societe.",
+      "answer": "a long terme",
+      "hint": "장기적으로"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ dans une conversation sur la vie en societe.",
+      "answer": "en resume",
+      "hint": "요약하면"
+    }
+  ]
+}
