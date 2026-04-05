@@ -8,301 +8,401 @@
       "word": "la preuve",
       "partOfSpeech": "noun",
       "meaning": "근거",
-      "example": "On rencontre souvent la preuve pendant une discussion ou chacun donne son avis."
+      "example": "On rencontre souvent la preuve pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 근거 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la concentration",
       "partOfSpeech": "noun",
       "meaning": "집중",
-      "example": "Dans la vraie vie, la concentration revient souvent pendant une discussion ou chacun donne son avis."
+      "example": "Dans la vraie vie, la concentration revient souvent pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "실생활에서는 각자 의견을 말하는 토론 중에 집중이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "l'objectif",
       "partOfSpeech": "noun",
       "meaning": "목표",
-      "example": "Je remarque souvent l'objectif pendant une discussion ou chacun donne son avis."
+      "example": "Je remarque souvent l'objectif pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 목표을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le progres",
       "partOfSpeech": "noun",
       "meaning": "진전",
-      "example": "On rencontre souvent le progres pendant une discussion ou chacun donne son avis."
+      "example": "On rencontre souvent le progres pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 진전 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la societe",
       "partOfSpeech": "noun",
       "meaning": "사회",
-      "example": "Dans la vraie vie, la societe revient souvent pendant une discussion ou chacun donne son avis."
+      "example": "Dans la vraie vie, la societe revient souvent pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "실생활에서는 각자 의견을 말하는 토론 중에 사회이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la diversite",
       "partOfSpeech": "noun",
       "meaning": "다양성",
-      "example": "Je remarque souvent la diversite pendant une discussion ou chacun donne son avis."
+      "example": "Je remarque souvent la diversite pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 다양성을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le respect",
       "partOfSpeech": "noun",
       "meaning": "존중",
-      "example": "On rencontre souvent le respect pendant une discussion ou chacun donne son avis."
+      "example": "On rencontre souvent le respect pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 존중 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le projet",
       "partOfSpeech": "noun",
       "meaning": "프로젝트",
-      "example": "Dans la vraie vie, le projet revient souvent pendant une discussion ou chacun donne son avis."
+      "example": "Dans la vraie vie, le projet revient souvent pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "실생활에서는 각자 의견을 말하는 토론 중에 프로젝트이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "l'equipe",
       "partOfSpeech": "noun",
       "meaning": "팀",
-      "example": "Je remarque souvent l'equipe pendant une discussion ou chacun donne son avis."
+      "example": "Je remarque souvent l'equipe pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 팀을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la coordination",
       "partOfSpeech": "noun",
       "meaning": "조율",
-      "example": "On rencontre souvent la coordination pendant une discussion ou chacun donne son avis."
+      "example": "On rencontre souvent la coordination pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 조율 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "l'evenement",
       "partOfSpeech": "noun",
       "meaning": "행사",
-      "example": "Dans la vraie vie, l'evenement revient souvent pendant une discussion ou chacun donne son avis."
+      "example": "Dans la vraie vie, l'evenement revient souvent pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "실생활에서는 각자 의견을 말하는 토론 중에 행사이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "l'invitation",
       "partOfSpeech": "noun",
       "meaning": "초대",
-      "example": "Je remarque souvent l'invitation pendant une discussion ou chacun donne son avis."
+      "example": "Je remarque souvent l'invitation pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 초대을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le programme",
       "partOfSpeech": "noun",
       "meaning": "일정표",
-      "example": "On rencontre souvent le programme pendant une discussion ou chacun donne son avis."
+      "example": "On rencontre souvent le programme pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 일정표 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le demenagement",
       "partOfSpeech": "noun",
       "meaning": "이사",
-      "example": "Dans la vraie vie, le demenagement revient souvent pendant une discussion ou chacun donne son avis."
+      "example": "Dans la vraie vie, le demenagement revient souvent pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "실생활에서는 각자 의견을 말하는 토론 중에 이사이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le carton",
       "partOfSpeech": "noun",
       "meaning": "상자",
-      "example": "Je remarque souvent le carton pendant une discussion ou chacun donne son avis."
+      "example": "Je remarque souvent le carton pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 상자을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "imprimer",
       "partOfSpeech": "verb",
       "meaning": "출력하다",
-      "example": "En general, je dois imprimer pendant une discussion ou chacun donne son avis."
+      "example": "En general, je dois imprimer pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 출력하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "classer",
       "partOfSpeech": "verb",
       "meaning": "분류하다",
-      "example": "Dans cette scene, nous pouvons classer sans perdre de temps pendant une discussion ou chacun donne son avis."
+      "example": "Dans cette scene, nous pouvons classer sans perdre de temps pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 시간을 끌지 않고 분류하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "declarer",
       "partOfSpeech": "verb",
       "meaning": "신고하다",
-      "example": "Il faut parfois declarer naturellement pendant une discussion ou chacun donne son avis."
+      "example": "Il faut parfois declarer naturellement pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 자연스럽게 신고하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "trier",
       "partOfSpeech": "verb",
       "meaning": "분류하다",
-      "example": "En general, je dois trier pendant une discussion ou chacun donne son avis."
+      "example": "En general, je dois trier pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 분류하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "recycler",
       "partOfSpeech": "verb",
       "meaning": "재활용하다",
-      "example": "Dans cette scene, nous pouvons recycler sans perdre de temps pendant une discussion ou chacun donne son avis."
+      "example": "Dans cette scene, nous pouvons recycler sans perdre de temps pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 시간을 끌지 않고 재활용하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "reduire",
       "partOfSpeech": "verb",
       "meaning": "줄이다",
-      "example": "Il faut parfois reduire naturellement pendant une discussion ou chacun donne son avis."
+      "example": "Il faut parfois reduire naturellement pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 자연스럽게 줄이다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "proteger",
       "partOfSpeech": "verb",
       "meaning": "보호하다",
-      "example": "En general, je dois proteger pendant une discussion ou chacun donne son avis."
+      "example": "En general, je dois proteger pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 보호하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "eteindre",
       "partOfSpeech": "verb",
       "meaning": "끄다",
-      "example": "Dans cette scene, nous pouvons eteindre sans perdre de temps pendant une discussion ou chacun donne son avis."
+      "example": "Dans cette scene, nous pouvons eteindre sans perdre de temps pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 시간을 끌지 않고 끄다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "retirer",
       "partOfSpeech": "verb",
       "meaning": "인출하다",
-      "example": "Il faut parfois retirer naturellement pendant une discussion ou chacun donne son avis."
+      "example": "Il faut parfois retirer naturellement pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 자연스럽게 인출하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "virer",
       "partOfSpeech": "verb",
       "meaning": "송금하다",
-      "example": "En general, je dois virer pendant une discussion ou chacun donne son avis."
+      "example": "En general, je dois virer pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 송금하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "facturer",
       "partOfSpeech": "verb",
       "meaning": "청구하다",
-      "example": "Dans cette scene, nous pouvons facturer sans perdre de temps pendant une discussion ou chacun donne son avis."
+      "example": "Dans cette scene, nous pouvons facturer sans perdre de temps pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 시간을 끌지 않고 청구하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "rembourser",
       "partOfSpeech": "verb",
       "meaning": "환불하다",
-      "example": "Il faut parfois rembourser naturellement pendant une discussion ou chacun donne son avis."
+      "example": "Il faut parfois rembourser naturellement pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 자연스럽게 환불하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "negocier",
       "partOfSpeech": "verb",
       "meaning": "협상하다",
-      "example": "En general, je dois negocier pendant une discussion ou chacun donne son avis."
+      "example": "En general, je dois negocier pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 협상하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "publier",
       "partOfSpeech": "verb",
       "meaning": "게시하다",
-      "example": "Dans cette scene, nous pouvons publier sans perdre de temps pendant une discussion ou chacun donne son avis."
+      "example": "Dans cette scene, nous pouvons publier sans perdre de temps pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 시간을 끌지 않고 게시하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "commenter",
       "partOfSpeech": "verb",
       "meaning": "댓글 달다",
-      "example": "Il faut parfois commenter naturellement pendant une discussion ou chacun donne son avis."
+      "example": "Il faut parfois commenter naturellement pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 자연스럽게 댓글 달다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "acceptable",
       "partOfSpeech": "adjective",
       "meaning": "받아들일 만한",
-      "example": "Il vaut souvent mieux etre acceptable pendant une discussion ou chacun donne son avis."
+      "example": "Il vaut souvent mieux etre acceptable pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 받아들일 만한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "coherent",
       "partOfSpeech": "adjective",
       "meaning": "일관된",
-      "example": "Rester coherent aide beaucoup pendant une discussion ou chacun donne son avis."
+      "example": "Rester coherent aide beaucoup pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 일관된 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "convaincant",
       "partOfSpeech": "adjective",
       "meaning": "설득력 있는",
-      "example": "Essayer d'etre convaincant fait souvent la difference pendant une discussion ou chacun donne son avis."
+      "example": "Essayer d'etre convaincant fait souvent la difference pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 설득력 있는 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "essentiel",
       "partOfSpeech": "adjective",
       "meaning": "핵심적인",
-      "example": "Il vaut souvent mieux etre essentiel pendant une discussion ou chacun donne son avis."
+      "example": "Il vaut souvent mieux etre essentiel pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 핵심적인 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "attentif",
       "partOfSpeech": "adjective",
       "meaning": "주의 깊은",
-      "example": "Rester attentif aide beaucoup pendant une discussion ou chacun donne son avis."
+      "example": "Rester attentif aide beaucoup pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 주의 깊은 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "motive",
       "partOfSpeech": "adjective",
       "meaning": "동기부여된",
-      "example": "Essayer d'etre motive fait souvent la difference pendant une discussion ou chacun donne son avis."
+      "example": "Essayer d'etre motive fait souvent la difference pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 동기부여된 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "autonome",
       "partOfSpeech": "adjective",
       "meaning": "자율적인",
-      "example": "Il vaut souvent mieux etre autonome pendant une discussion ou chacun donne son avis."
+      "example": "Il vaut souvent mieux etre autonome pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 자율적인 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "patient",
       "partOfSpeech": "adjective",
       "meaning": "끈기 있는",
-      "example": "Rester patient aide beaucoup pendant une discussion ou chacun donne son avis."
+      "example": "Rester patient aide beaucoup pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 끈기 있는 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "social",
       "partOfSpeech": "adjective",
       "meaning": "사회적인",
-      "example": "Essayer d'etre social fait souvent la difference pendant une discussion ou chacun donne son avis."
+      "example": "Essayer d'etre social fait souvent la difference pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 사회적인 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "collectif",
       "partOfSpeech": "adjective",
       "meaning": "공동의",
-      "example": "Il vaut souvent mieux etre collectif pendant une discussion ou chacun donne son avis."
+      "example": "Il vaut souvent mieux etre collectif pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 공동의 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "pour le plaisir",
       "partOfSpeech": "adverb",
       "meaning": "즐거움 때문에",
-      "example": "On agit souvent pour le plaisir pendant une discussion ou chacun donne son avis."
+      "example": "On agit souvent pour le plaisir pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 보통 즐거움 때문에 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en direct",
       "partOfSpeech": "adverb",
       "meaning": "실시간으로",
-      "example": "Dans la vraie vie, on fait souvent cela en direct pendant une discussion ou chacun donne son avis."
+      "example": "Dans la vraie vie, on fait souvent cela en direct pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "실생활에서는 각자 의견을 말하는 토론 중에 보통 실시간으로 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "par courrier",
       "partOfSpeech": "adverb",
       "meaning": "우편으로",
-      "example": "On entend souvent cette expression, par courrier, pendant une discussion ou chacun donne son avis."
+      "example": "On entend souvent cette expression, par courrier, pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 우편으로 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en copie",
       "partOfSpeech": "adverb",
       "meaning": "참조로",
-      "example": "On agit souvent en copie pendant une discussion ou chacun donne son avis."
+      "example": "On agit souvent en copie pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 보통 참조로 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "sans erreur",
       "partOfSpeech": "adverb",
       "meaning": "실수 없이",
-      "example": "Dans la vraie vie, on fait souvent cela sans erreur pendant une discussion ou chacun donne son avis."
+      "example": "Dans la vraie vie, on fait souvent cela sans erreur pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "실생활에서는 각자 의견을 말하는 토론 중에 보통 실수 없이 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "dans les regles",
       "partOfSpeech": "adverb",
       "meaning": "규정대로",
-      "example": "On entend souvent cette expression, dans les regles, pendant une discussion ou chacun donne son avis."
+      "example": "On entend souvent cette expression, dans les regles, pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 규정대로 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "au quotidien",
       "partOfSpeech": "adverb",
       "meaning": "일상적으로",
-      "example": "On agit souvent au quotidien pendant une discussion ou chacun donne son avis."
+      "example": "On agit souvent au quotidien pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 보통 일상적으로 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a long terme",
       "partOfSpeech": "adverb",
       "meaning": "장기적으로",
-      "example": "Dans la vraie vie, on fait souvent cela a long terme pendant une discussion ou chacun donne son avis."
+      "example": "Dans la vraie vie, on fait souvent cela a long terme pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "실생활에서는 각자 의견을 말하는 토론 중에 보통 장기적으로 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "sans gaspillage",
       "partOfSpeech": "adverb",
       "meaning": "낭비 없이",
-      "example": "On entend souvent cette expression, sans gaspillage, pendant une discussion ou chacun donne son avis."
+      "example": "On entend souvent cette expression, sans gaspillage, pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 낭비 없이 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "autant que possible",
       "partOfSpeech": "adverb",
       "meaning": "가능한 한",
-      "example": "On agit souvent autant que possible pendant une discussion ou chacun donne son avis."
+      "example": "On agit souvent autant que possible pendant une discussion ou chacun donne son avis.",
+      "exampleKo": "각자 의견을 말하는 토론 중에 보통 가능한 한 행동하게 된다.",
+      "exampleNote": ""
     }
   ],
   "quiz": [

@@ -8,301 +8,401 @@
       "word": "l'accueil",
       "partOfSpeech": "noun",
       "meaning": "맞이함",
-      "example": "On rencontre souvent l'accueil quand je rencontre quelqu'un pour la premiere fois."
+      "example": "On rencontre souvent l'accueil quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 맞이함 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la conversation",
       "partOfSpeech": "noun",
       "meaning": "대화",
-      "example": "Dans la vraie vie, la conversation revient souvent quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Dans la vraie vie, la conversation revient souvent quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "실생활에서는 처음 누군가를 만날 때 대화이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le rendez-vous",
       "partOfSpeech": "noun",
       "meaning": "약속",
-      "example": "Je remarque souvent le rendez-vous quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Je remarque souvent le rendez-vous quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 약속을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la famille",
       "partOfSpeech": "noun",
       "meaning": "가족",
-      "example": "On rencontre souvent la famille quand je rencontre quelqu'un pour la premiere fois."
+      "example": "On rencontre souvent la famille quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 가족 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la chambre",
       "partOfSpeech": "noun",
       "meaning": "방",
-      "example": "Dans la vraie vie, la chambre revient souvent quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Dans la vraie vie, la chambre revient souvent quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "실생활에서는 처음 누군가를 만날 때 방이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la cuisine",
       "partOfSpeech": "noun",
       "meaning": "부엌",
-      "example": "Je remarque souvent la cuisine quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Je remarque souvent la cuisine quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 부엌을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le quartier",
       "partOfSpeech": "noun",
       "meaning": "동네",
-      "example": "On rencontre souvent le quartier quand je rencontre quelqu'un pour la premiere fois."
+      "example": "On rencontre souvent le quartier quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 동네 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le cours",
       "partOfSpeech": "noun",
       "meaning": "수업",
-      "example": "Dans la vraie vie, le cours revient souvent quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Dans la vraie vie, le cours revient souvent quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "실생활에서는 처음 누군가를 만날 때 수업이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le devoir",
       "partOfSpeech": "noun",
       "meaning": "과제",
-      "example": "Je remarque souvent le devoir quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Je remarque souvent le devoir quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 과제을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la methode",
       "partOfSpeech": "noun",
       "meaning": "방법",
-      "example": "On rencontre souvent la methode quand je rencontre quelqu'un pour la premiere fois."
+      "example": "On rencontre souvent la methode quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 방법 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la question",
       "partOfSpeech": "noun",
       "meaning": "질문",
-      "example": "Dans la vraie vie, la question revient souvent quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Dans la vraie vie, la question revient souvent quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "실생활에서는 처음 누군가를 만날 때 질문이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la reponse",
       "partOfSpeech": "noun",
       "meaning": "답변",
-      "example": "Je remarque souvent la reponse quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Je remarque souvent la reponse quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 답변을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la ville",
       "partOfSpeech": "noun",
       "meaning": "도시",
-      "example": "On rencontre souvent la ville quand je rencontre quelqu'un pour la premiere fois."
+      "example": "On rencontre souvent la ville quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 도시 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la station",
       "partOfSpeech": "noun",
       "meaning": "역",
-      "example": "Dans la vraie vie, la station revient souvent quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Dans la vraie vie, la station revient souvent quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "실생활에서는 처음 누군가를 만날 때 역이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le trajet",
       "partOfSpeech": "noun",
       "meaning": "이동 경로",
-      "example": "Je remarque souvent le trajet quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Je remarque souvent le trajet quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 이동 경로을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "accueillir",
       "partOfSpeech": "verb",
       "meaning": "맞이하다",
-      "example": "En general, je dois accueillir quand je rencontre quelqu'un pour la premiere fois."
+      "example": "En general, je dois accueillir quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 맞이하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "saluer",
       "partOfSpeech": "verb",
       "meaning": "인사하다",
-      "example": "Dans cette scene, nous pouvons saluer sans perdre de temps quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Dans cette scene, nous pouvons saluer sans perdre de temps quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 시간을 끌지 않고 인사하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "presenter",
       "partOfSpeech": "verb",
       "meaning": "소개하다",
-      "example": "Il faut parfois presenter naturellement quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Il faut parfois presenter naturellement quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 자연스럽게 소개하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "demander",
       "partOfSpeech": "verb",
       "meaning": "요청하다",
-      "example": "En general, je dois demander quand je rencontre quelqu'un pour la premiere fois."
+      "example": "En general, je dois demander quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 요청하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "expliquer",
       "partOfSpeech": "verb",
       "meaning": "설명하다",
-      "example": "Dans cette scene, nous pouvons expliquer sans perdre de temps quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Dans cette scene, nous pouvons expliquer sans perdre de temps quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 시간을 끌지 않고 설명하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "commencer",
       "partOfSpeech": "verb",
       "meaning": "시작하다",
-      "example": "Il faut parfois commencer naturellement quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Il faut parfois commencer naturellement quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 자연스럽게 시작하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "continuer",
       "partOfSpeech": "verb",
       "meaning": "계속하다",
-      "example": "En general, je dois continuer quand je rencontre quelqu'un pour la premiere fois."
+      "example": "En general, je dois continuer quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 계속하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "ranger",
       "partOfSpeech": "verb",
       "meaning": "정리하다",
-      "example": "Dans cette scene, nous pouvons ranger sans perdre de temps quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Dans cette scene, nous pouvons ranger sans perdre de temps quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 시간을 끌지 않고 정리하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "nettoyer",
       "partOfSpeech": "verb",
       "meaning": "청소하다",
-      "example": "Il faut parfois nettoyer naturellement quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Il faut parfois nettoyer naturellement quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 자연스럽게 청소하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "preparer",
       "partOfSpeech": "verb",
       "meaning": "준비하다",
-      "example": "En general, je dois preparer quand je rencontre quelqu'un pour la premiere fois."
+      "example": "En general, je dois preparer quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 준비하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "inviter",
       "partOfSpeech": "verb",
       "meaning": "초대하다",
-      "example": "Dans cette scene, nous pouvons inviter sans perdre de temps quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Dans cette scene, nous pouvons inviter sans perdre de temps quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 시간을 끌지 않고 초대하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "etudier",
       "partOfSpeech": "verb",
       "meaning": "공부하다",
-      "example": "Il faut parfois etudier naturellement quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Il faut parfois etudier naturellement quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 자연스럽게 공부하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "memoriser",
       "partOfSpeech": "verb",
       "meaning": "암기하다",
-      "example": "En general, je dois memoriser quand je rencontre quelqu'un pour la premiere fois."
+      "example": "En general, je dois memoriser quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 암기하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "relire",
       "partOfSpeech": "verb",
       "meaning": "다시 읽다",
-      "example": "Dans cette scene, nous pouvons relire sans perdre de temps quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Dans cette scene, nous pouvons relire sans perdre de temps quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 시간을 끌지 않고 다시 읽다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "comparer",
       "partOfSpeech": "verb",
       "meaning": "비교하다",
-      "example": "Il faut parfois comparer naturellement quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Il faut parfois comparer naturellement quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 자연스럽게 비교하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "utile",
       "partOfSpeech": "adjective",
       "meaning": "유용한",
-      "example": "Il vaut souvent mieux etre utile quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Il vaut souvent mieux etre utile quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 유용한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "poli",
       "partOfSpeech": "adjective",
       "meaning": "예의 바른",
-      "example": "Rester poli aide beaucoup quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Rester poli aide beaucoup quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 예의 바른 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "ponctuel",
       "partOfSpeech": "adjective",
       "meaning": "시간을 잘 지키는",
-      "example": "Essayer d'etre ponctuel fait souvent la difference quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Essayer d'etre ponctuel fait souvent la difference quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 시간을 잘 지키는 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "simple",
       "partOfSpeech": "adjective",
       "meaning": "간단한",
-      "example": "Il vaut souvent mieux etre simple quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Il vaut souvent mieux etre simple quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 간단한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "familial",
       "partOfSpeech": "adjective",
       "meaning": "가정적인",
-      "example": "Rester familial aide beaucoup quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Rester familial aide beaucoup quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 가정적인 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "pratique",
       "partOfSpeech": "adjective",
       "meaning": "실용적인",
-      "example": "Essayer d'etre pratique fait souvent la difference quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Essayer d'etre pratique fait souvent la difference quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 실용적인 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "propre",
       "partOfSpeech": "adjective",
       "meaning": "깨끗한",
-      "example": "Il vaut souvent mieux etre propre quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Il vaut souvent mieux etre propre quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 깨끗한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "calme",
       "partOfSpeech": "adjective",
       "meaning": "조용한",
-      "example": "Rester calme aide beaucoup quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Rester calme aide beaucoup quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 조용한 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "efficace",
       "partOfSpeech": "adjective",
       "meaning": "효율적인",
-      "example": "Essayer d'etre efficace fait souvent la difference quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Essayer d'etre efficace fait souvent la difference quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 효율적인 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "clair",
       "partOfSpeech": "adjective",
       "meaning": "명확한",
-      "example": "Il vaut souvent mieux etre clair quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Il vaut souvent mieux etre clair quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 명확한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "tout de suite",
       "partOfSpeech": "adverb",
       "meaning": "바로",
-      "example": "On agit souvent tout de suite quand je rencontre quelqu'un pour la premiere fois."
+      "example": "On agit souvent tout de suite quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 보통 바로 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "d'abord",
       "partOfSpeech": "adverb",
       "meaning": "우선",
-      "example": "Dans la vraie vie, on fait souvent cela d'abord quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Dans la vraie vie, on fait souvent cela d'abord quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "실생활에서는 처음 누군가를 만날 때 보통 우선 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "souvent",
       "partOfSpeech": "adverb",
       "meaning": "자주",
-      "example": "On entend souvent cette expression, souvent, quand je rencontre quelqu'un pour la premiere fois."
+      "example": "On entend souvent cette expression, souvent, quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 자주 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en general",
       "partOfSpeech": "adverb",
       "meaning": "대체로",
-      "example": "On agit souvent en general quand je rencontre quelqu'un pour la premiere fois."
+      "example": "On agit souvent en general quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 보통 대체로 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a l'heure",
       "partOfSpeech": "adverb",
       "meaning": "정시에",
-      "example": "Dans la vraie vie, on fait souvent cela a l'heure quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Dans la vraie vie, on fait souvent cela a l'heure quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "실생활에서는 처음 누군가를 만날 때 보통 정시에 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "de bonne heure",
       "partOfSpeech": "adverb",
       "meaning": "일찍",
-      "example": "On entend souvent cette expression, de bonne heure, quand je rencontre quelqu'un pour la premiere fois."
+      "example": "On entend souvent cette expression, de bonne heure, quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 일찍 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en meme temps",
       "partOfSpeech": "adverb",
       "meaning": "동시에",
-      "example": "On agit souvent en meme temps quand je rencontre quelqu'un pour la premiere fois."
+      "example": "On agit souvent en meme temps quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 보통 동시에 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "tranquillement",
       "partOfSpeech": "adverb",
       "meaning": "차분하게",
-      "example": "Dans la vraie vie, on fait souvent cela tranquillement quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Dans la vraie vie, on fait souvent cela tranquillement quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "실생활에서는 처음 누군가를 만날 때 보통 차분하게 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "petit a petit",
       "partOfSpeech": "adverb",
       "meaning": "조금씩",
-      "example": "On entend souvent cette expression, petit a petit, quand je rencontre quelqu'un pour la premiere fois."
+      "example": "On entend souvent cette expression, petit a petit, quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 조금씩 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "sur place",
       "partOfSpeech": "adverb",
       "meaning": "현장에서",
-      "example": "On agit souvent sur place quand je rencontre quelqu'un pour la premiere fois."
+      "example": "On agit souvent sur place quand je rencontre quelqu'un pour la premiere fois.",
+      "exampleKo": "처음 누군가를 만날 때 보통 현장에서 행동하게 된다.",
+      "exampleNote": ""
     }
   ],
   "quiz": [

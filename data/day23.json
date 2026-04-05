@@ -8,301 +8,401 @@
       "word": "le programme",
       "partOfSpeech": "noun",
       "meaning": "일정표",
-      "example": "On rencontre souvent le programme pendant un projet mene avec d'autres personnes."
+      "example": "On rencontre souvent le programme pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 일정표 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le demenagement",
       "partOfSpeech": "noun",
       "meaning": "이사",
-      "example": "Dans la vraie vie, le demenagement revient souvent pendant un projet mene avec d'autres personnes."
+      "example": "Dans la vraie vie, le demenagement revient souvent pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "실생활에서는 여럿이 함께 프로젝트를 할 때 이사이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le carton",
       "partOfSpeech": "noun",
       "meaning": "상자",
-      "example": "Je remarque souvent le carton pendant un projet mene avec d'autres personnes."
+      "example": "Je remarque souvent le carton pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 상자을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le contrat",
       "partOfSpeech": "noun",
       "meaning": "계약",
-      "example": "On rencontre souvent le contrat pendant un projet mene avec d'autres personnes."
+      "example": "On rencontre souvent le contrat pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 계약 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le loyer",
       "partOfSpeech": "noun",
       "meaning": "월세",
-      "example": "Dans la vraie vie, le loyer revient souvent pendant un projet mene avec d'autres personnes."
+      "example": "Dans la vraie vie, le loyer revient souvent pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "실생활에서는 여럿이 함께 프로젝트를 할 때 월세이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le client",
       "partOfSpeech": "noun",
       "meaning": "고객",
-      "example": "Je remarque souvent le client pendant un projet mene avec d'autres personnes."
+      "example": "Je remarque souvent le client pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 고객을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la reclamation",
       "partOfSpeech": "noun",
       "meaning": "불만 제기",
-      "example": "On rencontre souvent la reclamation pendant un projet mene avec d'autres personnes."
+      "example": "On rencontre souvent la reclamation pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 불만 제기 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la satisfaction",
       "partOfSpeech": "noun",
       "meaning": "만족",
-      "example": "Dans la vraie vie, la satisfaction revient souvent pendant un projet mene avec d'autres personnes."
+      "example": "Dans la vraie vie, la satisfaction revient souvent pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "실생활에서는 여럿이 함께 프로젝트를 할 때 만족이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "l'entretien",
       "partOfSpeech": "noun",
       "meaning": "면접",
-      "example": "Je remarque souvent l'entretien pendant un projet mene avec d'autres personnes."
+      "example": "Je remarque souvent l'entretien pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 면접을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "l'experience",
       "partOfSpeech": "noun",
       "meaning": "경험",
-      "example": "On rencontre souvent l'experience pendant un projet mene avec d'autres personnes."
+      "example": "On rencontre souvent l'experience pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 경험 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la competence",
       "partOfSpeech": "noun",
       "meaning": "역량",
-      "example": "Dans la vraie vie, la competence revient souvent pendant un projet mene avec d'autres personnes."
+      "example": "Dans la vraie vie, la competence revient souvent pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "실생활에서는 여럿이 함께 프로젝트를 할 때 역량이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la regle",
       "partOfSpeech": "noun",
       "meaning": "규칙",
-      "example": "Je remarque souvent la regle pendant un projet mene avec d'autres personnes."
+      "example": "Je remarque souvent la regle pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 규칙을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la securite",
       "partOfSpeech": "noun",
       "meaning": "안전",
-      "example": "On rencontre souvent la securite pendant un projet mene avec d'autres personnes."
+      "example": "On rencontre souvent la securite pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 안전 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "l'urgence",
       "partOfSpeech": "noun",
       "meaning": "긴급 상황",
-      "example": "Dans la vraie vie, l'urgence revient souvent pendant un projet mene avec d'autres personnes."
+      "example": "Dans la vraie vie, l'urgence revient souvent pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "실생활에서는 여럿이 함께 프로젝트를 할 때 긴급 상황이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la conclusion",
       "partOfSpeech": "noun",
       "meaning": "결론",
-      "example": "Je remarque souvent la conclusion pendant un projet mene avec d'autres personnes."
+      "example": "Je remarque souvent la conclusion pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 결론을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "negocier",
       "partOfSpeech": "verb",
       "meaning": "협상하다",
-      "example": "En general, je dois negocier pendant un projet mene avec d'autres personnes."
+      "example": "En general, je dois negocier pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 협상하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "publier",
       "partOfSpeech": "verb",
       "meaning": "게시하다",
-      "example": "Dans cette scene, nous pouvons publier sans perdre de temps pendant un projet mene avec d'autres personnes."
+      "example": "Dans cette scene, nous pouvons publier sans perdre de temps pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 시간을 끌지 않고 게시하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "commenter",
       "partOfSpeech": "verb",
       "meaning": "댓글 달다",
-      "example": "Il faut parfois commenter naturellement pendant un projet mene avec d'autres personnes."
+      "example": "Il faut parfois commenter naturellement pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 자연스럽게 댓글 달다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "diffuser",
       "partOfSpeech": "verb",
       "meaning": "배포하다",
-      "example": "En general, je dois diffuser pendant un projet mene avec d'autres personnes."
+      "example": "En general, je dois diffuser pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 배포하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "debattre",
       "partOfSpeech": "verb",
       "meaning": "토론하다",
-      "example": "Dans cette scene, nous pouvons debattre sans perdre de temps pendant un projet mene avec d'autres personnes."
+      "example": "Dans cette scene, nous pouvons debattre sans perdre de temps pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 시간을 끌지 않고 토론하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "identifier",
       "partOfSpeech": "verb",
       "meaning": "파악하다",
-      "example": "Il faut parfois identifier naturellement pendant un projet mene avec d'autres personnes."
+      "example": "Il faut parfois identifier naturellement pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 자연스럽게 파악하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "resoudre",
       "partOfSpeech": "verb",
       "meaning": "해결하다",
-      "example": "En general, je dois resoudre pendant un projet mene avec d'autres personnes."
+      "example": "En general, je dois resoudre pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 해결하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "ameliorer",
       "partOfSpeech": "verb",
       "meaning": "개선하다",
-      "example": "Dans cette scene, nous pouvons ameliorer sans perdre de temps pendant un projet mene avec d'autres personnes."
+      "example": "Dans cette scene, nous pouvons ameliorer sans perdre de temps pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 시간을 끌지 않고 개선하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "clarifier",
       "partOfSpeech": "verb",
       "meaning": "명확히 하다",
-      "example": "Il faut parfois clarifier naturellement pendant un projet mene avec d'autres personnes."
+      "example": "Il faut parfois clarifier naturellement pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 자연스럽게 명확히 하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "proposer",
       "partOfSpeech": "verb",
       "meaning": "제안하다",
-      "example": "En general, je dois proposer pendant un projet mene avec d'autres personnes."
+      "example": "En general, je dois proposer pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 제안하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "justifier",
       "partOfSpeech": "verb",
       "meaning": "정당화하다",
-      "example": "Dans cette scene, nous pouvons justifier sans perdre de temps pendant un projet mene avec d'autres personnes."
+      "example": "Dans cette scene, nous pouvons justifier sans perdre de temps pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 시간을 끌지 않고 정당화하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "conclure",
       "partOfSpeech": "verb",
       "meaning": "결론짓다",
-      "example": "Il faut parfois conclure naturellement pendant un projet mene avec d'autres personnes."
+      "example": "Il faut parfois conclure naturellement pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 자연스럽게 결론짓다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "reviser",
       "partOfSpeech": "verb",
       "meaning": "복습하다",
-      "example": "En general, je dois reviser pendant un projet mene avec d'autres personnes."
+      "example": "En general, je dois reviser pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 복습하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "se concentrer",
       "partOfSpeech": "verb",
       "meaning": "집중하다",
-      "example": "Dans cette scene, nous pouvons se concentrer sans perdre de temps pendant un projet mene avec d'autres personnes."
+      "example": "Dans cette scene, nous pouvons se concentrer sans perdre de temps pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 시간을 끌지 않고 집중하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "retenir",
       "partOfSpeech": "verb",
       "meaning": "기억하다",
-      "example": "Il faut parfois retenir naturellement pendant un projet mene avec d'autres personnes."
+      "example": "Il faut parfois retenir naturellement pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 자연스럽게 기억하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "collectif",
       "partOfSpeech": "adjective",
       "meaning": "공동의",
-      "example": "Il vaut souvent mieux etre collectif pendant un projet mene avec d'autres personnes."
+      "example": "Il vaut souvent mieux etre collectif pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 공동의 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "inclusif",
       "partOfSpeech": "adjective",
       "meaning": "포용적인",
-      "example": "Rester inclusif aide beaucoup pendant un projet mene avec d'autres personnes."
+      "example": "Rester inclusif aide beaucoup pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 포용적인 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "strategique",
       "partOfSpeech": "adjective",
       "meaning": "전략적인",
-      "example": "Essayer d'etre strategique fait souvent la difference pendant un projet mene avec d'autres personnes."
+      "example": "Essayer d'etre strategique fait souvent la difference pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 전략적인 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "realiste",
       "partOfSpeech": "adjective",
       "meaning": "현실적인",
-      "example": "Il vaut souvent mieux etre realiste pendant un projet mene avec d'autres personnes."
+      "example": "Il vaut souvent mieux etre realiste pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 현실적인 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "festif",
       "partOfSpeech": "adjective",
       "meaning": "축제 분위기의",
-      "example": "Rester festif aide beaucoup pendant un projet mene avec d'autres personnes."
+      "example": "Rester festif aide beaucoup pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 축제 분위기의 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "accueillant",
       "partOfSpeech": "adjective",
       "meaning": "환영하는 분위기의",
-      "example": "Essayer d'etre accueillant fait souvent la difference pendant un projet mene avec d'autres personnes."
+      "example": "Essayer d'etre accueillant fait souvent la difference pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 환영하는 분위기의 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "visible",
       "partOfSpeech": "adjective",
       "meaning": "눈에 잘 띄는",
-      "example": "Il vaut souvent mieux etre visible pendant un projet mene avec d'autres personnes."
+      "example": "Il vaut souvent mieux etre visible pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 눈에 잘 띄는 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "lumineux",
       "partOfSpeech": "adjective",
       "meaning": "채광이 좋은",
-      "example": "Rester lumineux aide beaucoup pendant un projet mene avec d'autres personnes."
+      "example": "Rester lumineux aide beaucoup pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 채광이 좋은 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "renove",
       "partOfSpeech": "adjective",
       "meaning": "수리된",
-      "example": "Essayer d'etre renove fait souvent la difference pendant un projet mene avec d'autres personnes."
+      "example": "Essayer d'etre renove fait souvent la difference pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 수리된 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "courtois",
       "partOfSpeech": "adjective",
       "meaning": "공손한",
-      "example": "Il vaut souvent mieux etre courtois pendant un projet mene avec d'autres personnes."
+      "example": "Il vaut souvent mieux etre courtois pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 공손한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "autant que possible",
       "partOfSpeech": "adverb",
       "meaning": "가능한 한",
-      "example": "On agit souvent autant que possible pendant un projet mene avec d'autres personnes."
+      "example": "On agit souvent autant que possible pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 보통 가능한 한 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a credit",
       "partOfSpeech": "adverb",
       "meaning": "카드로",
-      "example": "Dans la vraie vie, on fait souvent cela a credit pendant un projet mene avec d'autres personnes."
+      "example": "Dans la vraie vie, on fait souvent cela a credit pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "실생활에서는 여럿이 함께 프로젝트를 할 때 보통 카드로 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "au total",
       "partOfSpeech": "adverb",
       "meaning": "총합으로",
-      "example": "On entend souvent cette expression, au total, pendant un projet mene avec d'autres personnes."
+      "example": "On entend souvent cette expression, au total, pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 총합으로 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "sans frais",
       "partOfSpeech": "adverb",
       "meaning": "수수료 없이",
-      "example": "On agit souvent sans frais pendant un projet mene avec d'autres personnes."
+      "example": "On agit souvent sans frais pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 보통 수수료 없이 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en resume",
       "partOfSpeech": "adverb",
       "meaning": "요약하면",
-      "example": "Dans la vraie vie, on fait souvent cela en resume pendant un projet mene avec d'autres personnes."
+      "example": "Dans la vraie vie, on fait souvent cela en resume pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "실생활에서는 여럿이 함께 프로젝트를 할 때 보통 요약하면 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en bref",
       "partOfSpeech": "adverb",
       "meaning": "간단히 말해",
-      "example": "On entend souvent cette expression, en bref, pendant un projet mene avec d'autres personnes."
+      "example": "On entend souvent cette expression, en bref, pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 간단히 말해 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en pratique",
       "partOfSpeech": "adverb",
       "meaning": "실제로",
-      "example": "On agit souvent en pratique pendant un projet mene avec d'autres personnes."
+      "example": "On agit souvent en pratique pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 보통 실제로 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "au final",
       "partOfSpeech": "adverb",
       "meaning": "결국",
-      "example": "Dans la vraie vie, on fait souvent cela au final pendant un projet mene avec d'autres personnes."
+      "example": "Dans la vraie vie, on fait souvent cela au final pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "실생활에서는 여럿이 함께 프로젝트를 할 때 보통 결국 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "par consequent",
       "partOfSpeech": "adverb",
       "meaning": "따라서",
-      "example": "On entend souvent cette expression, par consequent, pendant un projet mene avec d'autres personnes."
+      "example": "On entend souvent cette expression, par consequent, pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 따라서 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en revanche",
       "partOfSpeech": "adverb",
       "meaning": "반면에",
-      "example": "On agit souvent en revanche pendant un projet mene avec d'autres personnes."
+      "example": "On agit souvent en revanche pendant un projet mene avec d'autres personnes.",
+      "exampleKo": "여럿이 함께 프로젝트를 할 때 보통 반면에 행동하게 된다.",
+      "exampleNote": ""
     }
   ],
   "quiz": [

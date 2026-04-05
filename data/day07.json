@@ -8,301 +8,401 @@
       "word": "la sante",
       "partOfSpeech": "noun",
       "meaning": "건강",
-      "example": "On rencontre souvent la sante lorsque je ne me sens pas tres bien."
+      "example": "On rencontre souvent la sante lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 건강 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la douleur",
       "partOfSpeech": "noun",
       "meaning": "통증",
-      "example": "Dans la vraie vie, la douleur revient souvent lorsque je ne me sens pas tres bien."
+      "example": "Dans la vraie vie, la douleur revient souvent lorsque je ne me sens pas tres bien.",
+      "exampleKo": "실생활에서는 몸이 좋지 않을 때 통증이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le symptome",
       "partOfSpeech": "noun",
       "meaning": "증상",
-      "example": "Je remarque souvent le symptome lorsque je ne me sens pas tres bien."
+      "example": "Je remarque souvent le symptome lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 증상을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le repos",
       "partOfSpeech": "noun",
       "meaning": "휴식",
-      "example": "On rencontre souvent le repos lorsque je ne me sens pas tres bien."
+      "example": "On rencontre souvent le repos lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 휴식 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le bureau",
       "partOfSpeech": "noun",
       "meaning": "사무실",
-      "example": "Dans la vraie vie, le bureau revient souvent lorsque je ne me sens pas tres bien."
+      "example": "Dans la vraie vie, le bureau revient souvent lorsque je ne me sens pas tres bien.",
+      "exampleKo": "실생활에서는 몸이 좋지 않을 때 사무실이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la reunion",
       "partOfSpeech": "noun",
       "meaning": "회의",
-      "example": "Je remarque souvent la reunion lorsque je ne me sens pas tres bien."
+      "example": "Je remarque souvent la reunion lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 회의을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le dossier",
       "partOfSpeech": "noun",
       "meaning": "서류철",
-      "example": "On rencontre souvent le dossier lorsque je ne me sens pas tres bien."
+      "example": "On rencontre souvent le dossier lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 서류철 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la tache",
       "partOfSpeech": "noun",
       "meaning": "업무",
-      "example": "Dans la vraie vie, la tache revient souvent lorsque je ne me sens pas tres bien."
+      "example": "Dans la vraie vie, la tache revient souvent lorsque je ne me sens pas tres bien.",
+      "exampleKo": "실생활에서는 몸이 좋지 않을 때 업무이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le message",
       "partOfSpeech": "noun",
       "meaning": "메시지",
-      "example": "Je remarque souvent le message lorsque je ne me sens pas tres bien."
+      "example": "Je remarque souvent le message lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 메시지을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le fichier",
       "partOfSpeech": "noun",
       "meaning": "파일",
-      "example": "On rencontre souvent le fichier lorsque je ne me sens pas tres bien."
+      "example": "On rencontre souvent le fichier lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 파일 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le mot de passe",
       "partOfSpeech": "noun",
       "meaning": "비밀번호",
-      "example": "Dans la vraie vie, le mot de passe revient souvent lorsque je ne me sens pas tres bien."
+      "example": "Dans la vraie vie, le mot de passe revient souvent lorsque je ne me sens pas tres bien.",
+      "exampleKo": "실생활에서는 몸이 좋지 않을 때 비밀번호이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le voyage",
       "partOfSpeech": "noun",
       "meaning": "여행",
-      "example": "Je remarque souvent le voyage lorsque je ne me sens pas tres bien."
+      "example": "Je remarque souvent le voyage lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 여행을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la valise",
       "partOfSpeech": "noun",
       "meaning": "여행가방",
-      "example": "On rencontre souvent la valise lorsque je ne me sens pas tres bien."
+      "example": "On rencontre souvent la valise lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 여행가방 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le passeport",
       "partOfSpeech": "noun",
       "meaning": "여권",
-      "example": "Dans la vraie vie, le passeport revient souvent lorsque je ne me sens pas tres bien."
+      "example": "Dans la vraie vie, le passeport revient souvent lorsque je ne me sens pas tres bien.",
+      "exampleKo": "실생활에서는 몸이 좋지 않을 때 여권이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "l'itineraire",
       "partOfSpeech": "noun",
       "meaning": "여행 경로",
-      "example": "Je remarque souvent l'itineraire lorsque je ne me sens pas tres bien."
+      "example": "Je remarque souvent l'itineraire lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 여행 경로을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "commander",
       "partOfSpeech": "verb",
       "meaning": "주문하다",
-      "example": "En general, je dois commander lorsque je ne me sens pas tres bien."
+      "example": "En general, je dois commander lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 주문하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "payer",
       "partOfSpeech": "verb",
       "meaning": "지불하다",
-      "example": "Dans cette scene, nous pouvons payer sans perdre de temps lorsque je ne me sens pas tres bien."
+      "example": "Dans cette scene, nous pouvons payer sans perdre de temps lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 시간을 끌지 않고 지불하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "echanger",
       "partOfSpeech": "verb",
       "meaning": "교환하다",
-      "example": "Il faut parfois echanger naturellement lorsque je ne me sens pas tres bien."
+      "example": "Il faut parfois echanger naturellement lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 자연스럽게 교환하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "economiser",
       "partOfSpeech": "verb",
       "meaning": "절약하다",
-      "example": "En general, je dois economiser lorsque je ne me sens pas tres bien."
+      "example": "En general, je dois economiser lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 절약하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "deguster",
       "partOfSpeech": "verb",
       "meaning": "맛보다",
-      "example": "Dans cette scene, nous pouvons deguster sans perdre de temps lorsque je ne me sens pas tres bien."
+      "example": "Dans cette scene, nous pouvons deguster sans perdre de temps lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 시간을 끌지 않고 맛보다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "reserver",
       "partOfSpeech": "verb",
       "meaning": "예약하다",
-      "example": "Il faut parfois reserver naturellement lorsque je ne me sens pas tres bien."
+      "example": "Il faut parfois reserver naturellement lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 자연스럽게 예약하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "ajouter",
       "partOfSpeech": "verb",
       "meaning": "추가하다",
-      "example": "En general, je dois ajouter lorsque je ne me sens pas tres bien."
+      "example": "En general, je dois ajouter lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 추가하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "melanger",
       "partOfSpeech": "verb",
       "meaning": "섞다",
-      "example": "Dans cette scene, nous pouvons melanger sans perdre de temps lorsque je ne me sens pas tres bien."
+      "example": "Dans cette scene, nous pouvons melanger sans perdre de temps lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 시간을 끌지 않고 섞다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "respirer",
       "partOfSpeech": "verb",
       "meaning": "호흡하다",
-      "example": "Il faut parfois respirer naturellement lorsque je ne me sens pas tres bien."
+      "example": "Il faut parfois respirer naturellement lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 자연스럽게 호흡하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "soigner",
       "partOfSpeech": "verb",
       "meaning": "돌보다",
-      "example": "En general, je dois soigner lorsque je ne me sens pas tres bien."
+      "example": "En general, je dois soigner lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 돌보다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "consulter",
       "partOfSpeech": "verb",
       "meaning": "진료받다",
-      "example": "Dans cette scene, nous pouvons consulter sans perdre de temps lorsque je ne me sens pas tres bien."
+      "example": "Dans cette scene, nous pouvons consulter sans perdre de temps lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 시간을 끌지 않고 진료받다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "se reposer",
       "partOfSpeech": "verb",
       "meaning": "쉬다",
-      "example": "Il faut parfois se reposer naturellement lorsque je ne me sens pas tres bien."
+      "example": "Il faut parfois se reposer naturellement lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 자연스럽게 쉬다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "recuperer",
       "partOfSpeech": "verb",
       "meaning": "회복하다",
-      "example": "En general, je dois recuperer lorsque je ne me sens pas tres bien."
+      "example": "En general, je dois recuperer lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 회복하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "eviter",
       "partOfSpeech": "verb",
       "meaning": "피하다",
-      "example": "Dans cette scene, nous pouvons eviter sans perdre de temps lorsque je ne me sens pas tres bien."
+      "example": "Dans cette scene, nous pouvons eviter sans perdre de temps lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 시간을 끌지 않고 피하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "collaborer",
       "partOfSpeech": "verb",
       "meaning": "협업하다",
-      "example": "Il faut parfois collaborer naturellement lorsque je ne me sens pas tres bien."
+      "example": "Il faut parfois collaborer naturellement lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 자연스럽게 협업하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "savoureux",
       "partOfSpeech": "adjective",
       "meaning": "맛있는",
-      "example": "Il vaut souvent mieux etre savoureux lorsque je ne me sens pas tres bien."
+      "example": "Il vaut souvent mieux etre savoureux lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 맛있는 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "equilibre",
       "partOfSpeech": "adjective",
       "meaning": "균형 잡힌",
-      "example": "Rester equilibre aide beaucoup lorsque je ne me sens pas tres bien."
+      "example": "Rester equilibre aide beaucoup lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 균형 잡힌 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "fatigue",
       "partOfSpeech": "adjective",
       "meaning": "피곤한",
-      "example": "Essayer d'etre fatigue fait souvent la difference lorsque je ne me sens pas tres bien."
+      "example": "Essayer d'etre fatigue fait souvent la difference lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 피곤한 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "urgent",
       "partOfSpeech": "adjective",
       "meaning": "긴급한",
-      "example": "Il vaut souvent mieux etre urgent lorsque je ne me sens pas tres bien."
+      "example": "Il vaut souvent mieux etre urgent lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 긴급한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "sain",
       "partOfSpeech": "adjective",
       "meaning": "건강한",
-      "example": "Rester sain aide beaucoup lorsque je ne me sens pas tres bien."
+      "example": "Rester sain aide beaucoup lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 건강한 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "professionnel",
       "partOfSpeech": "adjective",
       "meaning": "전문적인",
-      "example": "Essayer d'etre professionnel fait souvent la difference lorsque je ne me sens pas tres bien."
+      "example": "Essayer d'etre professionnel fait souvent la difference lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 전문적인 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "precis",
       "partOfSpeech": "adjective",
       "meaning": "정확한",
-      "example": "Il vaut souvent mieux etre precis lorsque je ne me sens pas tres bien."
+      "example": "Il vaut souvent mieux etre precis lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 정확한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "charge",
       "partOfSpeech": "adjective",
       "meaning": "바쁜",
-      "example": "Rester charge aide beaucoup lorsque je ne me sens pas tres bien."
+      "example": "Rester charge aide beaucoup lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 바쁜 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "souple",
       "partOfSpeech": "adjective",
       "meaning": "유연한",
-      "example": "Essayer d'etre souple fait souvent la difference lorsque je ne me sens pas tres bien."
+      "example": "Essayer d'etre souple fait souvent la difference lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 유연한 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "numerique",
       "partOfSpeech": "adjective",
       "meaning": "디지털의",
-      "example": "Il vaut souvent mieux etre numerique lorsque je ne me sens pas tres bien."
+      "example": "Il vaut souvent mieux etre numerique lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 디지털의 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "en promotion",
       "partOfSpeech": "adverb",
       "meaning": "할인 중인",
-      "example": "On agit souvent en promotion lorsque je ne me sens pas tres bien."
+      "example": "On agit souvent en promotion lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 보통 할인 중인 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a bas prix",
       "partOfSpeech": "adverb",
       "meaning": "저렴하게",
-      "example": "Dans la vraie vie, on fait souvent cela a bas prix lorsque je ne me sens pas tres bien."
+      "example": "Dans la vraie vie, on fait souvent cela a bas prix lorsque je ne me sens pas tres bien.",
+      "exampleKo": "실생활에서는 몸이 좋지 않을 때 보통 저렴하게 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en stock",
       "partOfSpeech": "adverb",
       "meaning": "재고가 있는",
-      "example": "On entend souvent cette expression, en stock, lorsque je ne me sens pas tres bien."
+      "example": "On entend souvent cette expression, en stock, lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 재고가 있는 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a emporter",
       "partOfSpeech": "adverb",
       "meaning": "포장으로",
-      "example": "On agit souvent a emporter lorsque je ne me sens pas tres bien."
+      "example": "On agit souvent a emporter lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 보통 포장으로 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en liquide",
       "partOfSpeech": "adverb",
       "meaning": "현금으로",
-      "example": "Dans la vraie vie, on fait souvent cela en liquide lorsque je ne me sens pas tres bien."
+      "example": "Dans la vraie vie, on fait souvent cela en liquide lorsque je ne me sens pas tres bien.",
+      "exampleKo": "실생활에서는 몸이 좋지 않을 때 보통 현금으로 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "sans faute",
       "partOfSpeech": "adverb",
       "meaning": "반드시",
-      "example": "On entend souvent cette expression, sans faute, lorsque je ne me sens pas tres bien."
+      "example": "On entend souvent cette expression, sans faute, lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 반드시 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "bien cuit",
       "partOfSpeech": "adverb",
       "meaning": "잘 익게",
-      "example": "On agit souvent bien cuit lorsque je ne me sens pas tres bien."
+      "example": "On agit souvent bien cuit lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 보통 잘 익게 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a jeun",
       "partOfSpeech": "adverb",
       "meaning": "공복으로",
-      "example": "Dans la vraie vie, on fait souvent cela a jeun lorsque je ne me sens pas tres bien."
+      "example": "Dans la vraie vie, on fait souvent cela a jeun lorsque je ne me sens pas tres bien.",
+      "exampleKo": "실생활에서는 몸이 좋지 않을 때 보통 공복으로 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "avec moderation",
       "partOfSpeech": "adverb",
       "meaning": "적당히",
-      "example": "On entend souvent cette expression, avec moderation, lorsque je ne me sens pas tres bien."
+      "example": "On entend souvent cette expression, avec moderation, lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 적당히 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "sur le pouce",
       "partOfSpeech": "adverb",
       "meaning": "간단히",
-      "example": "On agit souvent sur le pouce lorsque je ne me sens pas tres bien."
+      "example": "On agit souvent sur le pouce lorsque je ne me sens pas tres bien.",
+      "exampleKo": "몸이 좋지 않을 때 보통 간단히 행동하게 된다.",
+      "exampleNote": ""
     }
   ],
   "quiz": [

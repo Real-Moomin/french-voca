@@ -8,301 +8,401 @@
       "word": "le concert",
       "partOfSpeech": "noun",
       "meaning": "공연",
-      "example": "On rencontre souvent le concert quand je prevois une sortie culturelle."
+      "example": "On rencontre souvent le concert quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 공연 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le loisir",
       "partOfSpeech": "noun",
       "meaning": "여가",
-      "example": "Dans la vraie vie, le loisir revient souvent quand je prevois une sortie culturelle."
+      "example": "Dans la vraie vie, le loisir revient souvent quand je prevois une sortie culturelle.",
+      "exampleKo": "실생활에서는 문화생활 계획을 세울 때 여가이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le formulaire",
       "partOfSpeech": "noun",
       "meaning": "신청서",
-      "example": "Je remarque souvent le formulaire quand je prevois une sortie culturelle."
+      "example": "Je remarque souvent le formulaire quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 신청서을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la signature",
       "partOfSpeech": "noun",
       "meaning": "서명",
-      "example": "On rencontre souvent la signature quand je prevois une sortie culturelle."
+      "example": "On rencontre souvent la signature quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 서명 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le document",
       "partOfSpeech": "noun",
       "meaning": "문서",
-      "example": "Dans la vraie vie, le document revient souvent quand je prevois une sortie culturelle."
+      "example": "Dans la vraie vie, le document revient souvent quand je prevois une sortie culturelle.",
+      "exampleKo": "실생활에서는 문화생활 계획을 세울 때 문서이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "la demande",
       "partOfSpeech": "noun",
       "meaning": "신청",
-      "example": "Je remarque souvent la demande quand je prevois une sortie culturelle."
+      "example": "Je remarque souvent la demande quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 신청을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "l'environnement",
       "partOfSpeech": "noun",
       "meaning": "환경",
-      "example": "On rencontre souvent l'environnement quand je prevois une sortie culturelle."
+      "example": "On rencontre souvent l'environnement quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 환경 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le recyclage",
       "partOfSpeech": "noun",
       "meaning": "재활용",
-      "example": "Dans la vraie vie, le recyclage revient souvent quand je prevois une sortie culturelle."
+      "example": "Dans la vraie vie, le recyclage revient souvent quand je prevois une sortie culturelle.",
+      "exampleKo": "실생활에서는 문화생활 계획을 세울 때 재활용이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "l'energie",
       "partOfSpeech": "noun",
       "meaning": "에너지",
-      "example": "Je remarque souvent l'energie quand je prevois une sortie culturelle."
+      "example": "Je remarque souvent l'energie quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 에너지을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le budget",
       "partOfSpeech": "noun",
       "meaning": "예산",
-      "example": "On rencontre souvent le budget quand je prevois une sortie culturelle."
+      "example": "On rencontre souvent le budget quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 예산 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la depense",
       "partOfSpeech": "noun",
       "meaning": "지출",
-      "example": "Dans la vraie vie, la depense revient souvent quand je prevois une sortie culturelle."
+      "example": "Dans la vraie vie, la depense revient souvent quand je prevois une sortie culturelle.",
+      "exampleKo": "실생활에서는 문화생활 계획을 세울 때 지출이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "le paiement",
       "partOfSpeech": "noun",
       "meaning": "결제",
-      "example": "Je remarque souvent le paiement quand je prevois une sortie culturelle."
+      "example": "Je remarque souvent le paiement quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 결제을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "la facture",
       "partOfSpeech": "noun",
       "meaning": "청구서",
-      "example": "On rencontre souvent la facture quand je prevois une sortie culturelle."
+      "example": "On rencontre souvent la facture quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 청구서 같은 표현을 자주 보게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "le remboursement",
       "partOfSpeech": "noun",
       "meaning": "환불",
-      "example": "Dans la vraie vie, le remboursement revient souvent quand je prevois une sortie culturelle."
+      "example": "Dans la vraie vie, le remboursement revient souvent quand je prevois une sortie culturelle.",
+      "exampleKo": "실생활에서는 문화생활 계획을 세울 때 환불이 자주 나온다.",
+      "exampleNote": ""
     },
     {
       "word": "l'actualite",
       "partOfSpeech": "noun",
       "meaning": "시사",
-      "example": "Je remarque souvent l'actualite quand je prevois une sortie culturelle."
+      "example": "Je remarque souvent l'actualite quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 시사을 자주 접하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "rejoindre",
       "partOfSpeech": "verb",
       "meaning": "합류하다",
-      "example": "En general, je dois rejoindre quand je prevois une sortie culturelle."
+      "example": "En general, je dois rejoindre quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 합류하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "embarquer",
       "partOfSpeech": "verb",
       "meaning": "탑승하다",
-      "example": "Dans cette scene, nous pouvons embarquer sans perdre de temps quand je prevois une sortie culturelle."
+      "example": "Dans cette scene, nous pouvons embarquer sans perdre de temps quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 시간을 끌지 않고 탑승하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "voyager",
       "partOfSpeech": "verb",
       "meaning": "여행하다",
-      "example": "Il faut parfois voyager naturellement quand je prevois une sortie culturelle."
+      "example": "Il faut parfois voyager naturellement quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 자연스럽게 여행하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "s'enregistrer",
       "partOfSpeech": "verb",
       "meaning": "체크인하다",
-      "example": "En general, je dois s'enregistrer quand je prevois une sortie culturelle."
+      "example": "En general, je dois s'enregistrer quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 체크인하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "deposer",
       "partOfSpeech": "verb",
       "meaning": "맡기다",
-      "example": "Dans cette scene, nous pouvons deposer sans perdre de temps quand je prevois une sortie culturelle."
+      "example": "Dans cette scene, nous pouvons deposer sans perdre de temps quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 시간을 끌지 않고 맡기다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "ouvrir",
       "partOfSpeech": "verb",
       "meaning": "열다",
-      "example": "Il faut parfois ouvrir naturellement quand je prevois une sortie culturelle."
+      "example": "Il faut parfois ouvrir naturellement quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 자연스럽게 열다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "changer",
       "partOfSpeech": "verb",
       "meaning": "바꾸다",
-      "example": "En general, je dois changer quand je prevois une sortie culturelle."
+      "example": "En general, je dois changer quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 바꾸다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "regler",
       "partOfSpeech": "verb",
       "meaning": "조정하다",
-      "example": "Dans cette scene, nous pouvons regler sans perdre de temps quand je prevois une sortie culturelle."
+      "example": "Dans cette scene, nous pouvons regler sans perdre de temps quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 시간을 끌지 않고 조정하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "sourire",
       "partOfSpeech": "verb",
       "meaning": "미소 짓다",
-      "example": "Il faut parfois sourire naturellement quand je prevois une sortie culturelle."
+      "example": "Il faut parfois sourire naturellement quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 자연스럽게 미소 짓다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "rassurer",
       "partOfSpeech": "verb",
       "meaning": "안심시키다",
-      "example": "En general, je dois rassurer quand je prevois une sortie culturelle."
+      "example": "En general, je dois rassurer quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 안심시키다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "soutenir",
       "partOfSpeech": "verb",
       "meaning": "응원하다",
-      "example": "Dans cette scene, nous pouvons soutenir sans perdre de temps quand je prevois une sortie culturelle."
+      "example": "Dans cette scene, nous pouvons soutenir sans perdre de temps quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 시간을 끌지 않고 응원하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "pardonner",
       "partOfSpeech": "verb",
       "meaning": "용서하다",
-      "example": "Il faut parfois pardonner naturellement quand je prevois une sortie culturelle."
+      "example": "Il faut parfois pardonner naturellement quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 자연스럽게 용서하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "apprecier",
       "partOfSpeech": "verb",
       "meaning": "좋아하다",
-      "example": "En general, je dois apprecier quand je prevois une sortie culturelle."
+      "example": "En general, je dois apprecier quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 좋아하다해야 하는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "prevoir",
       "partOfSpeech": "verb",
       "meaning": "예상하다",
-      "example": "Dans cette scene, nous pouvons prevoir sans perdre de temps quand je prevois une sortie culturelle."
+      "example": "Dans cette scene, nous pouvons prevoir sans perdre de temps quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 시간을 끌지 않고 예상하다 수 있다.",
+      "exampleNote": ""
     },
     {
       "word": "s'adapter",
       "partOfSpeech": "verb",
       "meaning": "적응하다",
-      "example": "Il faut parfois s'adapter naturellement quand je prevois une sortie culturelle."
+      "example": "Il faut parfois s'adapter naturellement quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 자연스럽게 적응하다할 필요가 있다.",
+      "exampleNote": ""
     },
     {
       "word": "variable",
       "partOfSpeech": "adjective",
       "meaning": "변덕스러운",
-      "example": "Il vaut souvent mieux etre variable quand je prevois une sortie culturelle."
+      "example": "Il vaut souvent mieux etre variable quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 변덕스러운 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "creatif",
       "partOfSpeech": "adjective",
       "meaning": "창의적인",
-      "example": "Rester creatif aide beaucoup quand je prevois une sortie culturelle."
+      "example": "Rester creatif aide beaucoup quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 창의적인 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "passionnant",
       "partOfSpeech": "adjective",
       "meaning": "흥미진진한",
-      "example": "Essayer d'etre passionnant fait souvent la difference quand je prevois une sortie culturelle."
+      "example": "Essayer d'etre passionnant fait souvent la difference quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 흥미진진한 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "culturel",
       "partOfSpeech": "adjective",
       "meaning": "문화적인",
-      "example": "Il vaut souvent mieux etre culturel quand je prevois une sortie culturelle."
+      "example": "Il vaut souvent mieux etre culturel quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 문화적인 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "officiel",
       "partOfSpeech": "adjective",
       "meaning": "공식적인",
-      "example": "Rester officiel aide beaucoup quand je prevois une sortie culturelle."
+      "example": "Rester officiel aide beaucoup quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 공식적인 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "obligatoire",
       "partOfSpeech": "adjective",
       "meaning": "의무적인",
-      "example": "Essayer d'etre obligatoire fait souvent la difference quand je prevois une sortie culturelle."
+      "example": "Essayer d'etre obligatoire fait souvent la difference quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 의무적인 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "administratif",
       "partOfSpeech": "adjective",
       "meaning": "행정의",
-      "example": "Il vaut souvent mieux etre administratif quand je prevois une sortie culturelle."
+      "example": "Il vaut souvent mieux etre administratif quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 행정의 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "valide",
       "partOfSpeech": "adjective",
       "meaning": "유효한",
-      "example": "Rester valide aide beaucoup quand je prevois une sortie culturelle."
+      "example": "Rester valide aide beaucoup quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 유효한 상태를 유지하는 것이 큰 도움이 된다.",
+      "exampleNote": ""
     },
     {
       "word": "ecologique",
       "partOfSpeech": "adjective",
       "meaning": "친환경적인",
-      "example": "Essayer d'etre ecologique fait souvent la difference quand je prevois une sortie culturelle."
+      "example": "Essayer d'etre ecologique fait souvent la difference quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 친환경적인 태도를 가지면 차이가 난다.",
+      "exampleNote": ""
     },
     {
       "word": "durable",
       "partOfSpeech": "adjective",
       "meaning": "지속 가능한",
-      "example": "Il vaut souvent mieux etre durable quand je prevois une sortie culturelle."
+      "example": "Il vaut souvent mieux etre durable quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 지속 가능한 태도가 더 도움이 되는 경우가 많다.",
+      "exampleNote": ""
     },
     {
       "word": "hors ligne",
       "partOfSpeech": "adverb",
       "meaning": "오프라인으로",
-      "example": "On agit souvent hors ligne quand je prevois une sortie culturelle."
+      "example": "On agit souvent hors ligne quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 보통 오프라인으로 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a jour",
       "partOfSpeech": "adverb",
       "meaning": "최신 상태로",
-      "example": "Dans la vraie vie, on fait souvent cela a jour quand je prevois une sortie culturelle."
+      "example": "Dans la vraie vie, on fait souvent cela a jour quand je prevois une sortie culturelle.",
+      "exampleKo": "실생활에서는 문화생활 계획을 세울 때 보통 최신 상태로 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en prive",
       "partOfSpeech": "adverb",
       "meaning": "개인적으로",
-      "example": "On entend souvent cette expression, en prive, quand je prevois une sortie culturelle."
+      "example": "On entend souvent cette expression, en prive, quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 개인적으로 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "a l'avance",
       "partOfSpeech": "adverb",
       "meaning": "미리",
-      "example": "On agit souvent a l'avance quand je prevois une sortie culturelle."
+      "example": "On agit souvent a l'avance quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 보통 미리 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "de passage",
       "partOfSpeech": "adverb",
       "meaning": "지나는 길에",
-      "example": "Dans la vraie vie, on fait souvent cela de passage quand je prevois une sortie culturelle."
+      "example": "Dans la vraie vie, on fait souvent cela de passage quand je prevois une sortie culturelle.",
+      "exampleKo": "실생활에서는 문화생활 계획을 세울 때 보통 지나는 길에 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "aller-retour",
       "partOfSpeech": "adverb",
       "meaning": "왕복으로",
-      "example": "On entend souvent cette expression, aller-retour, quand je prevois une sortie culturelle."
+      "example": "On entend souvent cette expression, aller-retour, quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 왕복으로 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "au complet",
       "partOfSpeech": "adverb",
       "meaning": "만실로",
-      "example": "On agit souvent au complet quand je prevois une sortie culturelle."
+      "example": "On agit souvent au complet quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 보통 만실로 행동하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "en silence",
       "partOfSpeech": "adverb",
       "meaning": "조용히",
-      "example": "Dans la vraie vie, on fait souvent cela en silence quand je prevois une sortie culturelle."
+      "example": "Dans la vraie vie, on fait souvent cela en silence quand je prevois une sortie culturelle.",
+      "exampleKo": "실생활에서는 문화생활 계획을 세울 때 보통 조용히 하게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "de tout coeur",
       "partOfSpeech": "adverb",
       "meaning": "진심으로",
-      "example": "On entend souvent cette expression, de tout coeur, quand je prevois une sortie culturelle."
+      "example": "On entend souvent cette expression, de tout coeur, quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 진심으로 같은 표현을 자주 듣게 된다.",
+      "exampleNote": ""
     },
     {
       "word": "sans doute",
       "partOfSpeech": "adverb",
       "meaning": "아마",
-      "example": "On agit souvent sans doute quand je prevois une sortie culturelle."
+      "example": "On agit souvent sans doute quand je prevois une sortie culturelle.",
+      "exampleKo": "문화생활 계획을 세울 때 보통 아마 행동하게 된다.",
+      "exampleNote": ""
     }
   ],
   "quiz": [
