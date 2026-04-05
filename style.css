@@ -117,6 +117,34 @@ button {
   padding: 24px;
 }
 
+.day-nav {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 12px;
+  align-items: center;
+}
+
+.day-nav-button {
+  width: 52px;
+  height: 52px;
+  padding: 0;
+  font-size: 1.2rem;
+}
+
+.day-title-button {
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: var(--text);
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+.day-title-button:hover {
+  color: var(--accent);
+}
+
 .content-view,
 .quiz-section {
   margin-top: 18px;
@@ -155,6 +183,26 @@ button {
   color: var(--muted);
 }
 
+.pos-badge[data-pos="noun"] {
+  background: rgba(100, 149, 237, 0.22);
+  color: #bcd5ff;
+}
+
+.pos-badge[data-pos="verb"] {
+  background: rgba(127, 255, 212, 0.18);
+  color: #a7ffe0;
+}
+
+.pos-badge[data-pos="adjective"] {
+  background: rgba(255, 182, 193, 0.2);
+  color: #ffd1da;
+}
+
+.pos-badge[data-pos="adverb"] {
+  background: rgba(255, 221, 89, 0.18);
+  color: #ffeaa7;
+}
+
 .word-text {
   margin: 0 0 8px;
   font-size: 1.25rem;
@@ -174,7 +222,7 @@ button {
 }
 
 .word-example {
-  margin-bottom: 10px;
+  margin-bottom: 0;
 }
 
 .word-example-ko {
@@ -256,5 +304,9 @@ button {
   .quiz-actions button {
     max-width: none;
     width: 100%;
+  }
+
+  .day-title-button {
+    font-size: 1.4rem;
   }
 }
