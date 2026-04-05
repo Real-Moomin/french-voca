@@ -1,0 +1,300 @@
+{
+  "day": 2,
+  "title": "Day 02",
+  "targetLevel": "B1-B2",
+  "useCase": "exam-essay",
+  "words": [
+    {
+      "word": "l’argument",
+      "partOfSpeech": "noun",
+      "meaning": "논거",
+      "example": "Dans ce contexte, l’argument reste un élément important à clarifier.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 논거을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la thèse",
+      "partOfSpeech": "noun",
+      "meaning": "논지",
+      "example": "On comprend mieux la situation quand la thèse est bien expliqué.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 논지이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "le point de vue",
+      "partOfSpeech": "noun",
+      "meaning": "관점",
+      "example": "Au moment de décider, le point de vue compte beaucoup.",
+      "exampleKo": "결정을 내릴 때 의견을 말하거나 글을 쓸 때 관점이 큰 역할을 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la preuve",
+      "partOfSpeech": "noun",
+      "meaning": "근거",
+      "example": "Dans ce contexte, la preuve reste un élément important à clarifier.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 근거을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la conséquence",
+      "partOfSpeech": "noun",
+      "meaning": "결과",
+      "example": "On comprend mieux la situation quand la conséquence est bien expliqué.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 결과이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la comparaison",
+      "partOfSpeech": "noun",
+      "meaning": "비교",
+      "example": "Au moment de décider, la comparaison compte beaucoup.",
+      "exampleKo": "결정을 내릴 때 의견을 말하거나 글을 쓸 때 비교이 큰 역할을 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la priorité",
+      "partOfSpeech": "noun",
+      "meaning": "우선순위",
+      "example": "Dans ce contexte, la priorité reste un élément important à clarifier.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 우선순위을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "le repère",
+      "partOfSpeech": "noun",
+      "meaning": "기준점",
+      "example": "On comprend mieux la situation quand le repère est bien expliqué.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 기준점이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "nuancer",
+      "partOfSpeech": "verb",
+      "meaning": "뉘앙스를 더하다",
+      "example": "Il faut souvent nuancer avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 의견을 말하거나 글을 쓸 때 뉘앙스를 더하다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "mettre en avant",
+      "partOfSpeech": "verb",
+      "meaning": "강조하다",
+      "example": "Dans cette situation, nous devons mettre en avant avec calme et précision.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 차분하고 정확하게 강조하다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "remettre en cause",
+      "partOfSpeech": "verb",
+      "meaning": "의문을 제기하다",
+      "example": "Pour avancer, il vaut mieux remettre en cause dès le début.",
+      "exampleKo": "앞으로 나아가려면 의견을 말하거나 글을 쓸 때 처음부터 의문을 제기하다하는 편이 낫다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "approfondir",
+      "partOfSpeech": "verb",
+      "meaning": "심화하다",
+      "example": "Il faut souvent approfondir avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 의견을 말하거나 글을 쓸 때 심화하다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "souligner",
+      "partOfSpeech": "verb",
+      "meaning": "강조하다",
+      "example": "Dans cette situation, nous devons souligner avec calme et précision.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 차분하고 정확하게 강조하다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "justifier",
+      "partOfSpeech": "verb",
+      "meaning": "정당화하다",
+      "example": "Pour avancer, il vaut mieux justifier dès le début.",
+      "exampleKo": "앞으로 나아가려면 의견을 말하거나 글을 쓸 때 처음부터 정당화하다하는 편이 낫다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "envisager",
+      "partOfSpeech": "verb",
+      "meaning": "고려하다",
+      "example": "Il faut souvent envisager avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 의견을 말하거나 글을 쓸 때 고려하다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "distinguer",
+      "partOfSpeech": "verb",
+      "meaning": "구별하다",
+      "example": "Dans cette situation, nous devons distinguer avec calme et précision.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 차분하고 정확하게 구별하다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "cohérent",
+      "partOfSpeech": "adjective",
+      "meaning": "일관된",
+      "example": "Une réponse cohérent rassure davantage tout le monde.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 일관된 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "pertinent",
+      "partOfSpeech": "adjective",
+      "meaning": "적절한",
+      "example": "Dans un exposé, un argument pertinent a plus d’impact.",
+      "exampleKo": "발표에서는 의견을 말하거나 글을 쓸 때 적절한 논거가 더 큰 힘을 가진다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "fiable",
+      "partOfSpeech": "adjective",
+      "meaning": "믿을 만한",
+      "example": "Un ton fiable aide à rendre le message plus clair.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 믿을 만한 태도는 메시지를 더 분명하게 만든다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "nuancé",
+      "partOfSpeech": "adjective",
+      "meaning": "균형 잡힌",
+      "example": "Une réponse nuancé rassure davantage tout le monde.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 균형 잡힌 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "viable",
+      "partOfSpeech": "adjective",
+      "meaning": "실현 가능한",
+      "example": "Dans un exposé, un argument viable a plus d’impact.",
+      "exampleKo": "발표에서는 의견을 말하거나 글을 쓸 때 실현 가능한 논거가 더 큰 힘을 가진다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "précis",
+      "partOfSpeech": "adjective",
+      "meaning": "정확한",
+      "example": "Un ton précis aide à rendre le message plus clair.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 정확한 태도는 메시지를 더 분명하게 만든다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "exigeant",
+      "partOfSpeech": "adjective",
+      "meaning": "요구 수준이 높은",
+      "example": "Une réponse exigeant rassure davantage tout le monde.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 요구 수준이 높은 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "néanmoins",
+      "partOfSpeech": "adverb",
+      "meaning": "그럼에도 불구하고",
+      "example": "néanmoins, il faut revoir notre position.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 그럼에도 불구하고 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "pour autant",
+      "partOfSpeech": "adverb",
+      "meaning": "그렇다고 해서",
+      "example": "Cette idée revient pour autant dans les discussions récentes.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 이런 생각은 그렇다고 해서 반복해서 등장한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "d’ailleurs",
+      "partOfSpeech": "adverb",
+      "meaning": "게다가",
+      "example": "Le projet avance d’ailleurs si chacun connaît son rôle.",
+      "exampleKo": "각자 역할을 알면 의견을 말하거나 글을 쓸 때 계획은 게다가 진행된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "en revanche",
+      "partOfSpeech": "adverb",
+      "meaning": "반면에",
+      "example": "en revanche, il faut revoir notre position.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 반면에 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "dans l’ensemble",
+      "partOfSpeech": "adverb",
+      "meaning": "전반적으로",
+      "example": "Cette idée revient dans l’ensemble dans les discussions récentes.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 이런 생각은 전반적으로 반복해서 등장한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "à première vue",
+      "partOfSpeech": "adverb",
+      "meaning": "언뜻 보기에는",
+      "example": "Le projet avance à première vue si chacun connaît son rôle.",
+      "exampleKo": "각자 역할을 알면 의견을 말하거나 글을 쓸 때 계획은 언뜻 보기에는 진행된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "en amont",
+      "partOfSpeech": "adverb",
+      "meaning": "사전에",
+      "example": "en amont, il faut revoir notre position.",
+      "exampleKo": "의견을 말하거나 글을 쓸 때 사전에 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "la thèse",
+      "hint": "논지"
+    },
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "la conséquence",
+      "hint": "결과"
+    },
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "le repère",
+      "hint": "기준점"
+    },
+    {
+      "sentence": "Pour avancer, il vaut mieux ____ dès le début.",
+      "answer": "remettre en cause",
+      "hint": "의문을 제기하다"
+    },
+    {
+      "sentence": "Pour avancer, il vaut mieux ____ dès le début.",
+      "answer": "justifier",
+      "hint": "정당화하다"
+    },
+    {
+      "sentence": "Une réponse ____ rassure davantage tout le monde.",
+      "answer": "cohérent",
+      "hint": "일관된"
+    },
+    {
+      "sentence": "Dans un exposé, un argument ____ a plus d’impact.",
+      "answer": "viable",
+      "hint": "실현 가능한"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "néanmoins",
+      "hint": "그럼에도 불구하고"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "en revanche",
+      "hint": "반면에"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "en amont",
+      "hint": "사전에"
+    }
+  ]
+}

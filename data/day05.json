@@ -1,0 +1,300 @@
+{
+  "day": 5,
+  "title": "Day 05",
+  "targetLevel": "B2",
+  "useCase": "reading-heavy",
+  "words": [
+    {
+      "word": "la crédibilité",
+      "partOfSpeech": "noun",
+      "meaning": "신뢰성",
+      "example": "Dans ce contexte, la crédibilité reste un élément important à clarifier.",
+      "exampleKo": "기사나 문서를 읽을 때 신뢰성을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la perspective",
+      "partOfSpeech": "noun",
+      "meaning": "관점",
+      "example": "On comprend mieux la situation quand la perspective est bien expliqué.",
+      "exampleKo": "기사나 문서를 읽을 때 관점이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la contrainte",
+      "partOfSpeech": "noun",
+      "meaning": "제약",
+      "example": "Au moment de décider, la contrainte compte beaucoup.",
+      "exampleKo": "결정을 내릴 때 기사나 문서를 읽을 때 제약이 큰 역할을 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la portée",
+      "partOfSpeech": "noun",
+      "meaning": "영향 범위",
+      "example": "Dans ce contexte, la portée reste un élément important à clarifier.",
+      "exampleKo": "기사나 문서를 읽을 때 영향 범위을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la mise en œuvre",
+      "partOfSpeech": "noun",
+      "meaning": "실행",
+      "example": "On comprend mieux la situation quand la mise en œuvre est bien expliqué.",
+      "exampleKo": "기사나 문서를 읽을 때 실행이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la fiabilité",
+      "partOfSpeech": "noun",
+      "meaning": "신뢰성",
+      "example": "Au moment de décider, la fiabilité compte beaucoup.",
+      "exampleKo": "결정을 내릴 때 기사나 문서를 읽을 때 신뢰성이 큰 역할을 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "le dispositif",
+      "partOfSpeech": "noun",
+      "meaning": "장치, 체계",
+      "example": "Dans ce contexte, le dispositif reste un élément important à clarifier.",
+      "exampleKo": "기사나 문서를 읽을 때 장치, 체계을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la marge",
+      "partOfSpeech": "noun",
+      "meaning": "여유, 폭",
+      "example": "On comprend mieux la situation quand la marge est bien expliqué.",
+      "exampleKo": "기사나 문서를 읽을 때 여유, 폭이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "assumer",
+      "partOfSpeech": "verb",
+      "meaning": "책임지다",
+      "example": "Il faut souvent assumer avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 기사나 문서를 읽을 때 책임지다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "faire face à",
+      "partOfSpeech": "verb",
+      "meaning": "~에 직면하다",
+      "example": "Dans cette situation, nous devons faire face à avec calme et précision.",
+      "exampleKo": "기사나 문서를 읽을 때 차분하고 정확하게 ~에 직면하다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "préconiser",
+      "partOfSpeech": "verb",
+      "meaning": "권고하다",
+      "example": "Pour avancer, il vaut mieux préconiser dès le début.",
+      "exampleKo": "앞으로 나아가려면 기사나 문서를 읽을 때 처음부터 권고하다하는 편이 낫다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "susciter",
+      "partOfSpeech": "verb",
+      "meaning": "불러일으키다",
+      "example": "Il faut souvent susciter avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 기사나 문서를 읽을 때 불러일으키다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "témoigner de",
+      "partOfSpeech": "verb",
+      "meaning": "~을 보여주다",
+      "example": "Dans cette situation, nous devons témoigner de avec calme et précision.",
+      "exampleKo": "기사나 문서를 읽을 때 차분하고 정확하게 ~을 보여주다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "aboutir",
+      "partOfSpeech": "verb",
+      "meaning": "성사되다",
+      "example": "Pour avancer, il vaut mieux aboutir dès le début.",
+      "exampleKo": "앞으로 나아가려면 기사나 문서를 읽을 때 처음부터 성사되다하는 편이 낫다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "répartir",
+      "partOfSpeech": "verb",
+      "meaning": "배분하다",
+      "example": "Il faut souvent répartir avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 기사나 문서를 읽을 때 배분하다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "gérer",
+      "partOfSpeech": "verb",
+      "meaning": "관리하다",
+      "example": "Dans cette situation, nous devons gérer avec calme et précision.",
+      "exampleKo": "기사나 문서를 읽을 때 차분하고 정확하게 관리하다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "crédible",
+      "partOfSpeech": "adjective",
+      "meaning": "설득력 있는",
+      "example": "Une réponse crédible rassure davantage tout le monde.",
+      "exampleKo": "기사나 문서를 읽을 때 설득력 있는 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "rigoureux",
+      "partOfSpeech": "adjective",
+      "meaning": "엄밀한",
+      "example": "Dans un exposé, un argument rigoureux a plus d’impact.",
+      "exampleKo": "발표에서는 기사나 문서를 읽을 때 엄밀한 논거가 더 큰 힘을 가진다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "global",
+      "partOfSpeech": "adjective",
+      "meaning": "전체적인",
+      "example": "Un ton global aide à rendre le message plus clair.",
+      "exampleKo": "기사나 문서를 읽을 때 전체적인 태도는 메시지를 더 분명하게 만든다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "complémentaire",
+      "partOfSpeech": "adjective",
+      "meaning": "상호보완적인",
+      "example": "Une réponse complémentaire rassure davantage tout le monde.",
+      "exampleKo": "기사나 문서를 읽을 때 상호보완적인 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "provisoire",
+      "partOfSpeech": "adjective",
+      "meaning": "임시의",
+      "example": "Dans un exposé, un argument provisoire a plus d’impact.",
+      "exampleKo": "발표에서는 기사나 문서를 읽을 때 임시의 논거가 더 큰 힘을 가진다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "stratégique",
+      "partOfSpeech": "adjective",
+      "meaning": "전략적인",
+      "example": "Un ton stratégique aide à rendre le message plus clair.",
+      "exampleKo": "기사나 문서를 읽을 때 전략적인 태도는 메시지를 더 분명하게 만든다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "modéré",
+      "partOfSpeech": "adjective",
+      "meaning": "절제된",
+      "example": "Une réponse modéré rassure davantage tout le monde.",
+      "exampleKo": "기사나 문서를 읽을 때 절제된 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "en pratique",
+      "partOfSpeech": "adverb",
+      "meaning": "실제로",
+      "example": "en pratique, il faut revoir notre position.",
+      "exampleKo": "기사나 문서를 읽을 때 실제로 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "à ce stade",
+      "partOfSpeech": "adverb",
+      "meaning": "현 단계에서는",
+      "example": "Cette idée revient à ce stade dans les discussions récentes.",
+      "exampleKo": "기사나 문서를 읽을 때 이런 생각은 현 단계에서는 반복해서 등장한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "par ailleurs",
+      "partOfSpeech": "adverb",
+      "meaning": "그 밖에",
+      "example": "Le projet avance par ailleurs si chacun connaît son rôle.",
+      "exampleKo": "각자 역할을 알면 기사나 문서를 읽을 때 계획은 그 밖에 진행된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "en effet",
+      "partOfSpeech": "adverb",
+      "meaning": "실제로",
+      "example": "en effet, il faut revoir notre position.",
+      "exampleKo": "기사나 문서를 읽을 때 실제로 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "en réalité",
+      "partOfSpeech": "adverb",
+      "meaning": "실제로는",
+      "example": "Cette idée revient en réalité dans les discussions récentes.",
+      "exampleKo": "기사나 문서를 읽을 때 이런 생각은 실제로는 반복해서 등장한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "en partie",
+      "partOfSpeech": "adverb",
+      "meaning": "부분적으로",
+      "example": "Le projet avance en partie si chacun connaît son rôle.",
+      "exampleKo": "각자 역할을 알면 기사나 문서를 읽을 때 계획은 부분적으로 진행된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "à juste titre",
+      "partOfSpeech": "adverb",
+      "meaning": "정당하게",
+      "example": "à juste titre, il faut revoir notre position.",
+      "exampleKo": "기사나 문서를 읽을 때 정당하게 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "la perspective",
+      "hint": "관점"
+    },
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "la mise en œuvre",
+      "hint": "실행"
+    },
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "la marge",
+      "hint": "여유, 폭"
+    },
+    {
+      "sentence": "Pour avancer, il vaut mieux ____ dès le début.",
+      "answer": "préconiser",
+      "hint": "권고하다"
+    },
+    {
+      "sentence": "Pour avancer, il vaut mieux ____ dès le début.",
+      "answer": "aboutir",
+      "hint": "성사되다"
+    },
+    {
+      "sentence": "Une réponse ____ rassure davantage tout le monde.",
+      "answer": "crédible",
+      "hint": "설득력 있는"
+    },
+    {
+      "sentence": "Dans un exposé, un argument ____ a plus d’impact.",
+      "answer": "provisoire",
+      "hint": "임시의"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "en pratique",
+      "hint": "실제로"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "en effet",
+      "hint": "실제로"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "à juste titre",
+      "hint": "정당하게"
+    }
+  ]
+}

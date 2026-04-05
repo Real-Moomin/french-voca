@@ -1,0 +1,300 @@
+{
+  "day": 9,
+  "title": "Day 09",
+  "targetLevel": "B2-C1",
+  "useCase": "writing-heavy",
+  "words": [
+    {
+      "word": "la médiation",
+      "partOfSpeech": "noun",
+      "meaning": "중재",
+      "example": "Dans ce contexte, la médiation reste un élément important à clarifier.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 중재을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "le repérage",
+      "partOfSpeech": "noun",
+      "meaning": "파악",
+      "example": "On comprend mieux la situation quand le repérage est bien expliqué.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 파악이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la vigilance",
+      "partOfSpeech": "noun",
+      "meaning": "경계",
+      "example": "Au moment de décider, la vigilance compte beaucoup.",
+      "exampleKo": "결정을 내릴 때 계획을 세우고 문제를 해결할 때 경계이 큰 역할을 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "l’évolution",
+      "partOfSpeech": "noun",
+      "meaning": "변화",
+      "example": "Dans ce contexte, l’évolution reste un élément important à clarifier.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 변화을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "le raisonnement",
+      "partOfSpeech": "noun",
+      "meaning": "논리 전개",
+      "example": "On comprend mieux la situation quand le raisonnement est bien expliqué.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 논리 전개이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la nuance",
+      "partOfSpeech": "noun",
+      "meaning": "뉘앙스",
+      "example": "Au moment de décider, la nuance compte beaucoup.",
+      "exampleKo": "결정을 내릴 때 계획을 세우고 문제를 해결할 때 뉘앙스이 큰 역할을 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "l’hypothèse",
+      "partOfSpeech": "noun",
+      "meaning": "가설",
+      "example": "Dans ce contexte, l’hypothèse reste un élément important à clarifier.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 가설을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la référence",
+      "partOfSpeech": "noun",
+      "meaning": "참고 기준",
+      "example": "On comprend mieux la situation quand la référence est bien expliqué.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 참고 기준이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "encadrer",
+      "partOfSpeech": "verb",
+      "meaning": "관리 감독하다",
+      "example": "Il faut souvent encadrer avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 계획을 세우고 문제를 해결할 때 관리 감독하다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "rendre compte de",
+      "partOfSpeech": "verb",
+      "meaning": "~을 보고하다",
+      "example": "Dans cette situation, nous devons rendre compte de avec calme et précision.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 차분하고 정확하게 ~을 보고하다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "préserver",
+      "partOfSpeech": "verb",
+      "meaning": "보존하다",
+      "example": "Pour avancer, il vaut mieux préserver dès le début.",
+      "exampleKo": "앞으로 나아가려면 계획을 세우고 문제를 해결할 때 처음부터 보존하다하는 편이 낫다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "optimiser",
+      "partOfSpeech": "verb",
+      "meaning": "최적화하다",
+      "example": "Il faut souvent optimiser avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 계획을 세우고 문제를 해결할 때 최적화하다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "mobiliser",
+      "partOfSpeech": "verb",
+      "meaning": "동원하다",
+      "example": "Dans cette situation, nous devons mobiliser avec calme et précision.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 차분하고 정확하게 동원하다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "atténuer",
+      "partOfSpeech": "verb",
+      "meaning": "완화하다",
+      "example": "Pour avancer, il vaut mieux atténuer dès le début.",
+      "exampleKo": "앞으로 나아가려면 계획을 세우고 문제를 해결할 때 처음부터 완화하다하는 편이 낫다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "révéler",
+      "partOfSpeech": "verb",
+      "meaning": "드러내다",
+      "example": "Il faut souvent révéler avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 계획을 세우고 문제를 해결할 때 드러내다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "trancher",
+      "partOfSpeech": "verb",
+      "meaning": "결정하다",
+      "example": "Dans cette situation, nous devons trancher avec calme et précision.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 차분하고 정확하게 결정하다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "lisible",
+      "partOfSpeech": "adjective",
+      "meaning": "이해하기 쉬운",
+      "example": "Une réponse lisible rassure davantage tout le monde.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 이해하기 쉬운 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "flou",
+      "partOfSpeech": "adjective",
+      "meaning": "불분명한",
+      "example": "Dans un exposé, un argument flou a plus d’impact.",
+      "exampleKo": "발표에서는 계획을 세우고 문제를 해결할 때 불분명한 논거가 더 큰 힘을 가진다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "justifié",
+      "partOfSpeech": "adjective",
+      "meaning": "정당화된",
+      "example": "Un ton justifié aide à rendre le message plus clair.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 정당화된 태도는 메시지를 더 분명하게 만든다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "décisif",
+      "partOfSpeech": "adjective",
+      "meaning": "결정적인",
+      "example": "Une réponse décisif rassure davantage tout le monde.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 결정적인 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "contrastif",
+      "partOfSpeech": "adjective",
+      "meaning": "대조적인",
+      "example": "Dans un exposé, un argument contrastif a plus d’impact.",
+      "exampleKo": "발표에서는 계획을 세우고 문제를 해결할 때 대조적인 논거가 더 큰 힘을 가진다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "stimulant",
+      "partOfSpeech": "adjective",
+      "meaning": "자극이 되는",
+      "example": "Un ton stimulant aide à rendre le message plus clair.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 자극이 되는 태도는 메시지를 더 분명하게 만든다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "résistant",
+      "partOfSpeech": "adjective",
+      "meaning": "견고한",
+      "example": "Une réponse résistant rassure davantage tout le monde.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 견고한 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "à moyen terme",
+      "partOfSpeech": "adverb",
+      "meaning": "중기적으로",
+      "example": "à moyen terme, il faut revoir notre position.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 중기적으로 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "en apparence",
+      "partOfSpeech": "adverb",
+      "meaning": "겉보기에는",
+      "example": "Cette idée revient en apparence dans les discussions récentes.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 이런 생각은 겉보기에는 반복해서 등장한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "tout au plus",
+      "partOfSpeech": "adverb",
+      "meaning": "많아야",
+      "example": "Le projet avance tout au plus si chacun connaît son rôle.",
+      "exampleKo": "각자 역할을 알면 계획을 세우고 문제를 해결할 때 계획은 많아야 진행된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "en particulier",
+      "partOfSpeech": "adverb",
+      "meaning": "특히",
+      "example": "en particulier, il faut revoir notre position.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 특히 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "dans ce cadre",
+      "partOfSpeech": "adverb",
+      "meaning": "이 틀 안에서",
+      "example": "Cette idée revient dans ce cadre dans les discussions récentes.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 이런 생각은 이 틀 안에서 반복해서 등장한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "au fond",
+      "partOfSpeech": "adverb",
+      "meaning": "결국",
+      "example": "Le projet avance au fond si chacun connaît son rôle.",
+      "exampleKo": "각자 역할을 알면 계획을 세우고 문제를 해결할 때 계획은 결국 진행된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "en ce sens",
+      "partOfSpeech": "adverb",
+      "meaning": "그런 의미에서",
+      "example": "en ce sens, il faut revoir notre position.",
+      "exampleKo": "계획을 세우고 문제를 해결할 때 그런 의미에서 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "le repérage",
+      "hint": "파악"
+    },
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "le raisonnement",
+      "hint": "논리 전개"
+    },
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "la référence",
+      "hint": "참고 기준"
+    },
+    {
+      "sentence": "Pour avancer, il vaut mieux ____ dès le début.",
+      "answer": "préserver",
+      "hint": "보존하다"
+    },
+    {
+      "sentence": "Pour avancer, il vaut mieux ____ dès le début.",
+      "answer": "atténuer",
+      "hint": "완화하다"
+    },
+    {
+      "sentence": "Une réponse ____ rassure davantage tout le monde.",
+      "answer": "lisible",
+      "hint": "이해하기 쉬운"
+    },
+    {
+      "sentence": "Dans un exposé, un argument ____ a plus d’impact.",
+      "answer": "contrastif",
+      "hint": "대조적인"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "à moyen terme",
+      "hint": "중기적으로"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "en particulier",
+      "hint": "특히"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "en ce sens",
+      "hint": "그런 의미에서"
+    }
+  ]
+}

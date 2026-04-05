@@ -1,0 +1,300 @@
+{
+  "day": 3,
+  "title": "Day 03",
+  "targetLevel": "B1-B2",
+  "useCase": "writing-heavy",
+  "words": [
+    {
+      "word": "la conséquence",
+      "partOfSpeech": "noun",
+      "meaning": "결과",
+      "example": "Dans ce contexte, la conséquence reste un élément important à clarifier.",
+      "exampleKo": "공부와 일을 정리할 때 결과을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la comparaison",
+      "partOfSpeech": "noun",
+      "meaning": "비교",
+      "example": "On comprend mieux la situation quand la comparaison est bien expliqué.",
+      "exampleKo": "공부와 일을 정리할 때 비교이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la priorité",
+      "partOfSpeech": "noun",
+      "meaning": "우선순위",
+      "example": "Au moment de décider, la priorité compte beaucoup.",
+      "exampleKo": "결정을 내릴 때 공부와 일을 정리할 때 우선순위이 큰 역할을 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "le repère",
+      "partOfSpeech": "noun",
+      "meaning": "기준점",
+      "example": "Dans ce contexte, le repère reste un élément important à clarifier.",
+      "exampleKo": "공부와 일을 정리할 때 기준점을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la méthode",
+      "partOfSpeech": "noun",
+      "meaning": "방법",
+      "example": "On comprend mieux la situation quand la méthode est bien expliqué.",
+      "exampleKo": "공부와 일을 정리할 때 방법이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la démarche",
+      "partOfSpeech": "noun",
+      "meaning": "접근 방식",
+      "example": "Au moment de décider, la démarche compte beaucoup.",
+      "exampleKo": "결정을 내릴 때 공부와 일을 정리할 때 접근 방식이 큰 역할을 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "le constat",
+      "partOfSpeech": "noun",
+      "meaning": "관찰 결과",
+      "example": "Dans ce contexte, le constat reste un élément important à clarifier.",
+      "exampleKo": "공부와 일을 정리할 때 관찰 결과을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la cohésion",
+      "partOfSpeech": "noun",
+      "meaning": "결속력",
+      "example": "On comprend mieux la situation quand la cohésion est bien expliqué.",
+      "exampleKo": "공부와 일을 정리할 때 결속력이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "souligner",
+      "partOfSpeech": "verb",
+      "meaning": "강조하다",
+      "example": "Il faut souvent souligner avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 공부와 일을 정리할 때 강조하다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "justifier",
+      "partOfSpeech": "verb",
+      "meaning": "정당화하다",
+      "example": "Dans cette situation, nous devons justifier avec calme et précision.",
+      "exampleKo": "공부와 일을 정리할 때 차분하고 정확하게 정당화하다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "envisager",
+      "partOfSpeech": "verb",
+      "meaning": "고려하다",
+      "example": "Pour avancer, il vaut mieux envisager dès le début.",
+      "exampleKo": "앞으로 나아가려면 공부와 일을 정리할 때 처음부터 고려하다하는 편이 낫다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "distinguer",
+      "partOfSpeech": "verb",
+      "meaning": "구별하다",
+      "example": "Il faut souvent distinguer avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 공부와 일을 정리할 때 구별하다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "structurer",
+      "partOfSpeech": "verb",
+      "meaning": "구조화하다",
+      "example": "Dans cette situation, nous devons structurer avec calme et précision.",
+      "exampleKo": "공부와 일을 정리할 때 차분하고 정확하게 구조화하다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "coordonner",
+      "partOfSpeech": "verb",
+      "meaning": "조정하다",
+      "example": "Pour avancer, il vaut mieux coordonner dès le début.",
+      "exampleKo": "앞으로 나아가려면 공부와 일을 정리할 때 처음부터 조정하다하는 편이 낫다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "concilier",
+      "partOfSpeech": "verb",
+      "meaning": "양립시키다",
+      "example": "Il faut souvent concilier avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 공부와 일을 정리할 때 양립시키다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "surmonter",
+      "partOfSpeech": "verb",
+      "meaning": "극복하다",
+      "example": "Dans cette situation, nous devons surmonter avec calme et précision.",
+      "exampleKo": "공부와 일을 정리할 때 차분하고 정확하게 극복하다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "viable",
+      "partOfSpeech": "adjective",
+      "meaning": "실현 가능한",
+      "example": "Une réponse viable rassure davantage tout le monde.",
+      "exampleKo": "공부와 일을 정리할 때 실현 가능한 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "précis",
+      "partOfSpeech": "adjective",
+      "meaning": "정확한",
+      "example": "Dans un exposé, un argument précis a plus d’impact.",
+      "exampleKo": "발표에서는 공부와 일을 정리할 때 정확한 논거가 더 큰 힘을 가진다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "exigeant",
+      "partOfSpeech": "adjective",
+      "meaning": "요구 수준이 높은",
+      "example": "Un ton exigeant aide à rendre le message plus clair.",
+      "exampleKo": "공부와 일을 정리할 때 요구 수준이 높은 태도는 메시지를 더 분명하게 만든다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "révélateur",
+      "partOfSpeech": "adjective",
+      "meaning": "시사하는",
+      "example": "Une réponse révélateur rassure davantage tout le monde.",
+      "exampleKo": "공부와 일을 정리할 때 시사하는 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "durable",
+      "partOfSpeech": "adjective",
+      "meaning": "지속 가능한",
+      "example": "Dans un exposé, un argument durable a plus d’impact.",
+      "exampleKo": "발표에서는 공부와 일을 정리할 때 지속 가능한 논거가 더 큰 힘을 가진다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "subtil",
+      "partOfSpeech": "adjective",
+      "meaning": "미묘한",
+      "example": "Un ton subtil aide à rendre le message plus clair.",
+      "exampleKo": "공부와 일을 정리할 때 미묘한 태도는 메시지를 더 분명하게 만든다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "incontournable",
+      "partOfSpeech": "adjective",
+      "meaning": "필수적인",
+      "example": "Une réponse incontournable rassure davantage tout le monde.",
+      "exampleKo": "공부와 일을 정리할 때 필수적인 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "dans l’ensemble",
+      "partOfSpeech": "adverb",
+      "meaning": "전반적으로",
+      "example": "dans l’ensemble, il faut revoir notre position.",
+      "exampleKo": "공부와 일을 정리할 때 전반적으로 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "à première vue",
+      "partOfSpeech": "adverb",
+      "meaning": "언뜻 보기에는",
+      "example": "Cette idée revient à première vue dans les discussions récentes.",
+      "exampleKo": "공부와 일을 정리할 때 이런 생각은 언뜻 보기에는 반복해서 등장한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "en amont",
+      "partOfSpeech": "adverb",
+      "meaning": "사전에",
+      "example": "Le projet avance en amont si chacun connaît son rôle.",
+      "exampleKo": "각자 역할을 알면 공부와 일을 정리할 때 계획은 사전에 진행된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "à long terme",
+      "partOfSpeech": "adverb",
+      "meaning": "장기적으로",
+      "example": "à long terme, il faut revoir notre position.",
+      "exampleKo": "공부와 일을 정리할 때 장기적으로 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "de plus en plus",
+      "partOfSpeech": "adverb",
+      "meaning": "점점 더",
+      "example": "Cette idée revient de plus en plus dans les discussions récentes.",
+      "exampleKo": "공부와 일을 정리할 때 이런 생각은 점점 더 반복해서 등장한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "dans cette optique",
+      "partOfSpeech": "adverb",
+      "meaning": "이러한 관점에서",
+      "example": "Le projet avance dans cette optique si chacun connaît son rôle.",
+      "exampleKo": "각자 역할을 알면 공부와 일을 정리할 때 계획은 이러한 관점에서 진행된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "autrement dit",
+      "partOfSpeech": "adverb",
+      "meaning": "다시 말해",
+      "example": "autrement dit, il faut revoir notre position.",
+      "exampleKo": "공부와 일을 정리할 때 다시 말해 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "la comparaison",
+      "hint": "비교"
+    },
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "la méthode",
+      "hint": "방법"
+    },
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "la cohésion",
+      "hint": "결속력"
+    },
+    {
+      "sentence": "Pour avancer, il vaut mieux ____ dès le début.",
+      "answer": "envisager",
+      "hint": "고려하다"
+    },
+    {
+      "sentence": "Pour avancer, il vaut mieux ____ dès le début.",
+      "answer": "coordonner",
+      "hint": "조정하다"
+    },
+    {
+      "sentence": "Une réponse ____ rassure davantage tout le monde.",
+      "answer": "viable",
+      "hint": "실현 가능한"
+    },
+    {
+      "sentence": "Dans un exposé, un argument ____ a plus d’impact.",
+      "answer": "durable",
+      "hint": "지속 가능한"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "dans l’ensemble",
+      "hint": "전반적으로"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "à long terme",
+      "hint": "장기적으로"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "autrement dit",
+      "hint": "다시 말해"
+    }
+  ]
+}
