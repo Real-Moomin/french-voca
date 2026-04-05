@@ -1,13 +1,15 @@
 :root {
-  --bg: #0f0a19;
-  --panel: rgba(15, 24, 43, 0.82);
-  --text: #f5f7fb;
-  --muted: #a9b4c8;
-  --accent: #b18cff;
-  --line: rgba(169, 180, 200, 0.18);
-  --shadow: 0 24px 70px rgba(0, 0, 0, 0.35);
+  --bg: #111111;
+  --panel: rgba(28, 28, 28, 0.94);
+  --text: #f2f2f2;
+  --muted: #b5b5b5;
+  --accent: #d6d6d6;
+  --line: rgba(255, 255, 255, 0.12);
+  --shadow: 0 24px 60px rgba(0, 0, 0, 0.28);
   --danger: #ff8e8e;
   --success: #89f0b5;
+  --button-bg: #6f63ff;
+  --button-text: #ffffff;
   font-family: "Segoe UI", "Noto Sans KR", sans-serif;
 }
 
@@ -63,8 +65,8 @@ button {
 
 button {
   cursor: pointer;
-  background: var(--accent);
-  color: #f8f4ff;
+  background: var(--button-bg);
+  color: var(--button-text);
   font-weight: 700;
 }
 
@@ -78,6 +80,7 @@ button {
 .hero-card {
   border-radius: 28px;
   padding: 24px;
+  text-align: center;
 }
 
 .day-nav {
@@ -105,7 +108,7 @@ button {
 }
 
 .day-title-button:hover {
-  color: var(--accent);
+  color: #ffffff;
 }
 
 .content-view,
@@ -123,6 +126,7 @@ button {
 .quiz-item {
   border-radius: 24px;
   padding: 18px;
+  text-align: center;
 }
 
 .word-card { min-height: 0; }
@@ -174,7 +178,7 @@ button {
 .word-meaning {
   margin: 0 0 14px;
   font-weight: 700;
-  color: var(--accent);
+  color: var(--text);
 }
 
 .word-example,
@@ -195,11 +199,19 @@ button {
   opacity: 0.88;
 }
 
+.quiz-box {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow);
+  border-radius: 24px;
+  padding: 22px 18px;
+}
+
 .quiz-actions {
   display: flex;
   gap: 10px;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: center;
   margin: 16px 0 18px;
 }
 
@@ -211,6 +223,7 @@ button {
 .section-head h3 {
   margin: 0;
   font-size: 1.2rem;
+  text-align: center;
 }
 
 .quiz-list {
@@ -218,14 +231,11 @@ button {
   gap: 14px;
 }
 
-.quiz-hint {
-  color: var(--muted);
-}
-
 .quiz-feedback {
   min-height: 24px;
   margin: 10px 0 0;
   font-weight: 700;
+  text-align: center;
 }
 
 .quiz-feedback.is-correct { color: var(--success); }
@@ -253,7 +263,8 @@ button {
 
   .hero-card,
   .word-card,
-  .quiz-item {
+  .quiz-item,
+  .quiz-box {
     border-radius: 20px;
   }
 

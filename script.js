@@ -7,7 +7,6 @@ const elements = {
   cardGrid: document.querySelector("#card-grid"),
   quizList: document.querySelector("#quiz-list"),
   checkQuiz: document.querySelector("#check-quiz"),
-  resetQuiz: document.querySelector("#reset-quiz"),
   wordCardTemplate: document.querySelector("#word-card-template"),
   quizItemTemplate: document.querySelector("#quiz-item-template"),
 };
@@ -90,41 +89,19 @@ function renderQuiz() {
   for (const [index, item] of (state.currentData?.quiz || []).entries()) {
     const fragment = elements.quizItemTemplate.content.cloneNode(true);
     fragment.querySelector(".quiz-number").textContent = `문제 ${index + 1}`;
-    fragment.querySelector(".quiz-hint").textContent = `힌트: ${item.hint}`;
     fragment.querySelector(".quiz-sentence").textContent = item.sentence;
-    const input = fragment.querySelector(".quiz-input");
-    input.dataset.answer = item.answer;
-    input.placeholder = "정답 입력";
+    const feedback = fragment.querySelector(".quiz-feedback");
+    feedback.dataset.answer = item.answer;
     elements.quizList.append(fragment);
   }
 }
 
-function normalizeText(value) {
-  return value
-    .normalize("NFD")
-    .replace(/\p{Diacritic}/gu, "")
-    .replace(/[’']/g, "'")
-    .trim()
-    .toLowerCase();
-}
-
 function checkQuizAnswers() {
   for (const item of elements.quizList.querySelectorAll(".quiz-item")) {
-    const input = item.querySelector(".quiz-input");
     const feedback = item.querySelector(".quiz-feedback");
-    const expected = input.dataset.answer;
-    const isCorrect = normalizeText(input.value) === normalizeText(expected);
-    feedback.className = `quiz-feedback ${isCorrect ? "is-correct" : "is-wrong"}`;
-    feedback.textContent = isCorrect ? "정답입니다." : `정답: ${expected}`;
-  }
-}
-
-function resetQuizAnswers() {
-  for (const item of elements.quizList.querySelectorAll(".quiz-item")) {
-    item.querySelector(".quiz-input").value = "";
-    const feedback = item.querySelector(".quiz-feedback");
-    feedback.className = "quiz-feedback";
-    feedback.textContent = "";
+    const expected = feedback.dataset.answer;
+    feedback.className = "quiz-feedback is-correct";
+    feedback.textContent = `정답: ${expected}`;
   }
 }
 
@@ -179,7 +156,6 @@ async function init() {
   elements.dayNext.addEventListener("click", () => moveDay(1));
   elements.dayTitle.addEventListener("click", promptForDay);
   elements.checkQuiz.addEventListener("click", checkQuizAnswers);
-  elements.resetQuiz.addEventListener("click", resetQuizAnswers);
 }
 
 init().catch((error) => {
