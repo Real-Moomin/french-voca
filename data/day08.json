@@ -1,0 +1,300 @@
+{
+  "day": 8,
+  "title": "Day 08",
+  "targetLevel": "B2-C1",
+  "useCase": "reading-heavy",
+  "words": [
+    {
+      "word": "la répartition",
+      "partOfSpeech": "noun",
+      "meaning": "배분",
+      "example": "Dans ce contexte, la répartition reste un élément important à clarifier.",
+      "exampleKo": "상황을 분석하고 해석할 때 배분을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la coordination",
+      "partOfSpeech": "noun",
+      "meaning": "조정",
+      "example": "On comprend mieux la situation quand la coordination est bien expliqué.",
+      "exampleKo": "상황을 분석하고 해석할 때 조정이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la procédure",
+      "partOfSpeech": "noun",
+      "meaning": "절차",
+      "example": "Au moment de décider, la procédure compte beaucoup.",
+      "exampleKo": "결정을 내릴 때 상황을 분석하고 해석할 때 절차이 큰 역할을 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "le suivi",
+      "partOfSpeech": "noun",
+      "meaning": "후속 관리",
+      "example": "Dans ce contexte, le suivi reste un élément important à clarifier.",
+      "exampleKo": "상황을 분석하고 해석할 때 후속 관리을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la médiation",
+      "partOfSpeech": "noun",
+      "meaning": "중재",
+      "example": "On comprend mieux la situation quand la médiation est bien expliqué.",
+      "exampleKo": "상황을 분석하고 해석할 때 중재이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "le repérage",
+      "partOfSpeech": "noun",
+      "meaning": "파악",
+      "example": "Au moment de décider, le repérage compte beaucoup.",
+      "exampleKo": "결정을 내릴 때 상황을 분석하고 해석할 때 파악이 큰 역할을 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la vigilance",
+      "partOfSpeech": "noun",
+      "meaning": "경계",
+      "example": "Dans ce contexte, la vigilance reste un élément important à clarifier.",
+      "exampleKo": "상황을 분석하고 해석할 때 경계을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "l’évolution",
+      "partOfSpeech": "noun",
+      "meaning": "변화",
+      "example": "On comprend mieux la situation quand l’évolution est bien expliqué.",
+      "exampleKo": "상황을 분석하고 해석할 때 변화이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "appuyer",
+      "partOfSpeech": "verb",
+      "meaning": "뒷받침하다",
+      "example": "Il faut souvent appuyer avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 상황을 분석하고 해석할 때 뒷받침하다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "mettre en œuvre",
+      "partOfSpeech": "verb",
+      "meaning": "실행하다",
+      "example": "Dans cette situation, nous devons mettre en œuvre avec calme et précision.",
+      "exampleKo": "상황을 분석하고 해석할 때 차분하고 정확하게 실행하다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "cibler",
+      "partOfSpeech": "verb",
+      "meaning": "겨냥하다",
+      "example": "Pour avancer, il vaut mieux cibler dès le début.",
+      "exampleKo": "앞으로 나아가려면 상황을 분석하고 해석할 때 처음부터 겨냥하다하는 편이 낫다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "élargir",
+      "partOfSpeech": "verb",
+      "meaning": "확장하다",
+      "example": "Il faut souvent élargir avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 상황을 분석하고 해석할 때 확장하다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "encadrer",
+      "partOfSpeech": "verb",
+      "meaning": "관리 감독하다",
+      "example": "Dans cette situation, nous devons encadrer avec calme et précision.",
+      "exampleKo": "상황을 분석하고 해석할 때 차분하고 정확하게 관리 감독하다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "rendre compte de",
+      "partOfSpeech": "verb",
+      "meaning": "~을 보고하다",
+      "example": "Pour avancer, il vaut mieux rendre compte de dès le début.",
+      "exampleKo": "앞으로 나아가려면 상황을 분석하고 해석할 때 처음부터 ~을 보고하다하는 편이 낫다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "préserver",
+      "partOfSpeech": "verb",
+      "meaning": "보존하다",
+      "example": "Il faut souvent préserver avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 상황을 분석하고 해석할 때 보존하다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "optimiser",
+      "partOfSpeech": "verb",
+      "meaning": "최적화하다",
+      "example": "Dans cette situation, nous devons optimiser avec calme et précision.",
+      "exampleKo": "상황을 분석하고 해석할 때 차분하고 정확하게 최적화하다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "progressif",
+      "partOfSpeech": "adjective",
+      "meaning": "점진적인",
+      "example": "Une réponse progressif rassure davantage tout le monde.",
+      "exampleKo": "상황을 분석하고 해석할 때 점진적인 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "complexe",
+      "partOfSpeech": "adjective",
+      "meaning": "복잡한",
+      "example": "Dans un exposé, un argument complexe a plus d’impact.",
+      "exampleKo": "발표에서는 상황을 분석하고 해석할 때 복잡한 논거가 더 큰 힘을 가진다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "central",
+      "partOfSpeech": "adjective",
+      "meaning": "핵심적인",
+      "example": "Un ton central aide à rendre le message plus clair.",
+      "exampleKo": "상황을 분석하고 해석할 때 핵심적인 태도는 메시지를 더 분명하게 만든다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "secondaire",
+      "partOfSpeech": "adjective",
+      "meaning": "부차적인",
+      "example": "Une réponse secondaire rassure davantage tout le monde.",
+      "exampleKo": "상황을 분석하고 해석할 때 부차적인 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "lisible",
+      "partOfSpeech": "adjective",
+      "meaning": "이해하기 쉬운",
+      "example": "Dans un exposé, un argument lisible a plus d’impact.",
+      "exampleKo": "발표에서는 상황을 분석하고 해석할 때 이해하기 쉬운 논거가 더 큰 힘을 가진다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "flou",
+      "partOfSpeech": "adjective",
+      "meaning": "불분명한",
+      "example": "Un ton flou aide à rendre le message plus clair.",
+      "exampleKo": "상황을 분석하고 해석할 때 불분명한 태도는 메시지를 더 분명하게 만든다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "justifié",
+      "partOfSpeech": "adjective",
+      "meaning": "정당화된",
+      "example": "Une réponse justifié rassure davantage tout le monde.",
+      "exampleKo": "상황을 분석하고 해석할 때 정당화된 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "dans une certaine mesure",
+      "partOfSpeech": "adverb",
+      "meaning": "어느 정도",
+      "example": "dans une certaine mesure, il faut revoir notre position.",
+      "exampleKo": "상황을 분석하고 해석할 때 어느 정도 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "de façon cohérente",
+      "partOfSpeech": "adverb",
+      "meaning": "일관되게",
+      "example": "Cette idée revient de façon cohérente dans les discussions récentes.",
+      "exampleKo": "상황을 분석하고 해석할 때 이런 생각은 일관되게 반복해서 등장한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "en profondeur",
+      "partOfSpeech": "adverb",
+      "meaning": "깊이 있게",
+      "example": "Le projet avance en profondeur si chacun connaît son rôle.",
+      "exampleKo": "각자 역할을 알면 상황을 분석하고 해석할 때 계획은 깊이 있게 진행된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "au quotidien",
+      "partOfSpeech": "adverb",
+      "meaning": "일상적으로",
+      "example": "au quotidien, il faut revoir notre position.",
+      "exampleKo": "상황을 분석하고 해석할 때 일상적으로 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "à moyen terme",
+      "partOfSpeech": "adverb",
+      "meaning": "중기적으로",
+      "example": "Cette idée revient à moyen terme dans les discussions récentes.",
+      "exampleKo": "상황을 분석하고 해석할 때 이런 생각은 중기적으로 반복해서 등장한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "en apparence",
+      "partOfSpeech": "adverb",
+      "meaning": "겉보기에는",
+      "example": "Le projet avance en apparence si chacun connaît son rôle.",
+      "exampleKo": "각자 역할을 알면 상황을 분석하고 해석할 때 계획은 겉보기에는 진행된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "tout au plus",
+      "partOfSpeech": "adverb",
+      "meaning": "많아야",
+      "example": "tout au plus, il faut revoir notre position.",
+      "exampleKo": "상황을 분석하고 해석할 때 많아야 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "la coordination",
+      "hint": "조정"
+    },
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "la médiation",
+      "hint": "중재"
+    },
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "l’évolution",
+      "hint": "변화"
+    },
+    {
+      "sentence": "Pour avancer, il vaut mieux ____ dès le début.",
+      "answer": "cibler",
+      "hint": "겨냥하다"
+    },
+    {
+      "sentence": "Pour avancer, il vaut mieux ____ dès le début.",
+      "answer": "rendre compte de",
+      "hint": "~을 보고하다"
+    },
+    {
+      "sentence": "Une réponse ____ rassure davantage tout le monde.",
+      "answer": "progressif",
+      "hint": "점진적인"
+    },
+    {
+      "sentence": "Dans un exposé, un argument ____ a plus d’impact.",
+      "answer": "lisible",
+      "hint": "이해하기 쉬운"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "dans une certaine mesure",
+      "hint": "어느 정도"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "au quotidien",
+      "hint": "일상적으로"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "tout au plus",
+      "hint": "많아야"
+    }
+  ]
+}
