@@ -2,9 +2,7 @@ const STORAGE_KEY = "french-voca-state";
 
 const elements = {
   daySelect: document.querySelector("#day-select"),
-  dayTheme: document.querySelector("#day-theme"),
   dayTitle: document.querySelector("#day-title"),
-  daySummary: document.querySelector("#day-summary"),
   cardGrid: document.querySelector("#card-grid"),
   quizList: document.querySelector("#quiz-list"),
   checkQuiz: document.querySelector("#check-quiz"),
@@ -139,9 +137,7 @@ function resetQuizAnswers() {
 async function loadDay() {
   syncActiveDayUi();
   state.currentData = await fetchJson(`./data/day${String(state.currentDay).padStart(2, "0")}.json`);
-  elements.dayTheme.textContent = state.currentData.theme;
-  elements.dayTitle.textContent = `Day ${String(state.currentData.day).padStart(2, "0")} · ${state.currentData.title}`;
-  elements.daySummary.textContent = state.currentData.description;
+  elements.dayTitle.textContent = state.currentData.title || `Day ${String(state.currentData.day).padStart(2, "0")}`;
   renderWords();
   renderQuiz();
 }
@@ -168,5 +164,4 @@ async function init() {
 
 init().catch((error) => {
   elements.dayTitle.textContent = "데이터를 불러오지 못했습니다.";
-  elements.daySummary.textContent = error.message;
 });
