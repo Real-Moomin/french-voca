@@ -1,0 +1,360 @@
+{
+  "day": 9,
+  "title": "Vie numerique",
+  "theme": "디지털 생활",
+  "description": "메시지, 파일, 온라인 서비스와 관련된 단어입니다.",
+  "words": [
+    {
+      "word": "le message",
+      "partOfSpeech": "noun",
+      "meaning": "메시지",
+      "example": "On rencontre souvent le message quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "le fichier",
+      "partOfSpeech": "noun",
+      "meaning": "파일",
+      "example": "Dans la vraie vie, le fichier revient souvent quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "le mot de passe",
+      "partOfSpeech": "noun",
+      "meaning": "비밀번호",
+      "example": "Je remarque souvent le mot de passe quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "le voyage",
+      "partOfSpeech": "noun",
+      "meaning": "여행",
+      "example": "On rencontre souvent le voyage quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "la valise",
+      "partOfSpeech": "noun",
+      "meaning": "여행가방",
+      "example": "Dans la vraie vie, la valise revient souvent quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "le passeport",
+      "partOfSpeech": "noun",
+      "meaning": "여권",
+      "example": "Je remarque souvent le passeport quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "l'itineraire",
+      "partOfSpeech": "noun",
+      "meaning": "여행 경로",
+      "example": "On rencontre souvent l'itineraire quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "la chambre d'hotel",
+      "partOfSpeech": "noun",
+      "meaning": "호텔 방",
+      "example": "Dans la vraie vie, la chambre d'hotel revient souvent quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "la reception",
+      "partOfSpeech": "noun",
+      "meaning": "프런트",
+      "example": "Je remarque souvent la reception quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "le bruit",
+      "partOfSpeech": "noun",
+      "meaning": "소음",
+      "example": "On rencontre souvent le bruit quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "l'amitie",
+      "partOfSpeech": "noun",
+      "meaning": "우정",
+      "example": "Dans la vraie vie, l'amitie revient souvent quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "la confiance",
+      "partOfSpeech": "noun",
+      "meaning": "신뢰",
+      "example": "Je remarque souvent la confiance quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "la joie",
+      "partOfSpeech": "noun",
+      "meaning": "기쁨",
+      "example": "On rencontre souvent la joie quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "la tristesse",
+      "partOfSpeech": "noun",
+      "meaning": "슬픔",
+      "example": "Dans la vraie vie, la tristesse revient souvent quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "la meteo",
+      "partOfSpeech": "noun",
+      "meaning": "날씨",
+      "example": "Je remarque souvent la meteo quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "respirer",
+      "partOfSpeech": "verb",
+      "meaning": "호흡하다",
+      "example": "En general, je dois respirer quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "soigner",
+      "partOfSpeech": "verb",
+      "meaning": "돌보다",
+      "example": "Dans cette scene, nous pouvons soigner sans perdre de temps quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "consulter",
+      "partOfSpeech": "verb",
+      "meaning": "진료받다",
+      "example": "Il faut parfois consulter naturellement quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "se reposer",
+      "partOfSpeech": "verb",
+      "meaning": "쉬다",
+      "example": "En general, je dois se reposer quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "recuperer",
+      "partOfSpeech": "verb",
+      "meaning": "회복하다",
+      "example": "Dans cette scene, nous pouvons recuperer sans perdre de temps quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "eviter",
+      "partOfSpeech": "verb",
+      "meaning": "피하다",
+      "example": "Il faut parfois eviter naturellement quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "collaborer",
+      "partOfSpeech": "verb",
+      "meaning": "협업하다",
+      "example": "En general, je dois collaborer quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "transmettre",
+      "partOfSpeech": "verb",
+      "meaning": "전달하다",
+      "example": "Dans cette scene, nous pouvons transmettre sans perdre de temps quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "planifier",
+      "partOfSpeech": "verb",
+      "meaning": "계획하다",
+      "example": "Il faut parfois planifier naturellement quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "reporter",
+      "partOfSpeech": "verb",
+      "meaning": "미루다",
+      "example": "En general, je dois reporter quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "finaliser",
+      "partOfSpeech": "verb",
+      "meaning": "마무리하다",
+      "example": "Dans cette scene, nous pouvons finaliser sans perdre de temps quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "gerer",
+      "partOfSpeech": "verb",
+      "meaning": "관리하다",
+      "example": "Il faut parfois gerer naturellement quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "telecharger",
+      "partOfSpeech": "verb",
+      "meaning": "다운로드하다",
+      "example": "En general, je dois telecharger quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "envoyer",
+      "partOfSpeech": "verb",
+      "meaning": "보내다",
+      "example": "Dans cette scene, nous pouvons envoyer sans perdre de temps quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "sauvegarder",
+      "partOfSpeech": "verb",
+      "meaning": "저장하다",
+      "example": "Il faut parfois sauvegarder naturellement quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "precis",
+      "partOfSpeech": "adjective",
+      "meaning": "정확한",
+      "example": "Il vaut souvent mieux etre precis quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "charge",
+      "partOfSpeech": "adjective",
+      "meaning": "바쁜",
+      "example": "Rester charge aide beaucoup quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "souple",
+      "partOfSpeech": "adjective",
+      "meaning": "유연한",
+      "example": "Essayer d'etre souple fait souvent la difference quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "numerique",
+      "partOfSpeech": "adjective",
+      "meaning": "디지털의",
+      "example": "Il vaut souvent mieux etre numerique quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "securise",
+      "partOfSpeech": "adjective",
+      "meaning": "보안이 된",
+      "example": "Rester securise aide beaucoup quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "complet",
+      "partOfSpeech": "adjective",
+      "meaning": "완전한",
+      "example": "Essayer d'etre complet fait souvent la difference quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "international",
+      "partOfSpeech": "adjective",
+      "meaning": "국제적인",
+      "example": "Il vaut souvent mieux etre international quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "confortable",
+      "partOfSpeech": "adjective",
+      "meaning": "편안한",
+      "example": "Rester confortable aide beaucoup quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "bruyant",
+      "partOfSpeech": "adjective",
+      "meaning": "시끄러운",
+      "example": "Essayer d'etre bruyant fait souvent la difference quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "spacieux",
+      "partOfSpeech": "adjective",
+      "meaning": "넓은",
+      "example": "Il vaut souvent mieux etre spacieux quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "bien cuit",
+      "partOfSpeech": "adverb",
+      "meaning": "잘 익게",
+      "example": "On agit souvent bien cuit quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "a jeun",
+      "partOfSpeech": "adverb",
+      "meaning": "공복으로",
+      "example": "Dans la vraie vie, on fait souvent cela a jeun quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "avec moderation",
+      "partOfSpeech": "adverb",
+      "meaning": "적당히",
+      "example": "On entend souvent cette expression, avec moderation, quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "sur le pouce",
+      "partOfSpeech": "adverb",
+      "meaning": "간단히",
+      "example": "On agit souvent sur le pouce quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "pas trop",
+      "partOfSpeech": "adverb",
+      "meaning": "너무 심하지 않게",
+      "example": "Dans la vraie vie, on fait souvent cela pas trop quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "en forme",
+      "partOfSpeech": "adverb",
+      "meaning": "좋은 컨디션으로",
+      "example": "On entend souvent cette expression, en forme, quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "au calme",
+      "partOfSpeech": "adverb",
+      "meaning": "조용한 곳에서",
+      "example": "On agit souvent au calme quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "sans tarder",
+      "partOfSpeech": "adverb",
+      "meaning": "지체 없이",
+      "example": "Dans la vraie vie, on fait souvent cela sans tarder quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "en priorite",
+      "partOfSpeech": "adverb",
+      "meaning": "우선적으로",
+      "example": "On entend souvent cette expression, en priorite, quand je gere mes fichiers en ligne."
+    },
+    {
+      "word": "en equipe",
+      "partOfSpeech": "adverb",
+      "meaning": "팀으로",
+      "example": "On agit souvent en equipe quand je gere mes fichiers en ligne."
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent quand je gere mes fichiers en ligne.",
+      "answer": "le fichier",
+      "hint": "파일"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent quand je gere mes fichiers en ligne.",
+      "answer": "la valise",
+      "hint": "여행가방"
+    },
+    {
+      "sentence": "On rencontre souvent ____ quand je gere mes fichiers en ligne.",
+      "answer": "le bruit",
+      "hint": "소음"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent quand je gere mes fichiers en ligne.",
+      "answer": "la tristesse",
+      "hint": "슬픔"
+    },
+    {
+      "sentence": "En general, je dois ____ quand je gere mes fichiers en ligne.",
+      "answer": "se reposer",
+      "hint": "쉬다"
+    },
+    {
+      "sentence": "Dans cette scene, nous pouvons ____ sans perdre de temps quand je gere mes fichiers en ligne.",
+      "answer": "transmettre",
+      "hint": "전달하다"
+    },
+    {
+      "sentence": "Il faut parfois ____ naturellement quand je gere mes fichiers en ligne.",
+      "answer": "sauvegarder",
+      "hint": "저장하다"
+    },
+    {
+      "sentence": "Rester ____ aide beaucoup quand je gere mes fichiers en ligne.",
+      "answer": "securise",
+      "hint": "보안이 된"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ quand je gere mes fichiers en ligne.",
+      "answer": "a jeun",
+      "hint": "공복으로"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ quand je gere mes fichiers en ligne.",
+      "answer": "sans tarder",
+      "hint": "지체 없이"
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "day": 11,
+  "title": "Hotel et sejour",
+  "theme": "숙소와 체류",
+  "description": "체크인과 문의, 불편 전달에 자주 쓰입니다.",
+  "words": [
+    {
+      "word": "la reception",
+      "partOfSpeech": "noun",
+      "meaning": "프런트",
+      "example": "On rencontre souvent la reception en arrivant a l'hotel."
+    },
+    {
+      "word": "le bruit",
+      "partOfSpeech": "noun",
+      "meaning": "소음",
+      "example": "Dans la vraie vie, le bruit revient souvent en arrivant a l'hotel."
+    },
+    {
+      "word": "l'amitie",
+      "partOfSpeech": "noun",
+      "meaning": "우정",
+      "example": "Je remarque souvent l'amitie en arrivant a l'hotel."
+    },
+    {
+      "word": "la confiance",
+      "partOfSpeech": "noun",
+      "meaning": "신뢰",
+      "example": "On rencontre souvent la confiance en arrivant a l'hotel."
+    },
+    {
+      "word": "la joie",
+      "partOfSpeech": "noun",
+      "meaning": "기쁨",
+      "example": "Dans la vraie vie, la joie revient souvent en arrivant a l'hotel."
+    },
+    {
+      "word": "la tristesse",
+      "partOfSpeech": "noun",
+      "meaning": "슬픔",
+      "example": "Je remarque souvent la tristesse en arrivant a l'hotel."
+    },
+    {
+      "word": "la meteo",
+      "partOfSpeech": "noun",
+      "meaning": "날씨",
+      "example": "On rencontre souvent la meteo en arrivant a l'hotel."
+    },
+    {
+      "word": "la saison",
+      "partOfSpeech": "noun",
+      "meaning": "계절",
+      "example": "Dans la vraie vie, la saison revient souvent en arrivant a l'hotel."
+    },
+    {
+      "word": "la temperature",
+      "partOfSpeech": "noun",
+      "meaning": "기온",
+      "example": "Je remarque souvent la temperature en arrivant a l'hotel."
+    },
+    {
+      "word": "le soleil",
+      "partOfSpeech": "noun",
+      "meaning": "태양",
+      "example": "On rencontre souvent le soleil en arrivant a l'hotel."
+    },
+    {
+      "word": "le musee",
+      "partOfSpeech": "noun",
+      "meaning": "박물관",
+      "example": "Dans la vraie vie, le musee revient souvent en arrivant a l'hotel."
+    },
+    {
+      "word": "l'exposition",
+      "partOfSpeech": "noun",
+      "meaning": "전시",
+      "example": "Je remarque souvent l'exposition en arrivant a l'hotel."
+    },
+    {
+      "word": "le concert",
+      "partOfSpeech": "noun",
+      "meaning": "공연",
+      "example": "On rencontre souvent le concert en arrivant a l'hotel."
+    },
+    {
+      "word": "le loisir",
+      "partOfSpeech": "noun",
+      "meaning": "여가",
+      "example": "Dans la vraie vie, le loisir revient souvent en arrivant a l'hotel."
+    },
+    {
+      "word": "le formulaire",
+      "partOfSpeech": "noun",
+      "meaning": "신청서",
+      "example": "Je remarque souvent le formulaire en arrivant a l'hotel."
+    },
+    {
+      "word": "planifier",
+      "partOfSpeech": "verb",
+      "meaning": "계획하다",
+      "example": "En general, je dois planifier en arrivant a l'hotel."
+    },
+    {
+      "word": "reporter",
+      "partOfSpeech": "verb",
+      "meaning": "미루다",
+      "example": "Dans cette scene, nous pouvons reporter sans perdre de temps en arrivant a l'hotel."
+    },
+    {
+      "word": "finaliser",
+      "partOfSpeech": "verb",
+      "meaning": "마무리하다",
+      "example": "Il faut parfois finaliser naturellement en arrivant a l'hotel."
+    },
+    {
+      "word": "gerer",
+      "partOfSpeech": "verb",
+      "meaning": "관리하다",
+      "example": "En general, je dois gerer en arrivant a l'hotel."
+    },
+    {
+      "word": "telecharger",
+      "partOfSpeech": "verb",
+      "meaning": "다운로드하다",
+      "example": "Dans cette scene, nous pouvons telecharger sans perdre de temps en arrivant a l'hotel."
+    },
+    {
+      "word": "envoyer",
+      "partOfSpeech": "verb",
+      "meaning": "보내다",
+      "example": "Il faut parfois envoyer naturellement en arrivant a l'hotel."
+    },
+    {
+      "word": "sauvegarder",
+      "partOfSpeech": "verb",
+      "meaning": "저장하다",
+      "example": "En general, je dois sauvegarder en arrivant a l'hotel."
+    },
+    {
+      "word": "supprimer",
+      "partOfSpeech": "verb",
+      "meaning": "삭제하다",
+      "example": "Dans cette scene, nous pouvons supprimer sans perdre de temps en arrivant a l'hotel."
+    },
+    {
+      "word": "se connecter",
+      "partOfSpeech": "verb",
+      "meaning": "로그인하다",
+      "example": "Il faut parfois se connecter naturellement en arrivant a l'hotel."
+    },
+    {
+      "word": "verifier",
+      "partOfSpeech": "verb",
+      "meaning": "확인하다",
+      "example": "En general, je dois verifier en arrivant a l'hotel."
+    },
+    {
+      "word": "emporter",
+      "partOfSpeech": "verb",
+      "meaning": "챙겨 가다",
+      "example": "Dans cette scene, nous pouvons emporter sans perdre de temps en arrivant a l'hotel."
+    },
+    {
+      "word": "annuler",
+      "partOfSpeech": "verb",
+      "meaning": "취소하다",
+      "example": "Il faut parfois annuler naturellement en arrivant a l'hotel."
+    },
+    {
+      "word": "rejoindre",
+      "partOfSpeech": "verb",
+      "meaning": "합류하다",
+      "example": "En general, je dois rejoindre en arrivant a l'hotel."
+    },
+    {
+      "word": "embarquer",
+      "partOfSpeech": "verb",
+      "meaning": "탑승하다",
+      "example": "Dans cette scene, nous pouvons embarquer sans perdre de temps en arrivant a l'hotel."
+    },
+    {
+      "word": "voyager",
+      "partOfSpeech": "verb",
+      "meaning": "여행하다",
+      "example": "Il faut parfois voyager naturellement en arrivant a l'hotel."
+    },
+    {
+      "word": "international",
+      "partOfSpeech": "adjective",
+      "meaning": "국제적인",
+      "example": "Il vaut souvent mieux etre international en arrivant a l'hotel."
+    },
+    {
+      "word": "confortable",
+      "partOfSpeech": "adjective",
+      "meaning": "편안한",
+      "example": "Rester confortable aide beaucoup en arrivant a l'hotel."
+    },
+    {
+      "word": "bruyant",
+      "partOfSpeech": "adjective",
+      "meaning": "시끄러운",
+      "example": "Essayer d'etre bruyant fait souvent la difference en arrivant a l'hotel."
+    },
+    {
+      "word": "spacieux",
+      "partOfSpeech": "adjective",
+      "meaning": "넓은",
+      "example": "Il vaut souvent mieux etre spacieux en arrivant a l'hotel."
+    },
+    {
+      "word": "sincere",
+      "partOfSpeech": "adjective",
+      "meaning": "진심 어린",
+      "example": "Rester sincere aide beaucoup en arrivant a l'hotel."
+    },
+    {
+      "word": "heureux",
+      "partOfSpeech": "adjective",
+      "meaning": "행복한",
+      "example": "Essayer d'etre heureux fait souvent la difference en arrivant a l'hotel."
+    },
+    {
+      "word": "decu",
+      "partOfSpeech": "adjective",
+      "meaning": "실망한",
+      "example": "Il vaut souvent mieux etre decu en arrivant a l'hotel."
+    },
+    {
+      "word": "touchant",
+      "partOfSpeech": "adjective",
+      "meaning": "감동적인",
+      "example": "Rester touchant aide beaucoup en arrivant a l'hotel."
+    },
+    {
+      "word": "ensoleille",
+      "partOfSpeech": "adjective",
+      "meaning": "화창한",
+      "example": "Essayer d'etre ensoleille fait souvent la difference en arrivant a l'hotel."
+    },
+    {
+      "word": "variable",
+      "partOfSpeech": "adjective",
+      "meaning": "변덕스러운",
+      "example": "Il vaut souvent mieux etre variable en arrivant a l'hotel."
+    },
+    {
+      "word": "au calme",
+      "partOfSpeech": "adverb",
+      "meaning": "조용한 곳에서",
+      "example": "On agit souvent au calme en arrivant a l'hotel."
+    },
+    {
+      "word": "sans tarder",
+      "partOfSpeech": "adverb",
+      "meaning": "지체 없이",
+      "example": "Dans la vraie vie, on fait souvent cela sans tarder en arrivant a l'hotel."
+    },
+    {
+      "word": "en priorite",
+      "partOfSpeech": "adverb",
+      "meaning": "우선적으로",
+      "example": "On entend souvent cette expression, en priorite, en arrivant a l'hotel."
+    },
+    {
+      "word": "en equipe",
+      "partOfSpeech": "adverb",
+      "meaning": "팀으로",
+      "example": "On agit souvent en equipe en arrivant a l'hotel."
+    },
+    {
+      "word": "a distance",
+      "partOfSpeech": "adverb",
+      "meaning": "원격으로",
+      "example": "Dans la vraie vie, on fait souvent cela a distance en arrivant a l'hotel."
+    },
+    {
+      "word": "en urgence",
+      "partOfSpeech": "adverb",
+      "meaning": "긴급히",
+      "example": "On entend souvent cette expression, en urgence, en arrivant a l'hotel."
+    },
+    {
+      "word": "au plus vite",
+      "partOfSpeech": "adverb",
+      "meaning": "가능한 한 빨리",
+      "example": "On agit souvent au plus vite en arrivant a l'hotel."
+    },
+    {
+      "word": "dans les temps",
+      "partOfSpeech": "adverb",
+      "meaning": "제시간에",
+      "example": "Dans la vraie vie, on fait souvent cela dans les temps en arrivant a l'hotel."
+    },
+    {
+      "word": "en ligne",
+      "partOfSpeech": "adverb",
+      "meaning": "온라인으로",
+      "example": "On entend souvent cette expression, en ligne, en arrivant a l'hotel."
+    },
+    {
+      "word": "hors ligne",
+      "partOfSpeech": "adverb",
+      "meaning": "오프라인으로",
+      "example": "On agit souvent hors ligne en arrivant a l'hotel."
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent en arrivant a l'hotel.",
+      "answer": "le bruit",
+      "hint": "소음"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent en arrivant a l'hotel.",
+      "answer": "la joie",
+      "hint": "기쁨"
+    },
+    {
+      "sentence": "On rencontre souvent ____ en arrivant a l'hotel.",
+      "answer": "le soleil",
+      "hint": "태양"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent en arrivant a l'hotel.",
+      "answer": "le loisir",
+      "hint": "여가"
+    },
+    {
+      "sentence": "En general, je dois ____ en arrivant a l'hotel.",
+      "answer": "gerer",
+      "hint": "관리하다"
+    },
+    {
+      "sentence": "Dans cette scene, nous pouvons ____ sans perdre de temps en arrivant a l'hotel.",
+      "answer": "supprimer",
+      "hint": "삭제하다"
+    },
+    {
+      "sentence": "Il faut parfois ____ naturellement en arrivant a l'hotel.",
+      "answer": "voyager",
+      "hint": "여행하다"
+    },
+    {
+      "sentence": "Rester ____ aide beaucoup en arrivant a l'hotel.",
+      "answer": "sincere",
+      "hint": "진심 어린"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ en arrivant a l'hotel.",
+      "answer": "sans tarder",
+      "hint": "지체 없이"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ en arrivant a l'hotel.",
+      "answer": "dans les temps",
+      "hint": "제시간에"
+    }
+  ]
+}

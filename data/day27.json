@@ -1,0 +1,360 @@
+{
+  "day": 27,
+  "title": "Entretien et carriere",
+  "theme": "면접과 커리어",
+  "description": "경험 설명과 강점 소개, 지원 상황에 유용합니다.",
+  "words": [
+    {
+      "word": "l'exemple",
+      "partOfSpeech": "noun",
+      "meaning": "예시",
+      "example": "On rencontre souvent l'exemple pendant un entretien d'embauche."
+    },
+    {
+      "word": "l'accueil",
+      "partOfSpeech": "noun",
+      "meaning": "맞이함",
+      "example": "Dans la vraie vie, l'accueil revient souvent pendant un entretien d'embauche."
+    },
+    {
+      "word": "la conversation",
+      "partOfSpeech": "noun",
+      "meaning": "대화",
+      "example": "Je remarque souvent la conversation pendant un entretien d'embauche."
+    },
+    {
+      "word": "le rendez-vous",
+      "partOfSpeech": "noun",
+      "meaning": "약속",
+      "example": "On rencontre souvent le rendez-vous pendant un entretien d'embauche."
+    },
+    {
+      "word": "la famille",
+      "partOfSpeech": "noun",
+      "meaning": "가족",
+      "example": "Dans la vraie vie, la famille revient souvent pendant un entretien d'embauche."
+    },
+    {
+      "word": "la chambre",
+      "partOfSpeech": "noun",
+      "meaning": "방",
+      "example": "Je remarque souvent la chambre pendant un entretien d'embauche."
+    },
+    {
+      "word": "la cuisine",
+      "partOfSpeech": "noun",
+      "meaning": "부엌",
+      "example": "On rencontre souvent la cuisine pendant un entretien d'embauche."
+    },
+    {
+      "word": "le quartier",
+      "partOfSpeech": "noun",
+      "meaning": "동네",
+      "example": "Dans la vraie vie, le quartier revient souvent pendant un entretien d'embauche."
+    },
+    {
+      "word": "le cours",
+      "partOfSpeech": "noun",
+      "meaning": "수업",
+      "example": "Je remarque souvent le cours pendant un entretien d'embauche."
+    },
+    {
+      "word": "le devoir",
+      "partOfSpeech": "noun",
+      "meaning": "과제",
+      "example": "On rencontre souvent le devoir pendant un entretien d'embauche."
+    },
+    {
+      "word": "la methode",
+      "partOfSpeech": "noun",
+      "meaning": "방법",
+      "example": "Dans la vraie vie, la methode revient souvent pendant un entretien d'embauche."
+    },
+    {
+      "word": "la question",
+      "partOfSpeech": "noun",
+      "meaning": "질문",
+      "example": "Je remarque souvent la question pendant un entretien d'embauche."
+    },
+    {
+      "word": "la reponse",
+      "partOfSpeech": "noun",
+      "meaning": "답변",
+      "example": "On rencontre souvent la reponse pendant un entretien d'embauche."
+    },
+    {
+      "word": "la ville",
+      "partOfSpeech": "noun",
+      "meaning": "도시",
+      "example": "Dans la vraie vie, la ville revient souvent pendant un entretien d'embauche."
+    },
+    {
+      "word": "la station",
+      "partOfSpeech": "noun",
+      "meaning": "역",
+      "example": "Je remarque souvent la station pendant un entretien d'embauche."
+    },
+    {
+      "word": "coordonner",
+      "partOfSpeech": "verb",
+      "meaning": "조율하다",
+      "example": "En general, je dois coordonner pendant un entretien d'embauche."
+    },
+    {
+      "word": "accueillir",
+      "partOfSpeech": "verb",
+      "meaning": "맞이하다",
+      "example": "Dans cette scene, nous pouvons accueillir sans perdre de temps pendant un entretien d'embauche."
+    },
+    {
+      "word": "saluer",
+      "partOfSpeech": "verb",
+      "meaning": "인사하다",
+      "example": "Il faut parfois saluer naturellement pendant un entretien d'embauche."
+    },
+    {
+      "word": "presenter",
+      "partOfSpeech": "verb",
+      "meaning": "소개하다",
+      "example": "En general, je dois presenter pendant un entretien d'embauche."
+    },
+    {
+      "word": "demander",
+      "partOfSpeech": "verb",
+      "meaning": "요청하다",
+      "example": "Dans cette scene, nous pouvons demander sans perdre de temps pendant un entretien d'embauche."
+    },
+    {
+      "word": "expliquer",
+      "partOfSpeech": "verb",
+      "meaning": "설명하다",
+      "example": "Il faut parfois expliquer naturellement pendant un entretien d'embauche."
+    },
+    {
+      "word": "commencer",
+      "partOfSpeech": "verb",
+      "meaning": "시작하다",
+      "example": "En general, je dois commencer pendant un entretien d'embauche."
+    },
+    {
+      "word": "continuer",
+      "partOfSpeech": "verb",
+      "meaning": "계속하다",
+      "example": "Dans cette scene, nous pouvons continuer sans perdre de temps pendant un entretien d'embauche."
+    },
+    {
+      "word": "ranger",
+      "partOfSpeech": "verb",
+      "meaning": "정리하다",
+      "example": "Il faut parfois ranger naturellement pendant un entretien d'embauche."
+    },
+    {
+      "word": "nettoyer",
+      "partOfSpeech": "verb",
+      "meaning": "청소하다",
+      "example": "En general, je dois nettoyer pendant un entretien d'embauche."
+    },
+    {
+      "word": "preparer",
+      "partOfSpeech": "verb",
+      "meaning": "준비하다",
+      "example": "Dans cette scene, nous pouvons preparer sans perdre de temps pendant un entretien d'embauche."
+    },
+    {
+      "word": "inviter",
+      "partOfSpeech": "verb",
+      "meaning": "초대하다",
+      "example": "Il faut parfois inviter naturellement pendant un entretien d'embauche."
+    },
+    {
+      "word": "etudier",
+      "partOfSpeech": "verb",
+      "meaning": "공부하다",
+      "example": "En general, je dois etudier pendant un entretien d'embauche."
+    },
+    {
+      "word": "memoriser",
+      "partOfSpeech": "verb",
+      "meaning": "암기하다",
+      "example": "Dans cette scene, nous pouvons memoriser sans perdre de temps pendant un entretien d'embauche."
+    },
+    {
+      "word": "relire",
+      "partOfSpeech": "verb",
+      "meaning": "다시 읽다",
+      "example": "Il faut parfois relire naturellement pendant un entretien d'embauche."
+    },
+    {
+      "word": "qualifie",
+      "partOfSpeech": "adjective",
+      "meaning": "자격을 갖춘",
+      "example": "Il vaut souvent mieux etre qualifie pendant un entretien d'embauche."
+    },
+    {
+      "word": "polyvalent",
+      "partOfSpeech": "adjective",
+      "meaning": "다재다능한",
+      "example": "Rester polyvalent aide beaucoup pendant un entretien d'embauche."
+    },
+    {
+      "word": "strict",
+      "partOfSpeech": "adjective",
+      "meaning": "엄격한",
+      "example": "Essayer d'etre strict fait souvent la difference pendant un entretien d'embauche."
+    },
+    {
+      "word": "dangereux",
+      "partOfSpeech": "adjective",
+      "meaning": "위험한",
+      "example": "Il vaut souvent mieux etre dangereux pendant un entretien d'embauche."
+    },
+    {
+      "word": "autorise",
+      "partOfSpeech": "adjective",
+      "meaning": "허용된",
+      "example": "Rester autorise aide beaucoup pendant un entretien d'embauche."
+    },
+    {
+      "word": "preventif",
+      "partOfSpeech": "adjective",
+      "meaning": "예방의",
+      "example": "Essayer d'etre preventif fait souvent la difference pendant un entretien d'embauche."
+    },
+    {
+      "word": "logique",
+      "partOfSpeech": "adjective",
+      "meaning": "논리적인",
+      "example": "Il vaut souvent mieux etre logique pendant un entretien d'embauche."
+    },
+    {
+      "word": "fluide",
+      "partOfSpeech": "adjective",
+      "meaning": "자연스러운",
+      "example": "Rester fluide aide beaucoup pendant un entretien d'embauche."
+    },
+    {
+      "word": "pertinent",
+      "partOfSpeech": "adjective",
+      "meaning": "적절한",
+      "example": "Essayer d'etre pertinent fait souvent la difference pendant un entretien d'embauche."
+    },
+    {
+      "word": "modere",
+      "partOfSpeech": "adjective",
+      "meaning": "적당한",
+      "example": "Il vaut souvent mieux etre modere pendant un entretien d'embauche."
+    },
+    {
+      "word": "autrement dit",
+      "partOfSpeech": "adverb",
+      "meaning": "즉",
+      "example": "On agit souvent autrement dit pendant un entretien d'embauche."
+    },
+    {
+      "word": "dans ce cas",
+      "partOfSpeech": "adverb",
+      "meaning": "그 경우에는",
+      "example": "Dans la vraie vie, on fait souvent cela dans ce cas pendant un entretien d'embauche."
+    },
+    {
+      "word": "par etapes",
+      "partOfSpeech": "adverb",
+      "meaning": "단계적으로",
+      "example": "On entend souvent cette expression, par etapes, pendant un entretien d'embauche."
+    },
+    {
+      "word": "sans pression",
+      "partOfSpeech": "adverb",
+      "meaning": "부담 없이",
+      "example": "On agit souvent sans pression pendant un entretien d'embauche."
+    },
+    {
+      "word": "ensemble",
+      "partOfSpeech": "adverb",
+      "meaning": "함께",
+      "example": "Dans la vraie vie, on fait souvent cela ensemble pendant un entretien d'embauche."
+    },
+    {
+      "word": "avec respect",
+      "partOfSpeech": "adverb",
+      "meaning": "존중하며",
+      "example": "On entend souvent cette expression, avec respect, pendant un entretien d'embauche."
+    },
+    {
+      "word": "en conclusion",
+      "partOfSpeech": "adverb",
+      "meaning": "결론적으로",
+      "example": "On agit souvent en conclusion pendant un entretien d'embauche."
+    },
+    {
+      "word": "tout de suite",
+      "partOfSpeech": "adverb",
+      "meaning": "바로",
+      "example": "Dans la vraie vie, on fait souvent cela tout de suite pendant un entretien d'embauche."
+    },
+    {
+      "word": "d'abord",
+      "partOfSpeech": "adverb",
+      "meaning": "우선",
+      "example": "On entend souvent cette expression, d'abord, pendant un entretien d'embauche."
+    },
+    {
+      "word": "souvent",
+      "partOfSpeech": "adverb",
+      "meaning": "자주",
+      "example": "On agit souvent souvent pendant un entretien d'embauche."
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent pendant un entretien d'embauche.",
+      "answer": "l'accueil",
+      "hint": "맞이함"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent pendant un entretien d'embauche.",
+      "answer": "la famille",
+      "hint": "가족"
+    },
+    {
+      "sentence": "On rencontre souvent ____ pendant un entretien d'embauche.",
+      "answer": "le devoir",
+      "hint": "과제"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent pendant un entretien d'embauche.",
+      "answer": "la ville",
+      "hint": "도시"
+    },
+    {
+      "sentence": "En general, je dois ____ pendant un entretien d'embauche.",
+      "answer": "presenter",
+      "hint": "소개하다"
+    },
+    {
+      "sentence": "Dans cette scene, nous pouvons ____ sans perdre de temps pendant un entretien d'embauche.",
+      "answer": "continuer",
+      "hint": "계속하다"
+    },
+    {
+      "sentence": "Il faut parfois ____ naturellement pendant un entretien d'embauche.",
+      "answer": "relire",
+      "hint": "다시 읽다"
+    },
+    {
+      "sentence": "Rester ____ aide beaucoup pendant un entretien d'embauche.",
+      "answer": "autorise",
+      "hint": "허용된"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ pendant un entretien d'embauche.",
+      "answer": "dans ce cas",
+      "hint": "그 경우에는"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ pendant un entretien d'embauche.",
+      "answer": "tout de suite",
+      "hint": "바로"
+    }
+  ]
+}

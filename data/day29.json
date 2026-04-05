@@ -1,0 +1,360 @@
+{
+  "day": 29,
+  "title": "Connecteurs utiles",
+  "theme": "연결어와 고급 표현",
+  "description": "문장을 자연스럽게 이어 주는 핵심 표현입니다.",
+  "words": [
+    {
+      "word": "le cours",
+      "partOfSpeech": "noun",
+      "meaning": "수업",
+      "example": "On rencontre souvent le cours quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "le devoir",
+      "partOfSpeech": "noun",
+      "meaning": "과제",
+      "example": "Dans la vraie vie, le devoir revient souvent quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "la methode",
+      "partOfSpeech": "noun",
+      "meaning": "방법",
+      "example": "Je remarque souvent la methode quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "la question",
+      "partOfSpeech": "noun",
+      "meaning": "질문",
+      "example": "On rencontre souvent la question quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "la reponse",
+      "partOfSpeech": "noun",
+      "meaning": "답변",
+      "example": "Dans la vraie vie, la reponse revient souvent quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "la ville",
+      "partOfSpeech": "noun",
+      "meaning": "도시",
+      "example": "Je remarque souvent la ville quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "la station",
+      "partOfSpeech": "noun",
+      "meaning": "역",
+      "example": "On rencontre souvent la station quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "le trajet",
+      "partOfSpeech": "noun",
+      "meaning": "이동 경로",
+      "example": "Dans la vraie vie, le trajet revient souvent quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "le ticket",
+      "partOfSpeech": "noun",
+      "meaning": "승차권",
+      "example": "Je remarque souvent le ticket quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "le magasin",
+      "partOfSpeech": "noun",
+      "meaning": "가게",
+      "example": "On rencontre souvent le magasin quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "le produit",
+      "partOfSpeech": "noun",
+      "meaning": "상품",
+      "example": "Dans la vraie vie, le produit revient souvent quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "la commande",
+      "partOfSpeech": "noun",
+      "meaning": "주문",
+      "example": "Je remarque souvent la commande quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "le recu",
+      "partOfSpeech": "noun",
+      "meaning": "영수증",
+      "example": "On rencontre souvent le recu quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "le repas",
+      "partOfSpeech": "noun",
+      "meaning": "식사",
+      "example": "Dans la vraie vie, le repas revient souvent quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "la boisson",
+      "partOfSpeech": "noun",
+      "meaning": "음료",
+      "example": "Je remarque souvent la boisson quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "ranger",
+      "partOfSpeech": "verb",
+      "meaning": "정리하다",
+      "example": "En general, je dois ranger quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "nettoyer",
+      "partOfSpeech": "verb",
+      "meaning": "청소하다",
+      "example": "Dans cette scene, nous pouvons nettoyer sans perdre de temps quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "preparer",
+      "partOfSpeech": "verb",
+      "meaning": "준비하다",
+      "example": "Il faut parfois preparer naturellement quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "inviter",
+      "partOfSpeech": "verb",
+      "meaning": "초대하다",
+      "example": "En general, je dois inviter quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "etudier",
+      "partOfSpeech": "verb",
+      "meaning": "공부하다",
+      "example": "Dans cette scene, nous pouvons etudier sans perdre de temps quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "memoriser",
+      "partOfSpeech": "verb",
+      "meaning": "암기하다",
+      "example": "Il faut parfois memoriser naturellement quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "relire",
+      "partOfSpeech": "verb",
+      "meaning": "다시 읽다",
+      "example": "En general, je dois relire quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "comparer",
+      "partOfSpeech": "verb",
+      "meaning": "비교하다",
+      "example": "Dans cette scene, nous pouvons comparer sans perdre de temps quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "corriger",
+      "partOfSpeech": "verb",
+      "meaning": "수정하다",
+      "example": "Il faut parfois corriger naturellement quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "progresser",
+      "partOfSpeech": "verb",
+      "meaning": "향상되다",
+      "example": "En general, je dois progresser quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "se deplacer",
+      "partOfSpeech": "verb",
+      "meaning": "이동하다",
+      "example": "Dans cette scene, nous pouvons se deplacer sans perdre de temps quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "traverser",
+      "partOfSpeech": "verb",
+      "meaning": "건너다",
+      "example": "Il faut parfois traverser naturellement quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "attendre",
+      "partOfSpeech": "verb",
+      "meaning": "기다리다",
+      "example": "En general, je dois attendre quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "confirmer",
+      "partOfSpeech": "verb",
+      "meaning": "확인하다",
+      "example": "Dans cette scene, nous pouvons confirmer sans perdre de temps quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "acheter",
+      "partOfSpeech": "verb",
+      "meaning": "구매하다",
+      "example": "Il faut parfois acheter naturellement quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "logique",
+      "partOfSpeech": "adjective",
+      "meaning": "논리적인",
+      "example": "Il vaut souvent mieux etre logique quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "fluide",
+      "partOfSpeech": "adjective",
+      "meaning": "자연스러운",
+      "example": "Rester fluide aide beaucoup quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "pertinent",
+      "partOfSpeech": "adjective",
+      "meaning": "적절한",
+      "example": "Essayer d'etre pertinent fait souvent la difference quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "modere",
+      "partOfSpeech": "adjective",
+      "meaning": "적당한",
+      "example": "Il vaut souvent mieux etre modere quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "disponible",
+      "partOfSpeech": "adjective",
+      "meaning": "이용 가능한",
+      "example": "Rester disponible aide beaucoup quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "discret",
+      "partOfSpeech": "adjective",
+      "meaning": "눈에 띄지 않는",
+      "example": "Essayer d'etre discret fait souvent la difference quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "utile",
+      "partOfSpeech": "adjective",
+      "meaning": "유용한",
+      "example": "Il vaut souvent mieux etre utile quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "poli",
+      "partOfSpeech": "adjective",
+      "meaning": "예의 바른",
+      "example": "Rester poli aide beaucoup quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "ponctuel",
+      "partOfSpeech": "adjective",
+      "meaning": "시간을 잘 지키는",
+      "example": "Essayer d'etre ponctuel fait souvent la difference quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "simple",
+      "partOfSpeech": "adjective",
+      "meaning": "간단한",
+      "example": "Il vaut souvent mieux etre simple quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "en conclusion",
+      "partOfSpeech": "adverb",
+      "meaning": "결론적으로",
+      "example": "On agit souvent en conclusion quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "tout de suite",
+      "partOfSpeech": "adverb",
+      "meaning": "바로",
+      "example": "Dans la vraie vie, on fait souvent cela tout de suite quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "d'abord",
+      "partOfSpeech": "adverb",
+      "meaning": "우선",
+      "example": "On entend souvent cette expression, d'abord, quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "souvent",
+      "partOfSpeech": "adverb",
+      "meaning": "자주",
+      "example": "On agit souvent souvent quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "en general",
+      "partOfSpeech": "adverb",
+      "meaning": "대체로",
+      "example": "Dans la vraie vie, on fait souvent cela en general quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "a l'heure",
+      "partOfSpeech": "adverb",
+      "meaning": "정시에",
+      "example": "On entend souvent cette expression, a l'heure, quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "de bonne heure",
+      "partOfSpeech": "adverb",
+      "meaning": "일찍",
+      "example": "On agit souvent de bonne heure quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "en meme temps",
+      "partOfSpeech": "adverb",
+      "meaning": "동시에",
+      "example": "Dans la vraie vie, on fait souvent cela en meme temps quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "tranquillement",
+      "partOfSpeech": "adverb",
+      "meaning": "차분하게",
+      "example": "On entend souvent cette expression, tranquillement, quand je veux relier mes idees plus clairement."
+    },
+    {
+      "word": "petit a petit",
+      "partOfSpeech": "adverb",
+      "meaning": "조금씩",
+      "example": "On agit souvent petit a petit quand je veux relier mes idees plus clairement."
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent quand je veux relier mes idees plus clairement.",
+      "answer": "le devoir",
+      "hint": "과제"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent quand je veux relier mes idees plus clairement.",
+      "answer": "la reponse",
+      "hint": "답변"
+    },
+    {
+      "sentence": "On rencontre souvent ____ quand je veux relier mes idees plus clairement.",
+      "answer": "le magasin",
+      "hint": "가게"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent quand je veux relier mes idees plus clairement.",
+      "answer": "le repas",
+      "hint": "식사"
+    },
+    {
+      "sentence": "En general, je dois ____ quand je veux relier mes idees plus clairement.",
+      "answer": "inviter",
+      "hint": "초대하다"
+    },
+    {
+      "sentence": "Dans cette scene, nous pouvons ____ sans perdre de temps quand je veux relier mes idees plus clairement.",
+      "answer": "comparer",
+      "hint": "비교하다"
+    },
+    {
+      "sentence": "Il faut parfois ____ naturellement quand je veux relier mes idees plus clairement.",
+      "answer": "acheter",
+      "hint": "구매하다"
+    },
+    {
+      "sentence": "Rester ____ aide beaucoup quand je veux relier mes idees plus clairement.",
+      "answer": "disponible",
+      "hint": "이용 가능한"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ quand je veux relier mes idees plus clairement.",
+      "answer": "tout de suite",
+      "hint": "바로"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ quand je veux relier mes idees plus clairement.",
+      "answer": "en meme temps",
+      "hint": "동시에"
+    }
+  ]
+}

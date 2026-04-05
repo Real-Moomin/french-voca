@@ -1,0 +1,360 @@
+{
+  "day": 19,
+  "title": "Resoudre un probleme",
+  "theme": "문제 해결",
+  "description": "원인 파악과 대안 제시, 조정 표현을 담았습니다.",
+  "words": [
+    {
+      "word": "la cause",
+      "partOfSpeech": "noun",
+      "meaning": "원인",
+      "example": "On rencontre souvent la cause lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "la consequence",
+      "partOfSpeech": "noun",
+      "meaning": "결과",
+      "example": "Dans la vraie vie, la consequence revient souvent lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "l'opinion",
+      "partOfSpeech": "noun",
+      "meaning": "의견",
+      "example": "Je remarque souvent l'opinion lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "l'argument",
+      "partOfSpeech": "noun",
+      "meaning": "논거",
+      "example": "On rencontre souvent l'argument lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "la preuve",
+      "partOfSpeech": "noun",
+      "meaning": "근거",
+      "example": "Dans la vraie vie, la preuve revient souvent lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "la concentration",
+      "partOfSpeech": "noun",
+      "meaning": "집중",
+      "example": "Je remarque souvent la concentration lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "l'objectif",
+      "partOfSpeech": "noun",
+      "meaning": "목표",
+      "example": "On rencontre souvent l'objectif lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "le progres",
+      "partOfSpeech": "noun",
+      "meaning": "진전",
+      "example": "Dans la vraie vie, le progres revient souvent lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "la societe",
+      "partOfSpeech": "noun",
+      "meaning": "사회",
+      "example": "Je remarque souvent la societe lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "la diversite",
+      "partOfSpeech": "noun",
+      "meaning": "다양성",
+      "example": "On rencontre souvent la diversite lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "le respect",
+      "partOfSpeech": "noun",
+      "meaning": "존중",
+      "example": "Dans la vraie vie, le respect revient souvent lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "le projet",
+      "partOfSpeech": "noun",
+      "meaning": "프로젝트",
+      "example": "Je remarque souvent le projet lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "l'equipe",
+      "partOfSpeech": "noun",
+      "meaning": "팀",
+      "example": "On rencontre souvent l'equipe lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "la coordination",
+      "partOfSpeech": "noun",
+      "meaning": "조율",
+      "example": "Dans la vraie vie, la coordination revient souvent lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "l'evenement",
+      "partOfSpeech": "noun",
+      "meaning": "행사",
+      "example": "Je remarque souvent l'evenement lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "participer",
+      "partOfSpeech": "verb",
+      "meaning": "참가하다",
+      "example": "En general, je dois participer lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "remplir",
+      "partOfSpeech": "verb",
+      "meaning": "작성하다",
+      "example": "Dans cette scene, nous pouvons remplir sans perdre de temps lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "soumettre",
+      "partOfSpeech": "verb",
+      "meaning": "제출하다",
+      "example": "Il faut parfois soumettre naturellement lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "joindre",
+      "partOfSpeech": "verb",
+      "meaning": "첨부하다",
+      "example": "En general, je dois joindre lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "imprimer",
+      "partOfSpeech": "verb",
+      "meaning": "출력하다",
+      "example": "Dans cette scene, nous pouvons imprimer sans perdre de temps lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "classer",
+      "partOfSpeech": "verb",
+      "meaning": "분류하다",
+      "example": "Il faut parfois classer naturellement lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "declarer",
+      "partOfSpeech": "verb",
+      "meaning": "신고하다",
+      "example": "En general, je dois declarer lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "trier",
+      "partOfSpeech": "verb",
+      "meaning": "분류하다",
+      "example": "Dans cette scene, nous pouvons trier sans perdre de temps lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "recycler",
+      "partOfSpeech": "verb",
+      "meaning": "재활용하다",
+      "example": "Il faut parfois recycler naturellement lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "reduire",
+      "partOfSpeech": "verb",
+      "meaning": "줄이다",
+      "example": "En general, je dois reduire lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "proteger",
+      "partOfSpeech": "verb",
+      "meaning": "보호하다",
+      "example": "Dans cette scene, nous pouvons proteger sans perdre de temps lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "eteindre",
+      "partOfSpeech": "verb",
+      "meaning": "끄다",
+      "example": "Il faut parfois eteindre naturellement lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "retirer",
+      "partOfSpeech": "verb",
+      "meaning": "인출하다",
+      "example": "En general, je dois retirer lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "virer",
+      "partOfSpeech": "verb",
+      "meaning": "송금하다",
+      "example": "Dans cette scene, nous pouvons virer sans perdre de temps lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "facturer",
+      "partOfSpeech": "verb",
+      "meaning": "청구하다",
+      "example": "Il faut parfois facturer naturellement lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "credible",
+      "partOfSpeech": "adjective",
+      "meaning": "신뢰할 수 있는",
+      "example": "Il vaut souvent mieux etre credible lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "complexe",
+      "partOfSpeech": "adjective",
+      "meaning": "복잡한",
+      "example": "Rester complexe aide beaucoup lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "grave",
+      "partOfSpeech": "adjective",
+      "meaning": "심각한",
+      "example": "Essayer d'etre grave fait souvent la difference lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "acceptable",
+      "partOfSpeech": "adjective",
+      "meaning": "받아들일 만한",
+      "example": "Il vaut souvent mieux etre acceptable lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "coherent",
+      "partOfSpeech": "adjective",
+      "meaning": "일관된",
+      "example": "Rester coherent aide beaucoup lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "convaincant",
+      "partOfSpeech": "adjective",
+      "meaning": "설득력 있는",
+      "example": "Essayer d'etre convaincant fait souvent la difference lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "essentiel",
+      "partOfSpeech": "adjective",
+      "meaning": "핵심적인",
+      "example": "Il vaut souvent mieux etre essentiel lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "attentif",
+      "partOfSpeech": "adjective",
+      "meaning": "주의 깊은",
+      "example": "Rester attentif aide beaucoup lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "motive",
+      "partOfSpeech": "adjective",
+      "meaning": "동기부여된",
+      "example": "Essayer d'etre motive fait souvent la difference lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "autonome",
+      "partOfSpeech": "adjective",
+      "meaning": "자율적인",
+      "example": "Il vaut souvent mieux etre autonome lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "ce soir",
+      "partOfSpeech": "adverb",
+      "meaning": "오늘 저녁",
+      "example": "On agit souvent ce soir lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "en ce moment",
+      "partOfSpeech": "adverb",
+      "meaning": "지금",
+      "example": "Dans la vraie vie, on fait souvent cela en ce moment lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "malgre tout",
+      "partOfSpeech": "adverb",
+      "meaning": "그럼에도",
+      "example": "On entend souvent cette expression, malgre tout, lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "pour le plaisir",
+      "partOfSpeech": "adverb",
+      "meaning": "즐거움 때문에",
+      "example": "On agit souvent pour le plaisir lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "en direct",
+      "partOfSpeech": "adverb",
+      "meaning": "실시간으로",
+      "example": "Dans la vraie vie, on fait souvent cela en direct lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "par courrier",
+      "partOfSpeech": "adverb",
+      "meaning": "우편으로",
+      "example": "On entend souvent cette expression, par courrier, lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "en copie",
+      "partOfSpeech": "adverb",
+      "meaning": "참조로",
+      "example": "On agit souvent en copie lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "sans erreur",
+      "partOfSpeech": "adverb",
+      "meaning": "실수 없이",
+      "example": "Dans la vraie vie, on fait souvent cela sans erreur lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "dans les regles",
+      "partOfSpeech": "adverb",
+      "meaning": "규정대로",
+      "example": "On entend souvent cette expression, dans les regles, lorsqu'un souci apparait dans l'organisation."
+    },
+    {
+      "word": "au quotidien",
+      "partOfSpeech": "adverb",
+      "meaning": "일상적으로",
+      "example": "On agit souvent au quotidien lorsqu'un souci apparait dans l'organisation."
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent lorsqu'un souci apparait dans l'organisation.",
+      "answer": "la consequence",
+      "hint": "결과"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent lorsqu'un souci apparait dans l'organisation.",
+      "answer": "la preuve",
+      "hint": "근거"
+    },
+    {
+      "sentence": "On rencontre souvent ____ lorsqu'un souci apparait dans l'organisation.",
+      "answer": "la diversite",
+      "hint": "다양성"
+    },
+    {
+      "sentence": "Dans la vraie vie, ____ revient souvent lorsqu'un souci apparait dans l'organisation.",
+      "answer": "la coordination",
+      "hint": "조율"
+    },
+    {
+      "sentence": "En general, je dois ____ lorsqu'un souci apparait dans l'organisation.",
+      "answer": "joindre",
+      "hint": "첨부하다"
+    },
+    {
+      "sentence": "Dans cette scene, nous pouvons ____ sans perdre de temps lorsqu'un souci apparait dans l'organisation.",
+      "answer": "trier",
+      "hint": "분류하다"
+    },
+    {
+      "sentence": "Il faut parfois ____ naturellement lorsqu'un souci apparait dans l'organisation.",
+      "answer": "facturer",
+      "hint": "청구하다"
+    },
+    {
+      "sentence": "Rester ____ aide beaucoup lorsqu'un souci apparait dans l'organisation.",
+      "answer": "coherent",
+      "hint": "일관된"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ lorsqu'un souci apparait dans l'organisation.",
+      "answer": "en ce moment",
+      "hint": "지금"
+    },
+    {
+      "sentence": "Dans la vraie vie, on fait souvent cela ____ lorsqu'un souci apparait dans l'organisation.",
+      "answer": "sans erreur",
+      "hint": "실수 없이"
+    }
+  ]
+}
