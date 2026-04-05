@@ -1,360 +1,218 @@
 {
   "day": 1,
-  "title": "Saluer et commencer",
-  "theme": "인사와 기본 생활",
-  "description": "첫 만남과 하루 시작에 자주 나오는 표현을 모았습니다.",
+  "title": "Day 01",
   "words": [
     {
-      "word": "l'accueil",
-      "partOfSpeech": "noun",
-      "meaning": "맞이함",
-      "example": "On rencontre souvent l'accueil quand je rencontre quelqu'un pour la premiere fois."
+      "word": "ça va",
+      "partOfSpeech": "adverb",
+      "meaning": "잘 지내?, 괜찮아",
+      "example": "Salut, ça va aujourd’hui ?",
+      "exampleKo": "안녕, 오늘 잘 지내?",
+      "exampleNote": ""
     },
     {
-      "word": "la conversation",
+      "word": "français",
       "partOfSpeech": "noun",
-      "meaning": "대화",
-      "example": "Dans la vraie vie, la conversation revient souvent quand je rencontre quelqu'un pour la premiere fois."
+      "meaning": "프랑스어, 프랑스인",
+      "example": "J’étudie le français tous les soirs après le dîner.",
+      "exampleKo": "나는 저녁 식사 후마다 프랑스어를 공부한다.",
+      "exampleNote": ""
     },
     {
-      "word": "le rendez-vous",
+      "word": "garçon",
       "partOfSpeech": "noun",
-      "meaning": "약속",
-      "example": "Je remarque souvent le rendez-vous quand je rencontre quelqu'un pour la premiere fois."
+      "meaning": "소년, 남자아이",
+      "example": "Le garçon attend sa sœur devant l’école.",
+      "exampleKo": "그 남자아이는 학교 앞에서 여동생을 기다린다.",
+      "exampleNote": ""
     },
     {
-      "word": "la famille",
+      "word": "leçon",
       "partOfSpeech": "noun",
-      "meaning": "가족",
-      "example": "On rencontre souvent la famille quand je rencontre quelqu'un pour la premiere fois."
+      "meaning": "수업, 교훈",
+      "example": "La leçon d’aujourd’hui était plus difficile que celle d’hier.",
+      "exampleKo": "오늘 수업은 어제 것보다 더 어려웠다.",
+      "exampleNote": ""
     },
     {
-      "word": "la chambre",
+      "word": "fenêtre",
       "partOfSpeech": "noun",
-      "meaning": "방",
-      "example": "Dans la vraie vie, la chambre revient souvent quand je rencontre quelqu'un pour la premiere fois."
+      "meaning": "창문",
+      "example": "Ouvre la fenêtre, il fait trop chaud ici.",
+      "exampleKo": "창문을 열어, 여기 너무 덥다.",
+      "exampleNote": ""
     },
     {
-      "word": "la cuisine",
-      "partOfSpeech": "noun",
-      "meaning": "부엌",
-      "example": "Je remarque souvent la cuisine quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "le quartier",
-      "partOfSpeech": "noun",
-      "meaning": "동네",
-      "example": "On rencontre souvent le quartier quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "le cours",
-      "partOfSpeech": "noun",
-      "meaning": "수업",
-      "example": "Dans la vraie vie, le cours revient souvent quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "le devoir",
-      "partOfSpeech": "noun",
-      "meaning": "과제",
-      "example": "Je remarque souvent le devoir quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "la methode",
-      "partOfSpeech": "noun",
-      "meaning": "방법",
-      "example": "On rencontre souvent la methode quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "la question",
-      "partOfSpeech": "noun",
-      "meaning": "질문",
-      "example": "Dans la vraie vie, la question revient souvent quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "la reponse",
-      "partOfSpeech": "noun",
-      "meaning": "답변",
-      "example": "Je remarque souvent la reponse quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "la ville",
-      "partOfSpeech": "noun",
-      "meaning": "도시",
-      "example": "On rencontre souvent la ville quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "la station",
-      "partOfSpeech": "noun",
-      "meaning": "역",
-      "example": "Dans la vraie vie, la station revient souvent quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "le trajet",
-      "partOfSpeech": "noun",
-      "meaning": "이동 경로",
-      "example": "Je remarque souvent le trajet quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "accueillir",
+      "word": "déjeuner",
       "partOfSpeech": "verb",
-      "meaning": "맞이하다",
-      "example": "En general, je dois accueillir quand je rencontre quelqu'un pour la premiere fois."
+      "meaning": "점심을 먹다",
+      "example": "Nous allons déjeuner près de la gare à midi.",
+      "exampleKo": "우리는 정오에 역 근처에서 점심을 먹을 예정이다.",
+      "exampleNote": ""
     },
     {
-      "word": "saluer",
+      "word": "étudier",
       "partOfSpeech": "verb",
-      "meaning": "인사하다",
-      "example": "Dans cette scene, nous pouvons saluer sans perdre de temps quand je rencontre quelqu'un pour la premiere fois."
+      "meaning": "공부하다",
+      "example": "Elle aime étudier à la bibliothèque parce qu’il y a du calme.",
+      "exampleKo": "그녀는 조용해서 도서관에서 공부하는 것을 좋아한다.",
+      "exampleNote": ""
     },
     {
-      "word": "presenter",
+      "word": "répéter",
       "partOfSpeech": "verb",
-      "meaning": "소개하다",
-      "example": "Il faut parfois presenter naturellement quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "demander",
-      "partOfSpeech": "verb",
-      "meaning": "요청하다",
-      "example": "En general, je dois demander quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "expliquer",
-      "partOfSpeech": "verb",
-      "meaning": "설명하다",
-      "example": "Dans cette scene, nous pouvons expliquer sans perdre de temps quand je rencontre quelqu'un pour la premiere fois."
+      "meaning": "반복하다, 다시 말하다",
+      "example": "Peux-tu répéter la question plus lentement ?",
+      "exampleKo": "그 질문을 좀 더 천천히 다시 말해 줄 수 있어?",
+      "exampleNote": ""
     },
     {
       "word": "commencer",
       "partOfSpeech": "verb",
       "meaning": "시작하다",
-      "example": "Il faut parfois commencer naturellement quand je rencontre quelqu'un pour la premiere fois."
+      "example": "Le cours commence à huit heures trente.",
+      "exampleKo": "수업은 8시 30분에 시작한다.",
+      "exampleNote": ""
     },
     {
-      "word": "continuer",
+      "word": "préférer",
       "partOfSpeech": "verb",
-      "meaning": "계속하다",
-      "example": "En general, je dois continuer quand je rencontre quelqu'un pour la premiere fois."
+      "meaning": "더 좋아하다, 선호하다",
+      "example": "Je préfère le café sans sucre le matin.",
+      "exampleKo": "나는 아침에 설탕 없는 커피를 더 좋아한다.",
+      "exampleNote": ""
     },
     {
-      "word": "ranger",
+      "word": "connaître",
       "partOfSpeech": "verb",
-      "meaning": "정리하다",
-      "example": "Dans cette scene, nous pouvons ranger sans perdre de temps quand je rencontre quelqu'un pour la premiere fois."
+      "meaning": "알다, 알고 있다",
+      "example": "Tu connais déjà ce restaurant du quartier ?",
+      "exampleKo": "너 그 동네 식당을 이미 알고 있어?",
+      "exampleNote": ""
     },
     {
-      "word": "nettoyer",
+      "word": "réussir",
       "partOfSpeech": "verb",
-      "meaning": "청소하다",
-      "example": "Il faut parfois nettoyer naturellement quand je rencontre quelqu'un pour la premiere fois."
+      "meaning": "성공하다, 해내다",
+      "example": "Elle a réussi à finir son travail avant le week-end.",
+      "exampleKo": "그녀는 주말 전에 일을 끝내는 데 성공했다.",
+      "exampleNote": ""
     },
     {
-      "word": "preparer",
-      "partOfSpeech": "verb",
-      "meaning": "준비하다",
-      "example": "En general, je dois preparer quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "inviter",
-      "partOfSpeech": "verb",
-      "meaning": "초대하다",
-      "example": "Dans cette scene, nous pouvons inviter sans perdre de temps quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "etudier",
-      "partOfSpeech": "verb",
-      "meaning": "공부하다",
-      "example": "Il faut parfois etudier naturellement quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "memoriser",
-      "partOfSpeech": "verb",
-      "meaning": "암기하다",
-      "example": "En general, je dois memoriser quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "relire",
-      "partOfSpeech": "verb",
-      "meaning": "다시 읽다",
-      "example": "Dans cette scene, nous pouvons relire sans perdre de temps quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "comparer",
-      "partOfSpeech": "verb",
-      "meaning": "비교하다",
-      "example": "Il faut parfois comparer naturellement quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "utile",
+      "word": "intéressant",
       "partOfSpeech": "adjective",
-      "meaning": "유용한",
-      "example": "Il vaut souvent mieux etre utile quand je rencontre quelqu'un pour la premiere fois."
+      "meaning": "흥미로운",
+      "example": "Ce documentaire est vraiment intéressant pour les étudiants.",
+      "exampleKo": "이 다큐멘터리는 학생들에게 정말 흥미롭다.",
+      "exampleNote": ""
     },
     {
-      "word": "poli",
-      "partOfSpeech": "adjective",
-      "meaning": "예의 바른",
-      "example": "Rester poli aide beaucoup quand je rencontre quelqu'un pour la premiere fois."
+      "word": "sécurité",
+      "partOfSpeech": "noun",
+      "meaning": "안전, 보안",
+      "example": "La sécurité dans le métro est importante tard le soir.",
+      "exampleKo": "늦은 저녁에는 지하철의 안전이 중요하다.",
+      "exampleNote": ""
     },
     {
-      "word": "ponctuel",
-      "partOfSpeech": "adjective",
-      "meaning": "시간을 잘 지키는",
-      "example": "Essayer d'etre ponctuel fait souvent la difference quand je rencontre quelqu'un pour la premiere fois."
+      "word": "façon",
+      "partOfSpeech": "noun",
+      "meaning": "방식, 방법",
+      "example": "Il faut trouver une façon simple d’expliquer cette règle.",
+      "exampleKo": "이 규칙을 설명하는 간단한 방법을 찾아야 한다.",
+      "exampleNote": ""
     },
     {
-      "word": "simple",
-      "partOfSpeech": "adjective",
-      "meaning": "간단한",
-      "example": "Il vaut souvent mieux etre simple quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "familial",
-      "partOfSpeech": "adjective",
-      "meaning": "가정적인",
-      "example": "Rester familial aide beaucoup quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "pratique",
-      "partOfSpeech": "adjective",
-      "meaning": "실용적인",
-      "example": "Essayer d'etre pratique fait souvent la difference quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "propre",
-      "partOfSpeech": "adjective",
-      "meaning": "깨끗한",
-      "example": "Il vaut souvent mieux etre propre quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "calme",
-      "partOfSpeech": "adjective",
-      "meaning": "조용한",
-      "example": "Rester calme aide beaucoup quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "efficace",
-      "partOfSpeech": "adjective",
-      "meaning": "효율적인",
-      "example": "Essayer d'etre efficace fait souvent la difference quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "clair",
-      "partOfSpeech": "adjective",
-      "meaning": "명확한",
-      "example": "Il vaut souvent mieux etre clair quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "tout de suite",
+      "word": "déjà",
       "partOfSpeech": "adverb",
-      "meaning": "바로",
-      "example": "On agit souvent tout de suite quand je rencontre quelqu'un pour la premiere fois."
+      "meaning": "이미",
+      "example": "J’ai déjà envoyé le message au professeur.",
+      "exampleKo": "나는 이미 선생님께 메시지를 보냈다.",
+      "exampleNote": ""
     },
     {
-      "word": "d'abord",
+      "word": "bientôt",
       "partOfSpeech": "adverb",
-      "meaning": "우선",
-      "example": "Dans la vraie vie, on fait souvent cela d'abord quand je rencontre quelqu'un pour la premiere fois."
+      "meaning": "곧",
+      "example": "On se revoit bientôt après les vacances.",
+      "exampleKo": "우리 방학 후에 곧 다시 보자.",
+      "exampleNote": ""
     },
     {
-      "word": "souvent",
+      "word": "à côté de",
       "partOfSpeech": "adverb",
-      "meaning": "자주",
-      "example": "On entend souvent cette expression, souvent, quand je rencontre quelqu'un pour la premiere fois."
+      "meaning": "~옆에",
+      "example": "La pharmacie est juste à côté de la boulangerie.",
+      "exampleKo": "약국은 빵집 바로 옆에 있다.",
+      "exampleNote": ""
     },
     {
-      "word": "en general",
+      "word": "où",
       "partOfSpeech": "adverb",
-      "meaning": "대체로",
-      "example": "On agit souvent en general quand je rencontre quelqu'un pour la premiere fois."
+      "meaning": "어디, ~하는 곳",
+      "example": "Tu sais où elle a mis les clés ?",
+      "exampleKo": "그녀가 열쇠를 어디에 두었는지 알아?",
+      "exampleNote": ""
     },
     {
-      "word": "a l'heure",
+      "word": "ça dépend",
       "partOfSpeech": "adverb",
-      "meaning": "정시에",
-      "example": "Dans la vraie vie, on fait souvent cela a l'heure quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "de bonne heure",
-      "partOfSpeech": "adverb",
-      "meaning": "일찍",
-      "example": "On entend souvent cette expression, de bonne heure, quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "en meme temps",
-      "partOfSpeech": "adverb",
-      "meaning": "동시에",
-      "example": "On agit souvent en meme temps quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "tranquillement",
-      "partOfSpeech": "adverb",
-      "meaning": "차분하게",
-      "example": "Dans la vraie vie, on fait souvent cela tranquillement quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "petit a petit",
-      "partOfSpeech": "adverb",
-      "meaning": "조금씩",
-      "example": "On entend souvent cette expression, petit a petit, quand je rencontre quelqu'un pour la premiere fois."
-    },
-    {
-      "word": "sur place",
-      "partOfSpeech": "adverb",
-      "meaning": "현장에서",
-      "example": "On agit souvent sur place quand je rencontre quelqu'un pour la premiere fois."
+      "meaning": "상황에 따라 달라",
+      "example": "Tu viens ce soir ? Ça dépend de l’heure de la réunion.",
+      "exampleKo": "오늘 저녁에 올 거야? 회의 시간이 언제 끝나느냐에 따라 달라.",
+      "exampleNote": ""
     }
   ],
   "quiz": [
     {
-      "sentence": "Dans la vraie vie, ____ revient souvent quand je rencontre quelqu'un pour la premiere fois.",
-      "answer": "la conversation",
-      "hint": "대화"
+      "sentence": "Salut, ____ aujourd’hui ?",
+      "answer": "ça va",
+      "hint": "잘 지내?, 괜찮아"
     },
     {
-      "sentence": "Dans la vraie vie, ____ revient souvent quand je rencontre quelqu'un pour la premiere fois.",
-      "answer": "la chambre",
-      "hint": "방"
+      "sentence": "J’étudie le ____ tous les soirs après le dîner.",
+      "answer": "français",
+      "hint": "프랑스어"
     },
     {
-      "sentence": "On rencontre souvent ____ quand je rencontre quelqu'un pour la premiere fois.",
-      "answer": "la methode",
-      "hint": "방법"
+      "sentence": "Le ____ attend sa sœur devant l’école.",
+      "answer": "garçon",
+      "hint": "소년"
     },
     {
-      "sentence": "Dans la vraie vie, ____ revient souvent quand je rencontre quelqu'un pour la premiere fois.",
-      "answer": "la station",
-      "hint": "역"
+      "sentence": "La ____ d’aujourd’hui était plus difficile que celle d’hier.",
+      "answer": "leçon",
+      "hint": "수업"
     },
     {
-      "sentence": "En general, je dois ____ quand je rencontre quelqu'un pour la premiere fois.",
-      "answer": "demander",
-      "hint": "요청하다"
+      "sentence": "Peux-tu ____ la question plus lentement ?",
+      "answer": "répéter",
+      "hint": "반복하다, 다시 말하다"
     },
     {
-      "sentence": "Dans cette scene, nous pouvons ____ sans perdre de temps quand je rencontre quelqu'un pour la premiere fois.",
-      "answer": "ranger",
-      "hint": "정리하다"
+      "sentence": "Je ____ le café sans sucre le matin.",
+      "answer": "préfère",
+      "hint": "더 좋아한다"
     },
     {
-      "sentence": "Il faut parfois ____ naturellement quand je rencontre quelqu'un pour la premiere fois.",
-      "answer": "comparer",
-      "hint": "비교하다"
+      "sentence": "Elle a ____ à finir son travail avant le week-end.",
+      "answer": "réussi",
+      "hint": "성공했다"
     },
     {
-      "sentence": "Rester ____ aide beaucoup quand je rencontre quelqu'un pour la premiere fois.",
-      "answer": "familial",
-      "hint": "가정적인"
+      "sentence": "Ce documentaire est vraiment ____ pour les étudiants.",
+      "answer": "intéressant",
+      "hint": "흥미로운"
     },
     {
-      "sentence": "Dans la vraie vie, on fait souvent cela ____ quand je rencontre quelqu'un pour la premiere fois.",
-      "answer": "d'abord",
-      "hint": "우선"
+      "sentence": "J’ai ____ envoyé le message au professeur.",
+      "answer": "déjà",
+      "hint": "이미"
     },
     {
-      "sentence": "Dans la vraie vie, on fait souvent cela ____ quand je rencontre quelqu'un pour la premiere fois.",
-      "answer": "tranquillement",
-      "hint": "차분하게"
+      "sentence": "La pharmacie est juste ____ la boulangerie.",
+      "answer": "à côté de",
+      "hint": "~옆에"
     }
   ]
 }

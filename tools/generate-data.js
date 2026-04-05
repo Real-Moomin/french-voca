@@ -190,6 +190,66 @@ function exampleFor(partOfSpeech, word, theme, description, day, index) {
     .replace("{situation}", situations[day - 1]);
 }
 
+function exampleKoFor(partOfSpeech, meaning, day, index) {
+  const situationKo = [
+    "처음 누군가를 만날 때",
+    "가족과 저녁을 먹기 전에",
+    "수업 준비를 하는 동안",
+    "도시에서 길을 찾을 때",
+    "가게에서 계산할 때",
+    "카페에서 주문할 때",
+    "몸이 좋지 않을 때",
+    "바쁜 업무 중에",
+    "온라인 파일을 관리할 때",
+    "여행 출발 전날에",
+    "호텔에 도착했을 때",
+    "친한 친구와 이야기할 때",
+    "오늘 날씨를 확인할 때",
+    "문화생활 계획을 세울 때",
+    "공식 서류를 작성할 때",
+    "환경을 더 배려하는 습관 속에서",
+    "지출을 조심할 때",
+    "휴대폰으로 뉴스를 볼 때",
+    "일정에 문제가 생겼을 때",
+    "각자 의견을 말하는 토론 중에",
+    "더 효율적으로 공부하려고 할 때",
+    "사회 생활에 대해 이야기할 때",
+    "여럿이 함께 프로젝트를 할 때",
+    "여러 사람을 위한 행사를 준비할 때",
+    "집을 옮길 때",
+    "불만 있는 고객에게 답할 때",
+    "면접 중에",
+    "안전이 가장 중요한 상황에서",
+    "생각을 더 논리적으로 잇고 싶을 때",
+    "핵심 단어를 다시 복습할 때",
+  ][day - 1];
+
+  const koTemplates = {
+    noun: [
+      `${situationKo} ${meaning} 같은 표현을 자주 보게 된다.`,
+      `실생활에서는 ${situationKo} ${meaning}이 자주 나온다.`,
+      `${situationKo} ${meaning}을 자주 접하게 된다.`,
+    ],
+    verb: [
+      `${situationKo} ${meaning}해야 하는 경우가 많다.`,
+      `${situationKo} 시간을 끌지 않고 ${meaning} 수 있다.`,
+      `${situationKo} 자연스럽게 ${meaning}할 필요가 있다.`,
+    ],
+    adjective: [
+      `${situationKo} ${meaning} 태도가 더 도움이 되는 경우가 많다.`,
+      `${situationKo} ${meaning} 상태를 유지하는 것이 큰 도움이 된다.`,
+      `${situationKo} ${meaning} 태도를 가지면 차이가 난다.`,
+    ],
+    adverb: [
+      `${situationKo} 보통 ${meaning} 행동하게 된다.`,
+      `실생활에서는 ${situationKo} 보통 ${meaning} 하게 된다.`,
+      `${situationKo} ${meaning} 같은 표현을 자주 듣게 된다.`,
+    ],
+  };
+
+  return koTemplates[partOfSpeech][index % koTemplates[partOfSpeech].length];
+}
+
 function buildDay(day) {
   const [title, theme, description] = themes[day - 1];
   const words = [];
@@ -198,10 +258,10 @@ function buildDay(day) {
   const adjectiveSet = take(adjectives, (day - 1) * 3, 10);
   const adverbSet = take(adverbs, (day - 1) * 3, 10);
 
-  nounSet.forEach(([word, meaning], index) => words.push({ word, partOfSpeech: "noun", meaning, example: exampleFor("noun", word, theme, description, day, index) }));
-  verbSet.forEach(([word, meaning], index) => words.push({ word, partOfSpeech: "verb", meaning, example: exampleFor("verb", word, theme, description, day, index) }));
-  adjectiveSet.forEach(([word, meaning], index) => words.push({ word, partOfSpeech: "adjective", meaning, example: exampleFor("adjective", word, theme, description, day, index) }));
-  adverbSet.forEach(([word, meaning], index) => words.push({ word, partOfSpeech: "adverb", meaning, example: exampleFor("adverb", word, theme, description, day, index) }));
+  nounSet.forEach(([word, meaning], index) => words.push({ word, partOfSpeech: "noun", meaning, example: exampleFor("noun", word, theme, description, day, index), exampleKo: exampleKoFor("noun", meaning, day, index), exampleNote: "" }));
+  verbSet.forEach(([word, meaning], index) => words.push({ word, partOfSpeech: "verb", meaning, example: exampleFor("verb", word, theme, description, day, index), exampleKo: exampleKoFor("verb", meaning, day, index), exampleNote: "" }));
+  adjectiveSet.forEach(([word, meaning], index) => words.push({ word, partOfSpeech: "adjective", meaning, example: exampleFor("adjective", word, theme, description, day, index), exampleKo: exampleKoFor("adjective", meaning, day, index), exampleNote: "" }));
+  adverbSet.forEach(([word, meaning], index) => words.push({ word, partOfSpeech: "adverb", meaning, example: exampleFor("adverb", word, theme, description, day, index), exampleKo: exampleKoFor("adverb", meaning, day, index), exampleNote: "" }));
 
   const quizIndexes = [1, 4, 9, 13, 18, 22, 29, 34, 41, 47];
   const quiz = quizIndexes.map((entryIndex) => {

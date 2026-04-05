@@ -16,48 +16,22 @@
           <label class="field-label" for="day-select">Day 선택</label>
           <select id="day-select" aria-label="Day 선택"></select>
         </div>
-        <div class="control-card">
-          <label class="field-label" for="search-input">단어 검색</label>
-          <input id="search-input" type="search" placeholder="프랑스어/뜻으로 검색" />
-        </div>
-        <div class="control-card">
-          <label class="field-label" for="pos-filter">품사 필터</label>
-          <select id="pos-filter" aria-label="품사 필터">
-            <option value="all">전체</option>
-            <option value="noun">명사</option>
-            <option value="verb">동사</option>
-            <option value="adjective">형용사</option>
-            <option value="adverb">부사·표현</option>
-          </select>
-        </div>
-        <button id="theme-toggle" class="ghost-button" type="button">다크모드 전환</button>
-        <nav id="day-list" class="day-list" aria-label="Day 목록"></nav>
       </aside>
 
       <main class="main-panel">
         <section class="hero-card">
-          <div>
-            <p id="day-theme" class="eyebrow"></p>
-            <h2 id="day-title">불러오는 중...</h2>
-            <p id="day-summary" class="hero-summary"></p>
-          </div>
+          <h2 id="day-title">불러오는 중...</h2>
         </section>
 
-        <section class="tab-row" aria-label="콘텐츠 보기">
-          <button class="tab-button is-active" data-view="words" type="button">단어 브라우징</button>
-          <button class="tab-button" data-view="quiz" type="button">빈칸 문제 10개</button>
-        </section>
-
-        <section id="words-view" class="content-view">
+        <section class="content-view">
           <div id="card-grid" class="card-grid"></div>
-          <div class="pagination">
-            <button id="prev-page" type="button">이전</button>
-            <span id="page-status">1 / 1</span>
-            <button id="next-page" type="button">다음</button>
-          </div>
         </section>
 
-        <section id="quiz-view" class="content-view is-hidden">
+        <section class="quiz-section">
+          <div class="section-head">
+            <p class="eyebrow">Quiz</p>
+            <h3>빈칸 문제 10개</h3>
+          </div>
           <div class="quiz-actions">
             <button id="check-quiz" type="button">정답 확인</button>
             <button id="reset-quiz" class="ghost-button" type="button">다시 풀기</button>
@@ -76,6 +50,7 @@
         <h3 class="word-text"></h3>
         <p class="word-meaning"></p>
         <p class="word-example"></p>
+        <p class="word-example-ko"></p>
       </article>
     </template>
 

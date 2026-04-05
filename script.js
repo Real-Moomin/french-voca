@@ -1,35 +1,19 @@
-const WORDS_PER_PAGE = 10;
 const STORAGE_KEY = "french-voca-state";
-const THEME_KEY = "french-voca-theme";
 
 const elements = {
   daySelect: document.querySelector("#day-select"),
-  dayList: document.querySelector("#day-list"),
-  searchInput: document.querySelector("#search-input"),
-  posFilter: document.querySelector("#pos-filter"),
-  themeToggle: document.querySelector("#theme-toggle"),
-  dayTheme: document.querySelector("#day-theme"),
   dayTitle: document.querySelector("#day-title"),
-  daySummary: document.querySelector("#day-summary"),
-  pageStatus: document.querySelector("#page-status"),
-  prevPage: document.querySelector("#prev-page"),
-  nextPage: document.querySelector("#next-page"),
   cardGrid: document.querySelector("#card-grid"),
   quizList: document.querySelector("#quiz-list"),
   checkQuiz: document.querySelector("#check-quiz"),
   resetQuiz: document.querySelector("#reset-quiz"),
   wordCardTemplate: document.querySelector("#word-card-template"),
   quizItemTemplate: document.querySelector("#quiz-item-template"),
-  wordsView: document.querySelector("#words-view"),
-  quizView: document.querySelector("#quiz-view"),
-  tabButtons: document.querySelectorAll(".tab-button"),
 };
 
 const state = {
   manifest: [],
   currentDay: 1,
-  currentPage: 1,
-  activeView: "words",
   currentData: null,
 };
 
@@ -37,11 +21,8 @@ function loadSavedState() {
   try {
     const parsed = JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
     state.currentDay = Number(parsed.currentDay) || 1;
-    state.currentPage = Number(parsed.currentPage) || 1;
-    state.activeView = parsed.activeView === "quiz" ? "quiz" : "words";
   } catch {
     state.currentDay = 1;
-    state.currentPage = 1;
   }
 }
 
@@ -50,25 +31,8 @@ function saveState() {
     STORAGE_KEY,
     JSON.stringify({
       currentDay: state.currentDay,
-      currentPage: state.currentPage,
-      activeView: state.activeView,
     }),
   );
-}
-
-function applyTheme() {
-  const savedTheme = localStorage.getItem(THEME_KEY);
-  if (savedTheme) {
-    document.body.dataset.theme = savedTheme;
-    return;
-  }
-  document.body.dataset.theme = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
-}
-
-function toggleTheme() {
-  const nextTheme = document.body.dataset.theme === "light" ? "dark" : "light";
-  document.body.dataset.theme = nextTheme;
-  localStorage.setItem(THEME_KEY, nextTheme);
 }
 
 async function fetchJson(path) {
@@ -90,83 +54,40 @@ function toPosLabel(partOfSpeech) {
 
 function buildDayNavigation() {
   elements.daySelect.innerHTML = "";
-  elements.dayList.innerHTML = "";
 
   state.manifest.forEach((item) => {
     const option = document.createElement("option");
     option.value = item.day;
     option.textContent = `Day ${String(item.day).padStart(2, "0")} · ${item.title}`;
     elements.daySelect.append(option);
-
-    const button = document.createElement("button");
-    button.type = "button";
-    button.className = "day-link";
-    button.dataset.day = item.day;
-    button.textContent = `Day ${String(item.day).padStart(2, "0")}`;
-    button.addEventListener("click", async () => {
-      state.currentDay = item.day;
-      state.currentPage = 1;
-      saveState();
-      await loadDay();
-    });
-    elements.dayList.append(button);
   });
 }
 
 function syncActiveDayUi() {
   elements.daySelect.value = String(state.currentDay);
-  for (const button of elements.dayList.querySelectorAll(".day-link")) {
-    button.classList.toggle("is-active", Number(button.dataset.day) === state.currentDay);
-  }
-}
-
-function getFilteredWords() {
-  if (!state.currentData) {
-    return [];
-  }
-  const search = elements.searchInput.value.trim().toLowerCase();
-  const pos = elements.posFilter.value;
-
-  return state.currentData.words.filter((item) => {
-    const matchesSearch =
-      !search ||
-      item.word.toLowerCase().includes(search) ||
-      item.meaning.toLowerCase().includes(search) ||
-      item.example.toLowerCase().includes(search);
-    const matchesPos = pos === "all" || item.partOfSpeech === pos;
-    return matchesSearch && matchesPos;
-  });
 }
 
 function renderWords() {
-  const words = getFilteredWords();
-  const totalPages = Math.max(1, Math.ceil(words.length / WORDS_PER_PAGE));
-  state.currentPage = Math.max(1, Math.min(state.currentPage, totalPages));
-
+  const words = state.currentData?.words || [];
   elements.cardGrid.innerHTML = "";
-  const startIndex = (state.currentPage - 1) * WORDS_PER_PAGE;
-  const pageItems = words.slice(startIndex, startIndex + WORDS_PER_PAGE);
 
-  if (!pageItems.length) {
+  if (!words.length) {
     const empty = document.createElement("div");
     empty.className = "empty-state";
-    empty.textContent = "조건에 맞는 단어가 없습니다. 검색어나 품사 필터를 바꿔보세요.";
+    empty.textContent = "표시할 단어가 없습니다.";
     elements.cardGrid.append(empty);
   } else {
-    pageItems.forEach((item, index) => {
+    words.forEach((item, index) => {
       const fragment = elements.wordCardTemplate.content.cloneNode(true);
       fragment.querySelector(".pos-badge").textContent = toPosLabel(item.partOfSpeech);
-      fragment.querySelector(".word-index").textContent = `${startIndex + index + 1}/${words.length}`;
+      fragment.querySelector(".word-index").textContent = `${index + 1}/${words.length}`;
       fragment.querySelector(".word-text").textContent = item.word;
       fragment.querySelector(".word-meaning").textContent = item.meaning;
       fragment.querySelector(".word-example").textContent = item.example;
+      fragment.querySelector(".word-example-ko").textContent = item.exampleKo || "";
       elements.cardGrid.append(fragment);
     });
   }
-
-  elements.pageStatus.textContent = `${state.currentPage} / ${totalPages}`;
-  elements.prevPage.disabled = state.currentPage <= 1;
-  elements.nextPage.disabled = state.currentPage >= totalPages;
   saveState();
 }
 
@@ -213,25 +134,12 @@ function resetQuizAnswers() {
   }
 }
 
-function updateView() {
-  const isWords = state.activeView === "words";
-  elements.wordsView.classList.toggle("is-hidden", !isWords);
-  elements.quizView.classList.toggle("is-hidden", isWords);
-  for (const button of elements.tabButtons) {
-    button.classList.toggle("is-active", button.dataset.view === state.activeView);
-  }
-  saveState();
-}
-
 async function loadDay() {
   syncActiveDayUi();
   state.currentData = await fetchJson(`./data/day${String(state.currentDay).padStart(2, "0")}.json`);
-  elements.dayTheme.textContent = state.currentData.theme;
-  elements.dayTitle.textContent = `Day ${String(state.currentData.day).padStart(2, "0")} · ${state.currentData.title}`;
-  elements.daySummary.textContent = state.currentData.description;
+  elements.dayTitle.textContent = state.currentData.title || `Day ${String(state.currentData.day).padStart(2, "0")}`;
   renderWords();
   renderQuiz();
-  updateView();
 }
 
 async function init() {
@@ -240,51 +148,20 @@ async function init() {
   }
 
   loadSavedState();
-  applyTheme();
   state.manifest = await fetchJson("./data/index.json");
   buildDayNavigation();
   await loadDay();
 
   elements.daySelect.addEventListener("change", async (event) => {
     state.currentDay = Number(event.target.value);
-    state.currentPage = 1;
     saveState();
     await loadDay();
   });
 
-  elements.searchInput.addEventListener("input", () => {
-    state.currentPage = 1;
-    renderWords();
-  });
-
-  elements.posFilter.addEventListener("change", () => {
-    state.currentPage = 1;
-    renderWords();
-  });
-
-  elements.prevPage.addEventListener("click", () => {
-    state.currentPage -= 1;
-    renderWords();
-  });
-
-  elements.nextPage.addEventListener("click", () => {
-    state.currentPage += 1;
-    renderWords();
-  });
-
   elements.checkQuiz.addEventListener("click", checkQuizAnswers);
   elements.resetQuiz.addEventListener("click", resetQuizAnswers);
-  elements.themeToggle.addEventListener("click", toggleTheme);
-
-  for (const button of elements.tabButtons) {
-    button.addEventListener("click", () => {
-      state.activeView = button.dataset.view;
-      updateView();
-    });
-  }
 }
 
 init().catch((error) => {
   elements.dayTitle.textContent = "데이터를 불러오지 못했습니다.";
-  elements.daySummary.textContent = error.message;
 });
