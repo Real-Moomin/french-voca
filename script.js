@@ -1,8 +1,9 @@
 const STORAGE_KEY = "french-voca-state";
 
 const elements = {
-  daySelect: document.querySelector("#day-select"),
   dayTitle: document.querySelector("#day-title"),
+  dayPrev: document.querySelector("#day-prev"),
+  dayNext: document.querySelector("#day-next"),
   cardGrid: document.querySelector("#card-grid"),
   quizList: document.querySelector("#quiz-list"),
   checkQuiz: document.querySelector("#check-quiz"),
@@ -52,19 +53,10 @@ function toPosLabel(partOfSpeech) {
   }[partOfSpeech] || partOfSpeech;
 }
 
-function buildDayNavigation() {
-  elements.daySelect.innerHTML = "";
-
-  state.manifest.forEach((item) => {
-    const option = document.createElement("option");
-    option.value = item.day;
-    option.textContent = `Day ${String(item.day).padStart(2, "0")} · ${item.title}`;
-    elements.daySelect.append(option);
-  });
-}
-
 function syncActiveDayUi() {
-  elements.daySelect.value = String(state.currentDay);
+  const currentIndex = state.manifest.findIndex((item) => item.day === state.currentDay);
+  elements.dayPrev.disabled = currentIndex <= 0;
+  elements.dayNext.disabled = currentIndex < 0 || currentIndex >= state.manifest.length - 1;
 }
 
 function renderWords() {
@@ -79,8 +71,10 @@ function renderWords() {
   } else {
     words.forEach((item, index) => {
       const fragment = elements.wordCardTemplate.content.cloneNode(true);
-      fragment.querySelector(".pos-badge").textContent = toPosLabel(item.partOfSpeech);
-      fragment.querySelector(".word-index").textContent = `${index + 1}/${words.length}`;
+      const badge = fragment.querySelector(".pos-badge");
+      badge.textContent = toPosLabel(item.partOfSpeech);
+      badge.dataset.pos = item.partOfSpeech;
+      fragment.querySelector(".word-index").textContent = `${index + 1}`;
       fragment.querySelector(".word-text").textContent = item.word;
       fragment.querySelector(".word-meaning").textContent = item.meaning;
       fragment.querySelector(".word-example").textContent = item.example;
@@ -138,8 +132,38 @@ async function loadDay() {
   syncActiveDayUi();
   state.currentData = await fetchJson(`./data/day${String(state.currentDay).padStart(2, "0")}.json`);
   elements.dayTitle.textContent = state.currentData.title || `Day ${String(state.currentData.day).padStart(2, "0")}`;
+  syncActiveDayUi();
   renderWords();
   renderQuiz();
+}
+
+function moveDay(offset) {
+  const currentIndex = state.manifest.findIndex((item) => item.day === state.currentDay);
+  const nextItem = state.manifest[currentIndex + offset];
+  if (!nextItem) {
+    return;
+  }
+  state.currentDay = nextItem.day;
+  saveState();
+  loadDay();
+}
+
+async function promptForDay() {
+  const input = window.prompt("이동할 day 번호를 입력하세요.", String(state.currentDay));
+  if (input === null) {
+    return;
+  }
+  const nextDay = Number(input);
+  if (!Number.isInteger(nextDay)) {
+    return;
+  }
+  const matched = state.manifest.find((item) => item.day === nextDay);
+  if (!matched) {
+    return;
+  }
+  state.currentDay = matched.day;
+  saveState();
+  await loadDay();
 }
 
 async function init() {
@@ -149,15 +173,11 @@ async function init() {
 
   loadSavedState();
   state.manifest = await fetchJson("./data/index.json");
-  buildDayNavigation();
   await loadDay();
 
-  elements.daySelect.addEventListener("change", async (event) => {
-    state.currentDay = Number(event.target.value);
-    saveState();
-    await loadDay();
-  });
-
+  elements.dayPrev.addEventListener("click", () => moveDay(-1));
+  elements.dayNext.addEventListener("click", () => moveDay(1));
+  elements.dayTitle.addEventListener("click", promptForDay);
   elements.checkQuiz.addEventListener("click", checkQuizAnswers);
   elements.resetQuiz.addEventListener("click", resetQuizAnswers);
 }
