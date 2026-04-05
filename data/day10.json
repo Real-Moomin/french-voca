@@ -1,0 +1,300 @@
+{
+  "day": 10,
+  "title": "Day 10",
+  "targetLevel": "B2-C1",
+  "useCase": "exam-essay",
+  "words": [
+    {
+      "word": "le raisonnement",
+      "partOfSpeech": "noun",
+      "meaning": "논리 전개",
+      "example": "Dans ce contexte, le raisonnement reste un élément important à clarifier.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 논리 전개을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la nuance",
+      "partOfSpeech": "noun",
+      "meaning": "뉘앙스",
+      "example": "On comprend mieux la situation quand la nuance est bien expliqué.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 뉘앙스이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "l’hypothèse",
+      "partOfSpeech": "noun",
+      "meaning": "가설",
+      "example": "Au moment de décider, l’hypothèse compte beaucoup.",
+      "exampleKo": "결정을 내릴 때 더 섬세하게 입장을 표현할 때 가설이 큰 역할을 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la référence",
+      "partOfSpeech": "noun",
+      "meaning": "참고 기준",
+      "example": "Dans ce contexte, la référence reste un élément important à clarifier.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 참고 기준을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la synthèse",
+      "partOfSpeech": "noun",
+      "meaning": "종합",
+      "example": "On comprend mieux la situation quand la synthèse est bien expliqué.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 종합이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la précision",
+      "partOfSpeech": "noun",
+      "meaning": "정확성",
+      "example": "Au moment de décider, la précision compte beaucoup.",
+      "exampleKo": "결정을 내릴 때 더 섬세하게 입장을 표현할 때 정확성이 큰 역할을 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "la stabilité",
+      "partOfSpeech": "noun",
+      "meaning": "안정성",
+      "example": "Dans ce contexte, la stabilité reste un élément important à clarifier.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 안정성을 분명히 하는 일이 중요하다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "le décalage",
+      "partOfSpeech": "noun",
+      "meaning": "어긋남",
+      "example": "On comprend mieux la situation quand le décalage est bien expliqué.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 어긋남이 잘 설명되면 상황을 더 잘 이해하게 된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "mobiliser",
+      "partOfSpeech": "verb",
+      "meaning": "동원하다",
+      "example": "Il faut souvent mobiliser avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 더 섬세하게 입장을 표현할 때 동원하다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "atténuer",
+      "partOfSpeech": "verb",
+      "meaning": "완화하다",
+      "example": "Dans cette situation, nous devons atténuer avec calme et précision.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 차분하고 정확하게 완화하다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "révéler",
+      "partOfSpeech": "verb",
+      "meaning": "드러내다",
+      "example": "Pour avancer, il vaut mieux révéler dès le début.",
+      "exampleKo": "앞으로 나아가려면 더 섬세하게 입장을 표현할 때 처음부터 드러내다하는 편이 낫다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "trancher",
+      "partOfSpeech": "verb",
+      "meaning": "결정하다",
+      "example": "Il faut souvent trancher avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 더 섬세하게 입장을 표현할 때 결정하다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "interpréter",
+      "partOfSpeech": "verb",
+      "meaning": "해석하다",
+      "example": "Dans cette situation, nous devons interpréter avec calme et précision.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 차분하고 정확하게 해석하다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "formuler",
+      "partOfSpeech": "verb",
+      "meaning": "표현하다",
+      "example": "Pour avancer, il vaut mieux formuler dès le début.",
+      "exampleKo": "앞으로 나아가려면 더 섬세하게 입장을 표현할 때 처음부터 표현하다하는 편이 낫다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "mesurer",
+      "partOfSpeech": "verb",
+      "meaning": "측정하다",
+      "example": "Il faut souvent mesurer avant de proposer une solution crédible.",
+      "exampleKo": "믿을 만한 해결책을 제시하기 전에 더 섬세하게 입장을 표현할 때 측정하다할 필요가 있다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "mettre en évidence",
+      "partOfSpeech": "verb",
+      "meaning": "분명히 드러내다",
+      "example": "Dans cette situation, nous devons mettre en évidence avec calme et précision.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 차분하고 정확하게 분명히 드러내다해야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "contrastif",
+      "partOfSpeech": "adjective",
+      "meaning": "대조적인",
+      "example": "Une réponse contrastif rassure davantage tout le monde.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 대조적인 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "stimulant",
+      "partOfSpeech": "adjective",
+      "meaning": "자극이 되는",
+      "example": "Dans un exposé, un argument stimulant a plus d’impact.",
+      "exampleKo": "발표에서는 더 섬세하게 입장을 표현할 때 자극이 되는 논거가 더 큰 힘을 가진다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "résistant",
+      "partOfSpeech": "adjective",
+      "meaning": "견고한",
+      "example": "Un ton résistant aide à rendre le message plus clair.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 견고한 태도는 메시지를 더 분명하게 만든다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "instable",
+      "partOfSpeech": "adjective",
+      "meaning": "불안정한",
+      "example": "Une réponse instable rassure davantage tout le monde.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 불안정한 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "cohérent",
+      "partOfSpeech": "adjective",
+      "meaning": "일관된",
+      "example": "Dans un exposé, un argument cohérent a plus d’impact.",
+      "exampleKo": "발표에서는 더 섬세하게 입장을 표현할 때 일관된 논거가 더 큰 힘을 가진다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "pertinent",
+      "partOfSpeech": "adjective",
+      "meaning": "적절한",
+      "example": "Un ton pertinent aide à rendre le message plus clair.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 적절한 태도는 메시지를 더 분명하게 만든다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "fiable",
+      "partOfSpeech": "adjective",
+      "meaning": "믿을 만한",
+      "example": "Une réponse fiable rassure davantage tout le monde.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 믿을 만한 답변은 사람들을 더 안심시킨다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "dans ce cadre",
+      "partOfSpeech": "adverb",
+      "meaning": "이 틀 안에서",
+      "example": "dans ce cadre, il faut revoir notre position.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 이 틀 안에서 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "au fond",
+      "partOfSpeech": "adverb",
+      "meaning": "결국",
+      "example": "Cette idée revient au fond dans les discussions récentes.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 이런 생각은 결국 반복해서 등장한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "en ce sens",
+      "partOfSpeech": "adverb",
+      "meaning": "그런 의미에서",
+      "example": "Le projet avance en ce sens si chacun connaît son rôle.",
+      "exampleKo": "각자 역할을 알면 더 섬세하게 입장을 표현할 때 계획은 그런 의미에서 진행된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "dans la durée",
+      "partOfSpeech": "adverb",
+      "meaning": "장기적으로",
+      "example": "dans la durée, il faut revoir notre position.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 장기적으로 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "néanmoins",
+      "partOfSpeech": "adverb",
+      "meaning": "그럼에도 불구하고",
+      "example": "Cette idée revient néanmoins dans les discussions récentes.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 이런 생각은 그럼에도 불구하고 반복해서 등장한다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "pour autant",
+      "partOfSpeech": "adverb",
+      "meaning": "그렇다고 해서",
+      "example": "Le projet avance pour autant si chacun connaît son rôle.",
+      "exampleKo": "각자 역할을 알면 더 섬세하게 입장을 표현할 때 계획은 그렇다고 해서 진행된다.",
+      "exampleNote": ""
+    },
+    {
+      "word": "d’ailleurs",
+      "partOfSpeech": "adverb",
+      "meaning": "게다가",
+      "example": "d’ailleurs, il faut revoir notre position.",
+      "exampleKo": "더 섬세하게 입장을 표현할 때 게다가 관점을 다시 살펴봐야 한다.",
+      "exampleNote": ""
+    }
+  ],
+  "quiz": [
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "la nuance",
+      "hint": "뉘앙스"
+    },
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "la synthèse",
+      "hint": "종합"
+    },
+    {
+      "sentence": "On comprend mieux la situation quand ____ est bien expliqué.",
+      "answer": "le décalage",
+      "hint": "어긋남"
+    },
+    {
+      "sentence": "Pour avancer, il vaut mieux ____ dès le début.",
+      "answer": "révéler",
+      "hint": "드러내다"
+    },
+    {
+      "sentence": "Pour avancer, il vaut mieux ____ dès le début.",
+      "answer": "formuler",
+      "hint": "표현하다"
+    },
+    {
+      "sentence": "Une réponse ____ rassure davantage tout le monde.",
+      "answer": "contrastif",
+      "hint": "대조적인"
+    },
+    {
+      "sentence": "Dans un exposé, un argument ____ a plus d’impact.",
+      "answer": "cohérent",
+      "hint": "일관된"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "dans ce cadre",
+      "hint": "이 틀 안에서"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "dans la durée",
+      "hint": "장기적으로"
+    },
+    {
+      "sentence": "____, il faut revoir notre position.",
+      "answer": "d’ailleurs",
+      "hint": "게다가"
+    }
+  ]
+}
